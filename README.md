@@ -31,11 +31,17 @@ Framed as a data science task, this is a binary classification problem: given be
 ├── data_request/
 │   ├── STADIOEquities_Data_Request.pdf # Formal data request (Part C)
 │   └── configuration files/             # Data request configuration material
-├── experiments/                        # Experimental notebooks and configuration files
+├── experiments/
+│   ├── configs/                         # Model and experiment configuration files
+│   └── notebooks/                       # Notebooks documenting experimental runs
 ├── findings/
-│   └── scripts/                        # Scripts supporting analysis and findings
+│   └── scripts/
+│       ├── stats/                       # Statistical helper and comparison scripts
+│       └── viz/                         # Visualisation scripts
 ├── models/                              # Saved trained models and model artefacts
-├── results/                             # Metrics, plots, and experiment reports
+├── results/
+│   ├── metrics/                         # Performance metrics per experiment or model
+│   └── reports/                         # Written summaries of findings
 └── requirements.txt                     # Python dependencies
 ```
 
@@ -47,9 +53,10 @@ Where each required artefact lives:
 | --- | --- |
 | Datasets | `Data/raw/`, `Data/processed/` |
 | Models | `models/` |
-| Experimental setup | `experiments/` |
-| Findings and analysis scripts | `findings/scripts/` |
-| Experimental results | `results/` |
+| Experimental setup | `experiments/configs/`, `experiments/notebooks/` |
+| Statistical helper scripts | `findings/scripts/stats/` |
+| Visualisation scripts | `findings/scripts/viz/` |
+| Experimental results | `results/metrics/`, `results/reports/` |
 | Data request (Part C) | `data_request/` |
 
 4. RAAIDD Log
