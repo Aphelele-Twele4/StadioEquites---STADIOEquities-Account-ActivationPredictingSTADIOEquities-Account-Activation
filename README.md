@@ -69,3 +69,6 @@ Where each required artefact lives:
 | **Issues** | 1. Historical KYC-completion timestamps may be missing or incomplete for some older accounts, delaying calculation of onboarding-duration features.<br>2. The reasons some historical accounts were closed may not be documented, making those accounts unsafe to label until clarified with the client. |
 | **Decisions** | 1. Use a 90-day post-registration outcome window to align with STADIOEquities' definition of a "funded & active" account.<br>2. Treat "never funded" and "funded, then dormant within 6 months" as separate outcome classes because activation and retention have different drivers. |
 | **Dependencies** | 1. Feature engineering depends on confirming the account-ID join across all four data sources.<br>2. The class-imbalance trial depends on validating the outcome label against the platform's reported conversion rate.<br>3. Stakeholder sign-off on the modelling approach depends on the feature-importance checkpoint review. |
+
+
+https://anara.com/aphelele-twele?checkDevice=true&chat=jBe8YRPk_iXJW_BzmuoaF
