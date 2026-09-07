@@ -20,63 +20,45 @@ Can a predictive model, built on STADIOEquities' app and web behavioural data, o
 
 Framed as a data science task, this is a binary classification problem: given behavioural, funding, and demographic features captured up to a defined early checkpoint (e.g. day 7 or day 14 post-registration), predict whether an account will go on to fund and remain active within a defined outcome window (e.g. 90 days). Historical account-level outcomes (funded/never-funded, active/dormant) provide the labels needed to train and validate the model using standard supervised learning techniques.
 
-3. STADIOEquities-Activation-Capstone/
-│
-├── README.md                  # This file — motivation, problem statement, repo guide
-│
-├── data/                      # All datasets requested from and supplied by the client
-│   ├── raw/                   # Unmodified data as received from STADIOEquities
-│   └── processed/             # Cleaned, joined, and feature-engineered datasets
-│
-├── data_request/              # The formal data request document (Part C)
-│   └── STADIOEquities_Data_Request.pdf
-│
-├── models/                    # Saved/serialised trained models and model artefacts
-│
-├── experiments/               # Experimental setup
-│   ├── configs/                # Model/experiment configuration files
-│   └── notebooks/              # Notebooks documenting each experimental run
-│
-├── results/                   # Experimental results
-│   ├── metrics/                 # Performance metrics per experiment/model
-│   └── reports/                 # Written summaries of findings
-│
-├── scripts/
-│   ├── stats/                  # Statistical helper and comparison scripts
-│   └── viz/                    # Visualisation scripts
-│
-└── requirements.txt           # Python dependencies
+3. Repository Structure
 
+```
+.
+├── README.md                           # Project overview and repository guide
+├── Data/
+│   ├── raw/                            # Unmodified data received from STADIOEquities
+│   └── processed/                      # Cleaned and feature-engineered datasets
+├── data_request/
+│   ├── STADIOEquities_Data_Request.pdf # Formal data request (Part C)
+│   └── configuration files/             # Data request configuration material
+├── experiments/                        # Experimental notebooks and configuration files
+├── findings/
+│   └── scripts/                        # Scripts supporting analysis and findings
+├── models/                              # Saved trained models and model artefacts
+├── results/                             # Metrics, plots, and experiment reports
+└── requirements.txt                     # Python dependencies
+```
 
+The project directories are working areas. Files will be added to their relevant directories as the project progresses.
 
 Where each required artefact lives:
 
-Artefact	Location
-Datasets	data/raw/, data/processed/
-Models	models/
-Experimental setup	experiments/configs/, experiments/notebooks/
-Experimental results	results/metrics/, results/reports/
-Statistical helper & comparison scripts	scripts/stats/
-Visualisation scripts	scripts/viz/
-Data request (Part C)	data_request/
+| Artefact | Location |
+| --- | --- |
+| Datasets | `Data/raw/`, `Data/processed/` |
+| Models | `models/` |
+| Experimental setup | `experiments/` |
+| Findings and analysis scripts | `findings/scripts/` |
+| Experimental results | `results/` |
+| Data request (Part C) | `data_request/` |
 
 4. RAAIDD Log
-RAAIDD Element	Project-Specific Entries
-Risks	1. Behavioural logging may not extend far back enough to cover first-session activity for accounts registered before tracking began, shrinking the usable training sample for the earliest cohorts.
-2. Class imbalance: with only 41% of historical accounts ever funding — and that rate declining — a model trained naively could default toward predicting "will not activate" and miss the accounts most worth targeting.
-3. Because "identity spans app and web sessions" per the briefing pack, behavioural events from the two platforms may not join cleanly to a single account ID, leaving gaps in onboarding-step histories.
-4. If STADIOEquities changes its onboarding flow or KYC steps during the project, historically-derived step-level features may not transfer to the live flow at deployment.
-Actions	1. Profile and document the account-ID join across the Account & Registration, Behavioural, Demographics, and Marketing extracts in the first project week, before feature engineering starts.
-2. Reconstruct the "funded within 90 days" outcome label from the raw data and cross-check it against the platform's reported 59% conversion rate to confirm the extract is representative.
-3. Run and document a comparison of class-imbalance techniques (e.g. class weighting vs. SMOTE) in results/reports/ before committing to a final modelling approach.
-4. Hold a checkpoint review with the STADIOEquities analytics stakeholder once early feature-importance results are available.
-Assumptions	1. That account IDs are consistent and joinable across all four requested data sources once pseudonymised.
-2. That the onboarding flow, KYC steps, and nudge schedule will remain materially unchanged for the project's duration, so historical patterns still hold for new registrations.
-3. That "activation" is best operationalised as a first deposit within 90 days of registration, consistent with the platform's own "funded & active" definition (traded or held in the last 90 days).
-Issues	1. Historical KYC-completion timestamps may be missing or incomplete for a subset of older accounts, which would delay reliable calculation of onboarding-duration features until clarified with the client.
-2. It may not be documented why some historical accounts were closed (e.g. compliance action vs. voluntary churn), which would need resolving before those accounts can be safely labelled.
-Decisions	1. Decision to define the prediction outcome window as 90 days post-registration, rather than 30 or 180 days, to align with STADIOEquities' own definition of a "funded & active" account.
-2. Decision to treat "never funded" and "funded, then dormant within 6 months" as two separate outcome classes rather than one combined "inactive" class, since the briefing pack frames activation and retention as distinct problems with different drivers.
-Dependencies	1. Feature engineering depends on the account-ID join across all four data sources being profiled and confirmed (Action 1).
-2. The class-imbalance mitigation trial depends on the outcome label first being validated against the platform's reported conversion rate (Action 2).
-3. Stakeholder sign-off on the modelling approach depends on the feature-importance checkpoint review (Action 4) having taken place.
+
+| RAAIDD Element | Project-Specific Entries |
+| --- | --- |
+| **Risks** | 1. Behavioural logging may not extend far enough back to cover first-session activity for accounts registered before tracking began, shrinking the usable training sample for the earliest cohorts.<br>2. Class imbalance may cause a naively trained model to predict that most accounts will not activate and miss the accounts most worth targeting.<br>3. Behavioural events from the app and web platforms may not join cleanly to a single account ID, leaving gaps in onboarding-step histories.<br>4. Changes to the onboarding flow or KYC steps may reduce the transferability of historically derived features at deployment. |
+| **Actions** | 1. Profile and document the account-ID join across the Account & Registration, Behavioural, Demographics, and Marketing extracts before feature engineering starts.<br>2. Reconstruct the "funded within 90 days" outcome label and compare it with the platform's reported 59% conversion rate.<br>3. Compare class-imbalance techniques, such as class weighting and SMOTE, and document the results in `results/` before selecting the final modelling approach.<br>4. Hold a checkpoint review with the STADIOEquities analytics stakeholder once early feature-importance results are available. |
+| **Assumptions** | 1. Account IDs are consistent and joinable across all four requested data sources once pseudonymised.<br>2. The onboarding flow, KYC steps, and nudge schedule will remain materially unchanged during the project.<br>3. Activation is operationalised as a first deposit within 90 days of registration, consistent with the platform's "funded & active" definition. |
+| **Issues** | 1. Historical KYC-completion timestamps may be missing or incomplete for some older accounts, delaying calculation of onboarding-duration features.<br>2. The reasons some historical accounts were closed may not be documented, making those accounts unsafe to label until clarified with the client. |
+| **Decisions** | 1. Use a 90-day post-registration outcome window to align with STADIOEquities' definition of a "funded & active" account.<br>2. Treat "never funded" and "funded, then dormant within 6 months" as separate outcome classes because activation and retention have different drivers. |
+| **Dependencies** | 1. Feature engineering depends on confirming the account-ID join across all four data sources.<br>2. The class-imbalance trial depends on validating the outcome label against the platform's reported conversion rate.<br>3. Stakeholder sign-off on the modelling approach depends on the feature-importance checkpoint review. |
