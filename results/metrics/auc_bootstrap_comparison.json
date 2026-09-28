@@ -1,0 +1,7 @@
+{
+  "mean_diff_rf_minus_logreg": 0.003997414943395847,
+  "ci_lower_2_5pct": -0.005106703628417028,
+  "ci_upper_97_5pct": 0.013179275397879383,
+  "n_bootstrap": 2000,
+  "excludes_zero": false
+}
