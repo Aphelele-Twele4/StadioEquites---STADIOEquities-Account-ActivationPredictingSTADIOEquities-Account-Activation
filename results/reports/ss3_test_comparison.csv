@@ -1,0 +1,6 @@
+,accuracy,precision,recall,f1,roc_auc,pr_auc,brier
+No-skill (prior rate),0.7698,0.0,0.0,0.0,0.5,0.2302,0.1819
+Rule: KYC done in 48 h,0.7558,0.4815,0.7879,0.5977,0.7671,0.4282,0.2442
+Logistic Regression (SS2 M1),0.7465,0.4699,0.7879,0.5887,0.8106,0.5359,0.1728
+Random Forest (final),0.7628,0.4909,0.8182,0.6136,0.8199,0.5387,0.1729
+"Random Forest, calibrated",0.7767,0.5099,0.7778,0.616,0.8178,0.5383,0.137

@@ -1,0 +1,3600 @@
+account_id,acquisition_channel,campaign_name,acquisition_cost,onboarding_nudge_sent_count,last_nudge_engagement
+acc_00019003,Organic search,,2574,8,Clicked
+acc_00019004,App store,Q3_Payday_2024,10989,5,No engagement
+acc_00019005,Paid search,Q2_TaxFree_2024,13928,0,No engagement
+acc_00019006,App store,Q4_Festive_2025,17426,6,No engagement
+acc_00019007,Direct,,1126,2,No engagement
+acc_00019009,Paid social,Referral_Evergreen,29301,1,Clicked
+acc_00019010,Paid search,Q1_YouthInvest_2025,8702,6,Clicked
+acc_00019012,Referral,,9397,2,No engagement
+acc_00019016,Referral,,1875,6,Opened
+acc_00019017,Email,Q2_Offshore_2025,43648,2,Opened
+acc_00019018,Paid search,Q3_Payday_2025,18355,5,Opened
+acc_00019020,Paid social,Q1_YouthInvest_2025,46487,8,No engagement
+acc_00019021,App store,Q1_YouthInvest_2025,19265,1,No engagement
+acc_00019023,App store,Q1_YouthInvest_2024,12579,6,Clicked
+acc_00019024,Paid search,Q4_Festive_2025,29153,8,Opened
+acc_00019025,Paid social,Referral_Evergreen,5146,4,No engagement
+acc_00019026,Paid social,Q1_YouthInvest_2025,35896,4,No engagement
+acc_00019028,App store,Referral_Evergreen,42905,4,Opened
+acc_00019029,Referral,,3296,7,Opened
+acc_00019032,Paid search,Q4_Festive_2024,20261,2,No engagement
+acc_00019033,Email,Q2_Offshore_2025,8131,1,Opened
+acc_00019034,Organic search,,3714,4,Clicked
+acc_00019035,Referral,,6795,4,Opened
+acc_00019036,Organic search,,1642,4,No engagement
+acc_00019038,Organic search,,7288,5,Opened
+acc_00019040,Paid search,AlwaysOn_Search,69146,6,Clicked
+acc_00019041,Paid social,Q3_Payday_2025,20696,8,No engagement
+acc_00019042,Paid social,Q4_Festive_2024,21068,5,Clicked
+acc_00019043,Paid social,Q3_Payday_2025,19171,3,No engagement
+acc_00019045,Paid social,Q1_YouthInvest_2024,41781,6,No engagement
+acc_00019046,Paid search,AlwaysOn_Search,25141,6,No engagement
+acc_00019048,Paid social,Q1_StartSmall_2026,4705,9,No engagement
+acc_00019049,Paid social,Q2_TaxFree_2024,19732,2,Opened
+acc_00019052,Direct,,3428,4,Opened
+acc_00019053,App store,Q2_Offshore_2025,18947,1,Opened
+acc_00019055,App store,Q4_Festive_2024,18809,4,Opened
+acc_00019056,App store,Q2_TaxFree_2024,39032,6,No engagement
+acc_00019057,App store,Q1_YouthInvest_2025,20328,6,No engagement
+acc_00019058,Paid social,Q4_Festive_2024,33236,7,Opened
+acc_00019060,Paid social,Referral_Evergreen,22430,3,Clicked
+acc_00019061,Paid search,Q4_Festive_2025,81512,12,No engagement
+acc_00019062,Influencer,Q3_Payday_2024,21567,3,Opened
+acc_00019063,Email,AlwaysOn_Search,14131,2,No engagement
+acc_00019065,Direct,,4551,3,Clicked
+acc_00019066,Direct,,2420,7,Clicked
+acc_00019067,Organic search,,3291,5,Opened
+acc_00019068,Paid social,Q4_Festive_2025,21476,6,No engagement
+acc_00019069,Paid search,Referral_Evergreen,30582,7,Opened
+acc_00019071,Referral,,4162,6,Clicked
+acc_00019072,Paid social,AlwaysOn_Search,9937,4,No engagement
+acc_00019074,Influencer,AlwaysOn_Search,29177,1,No engagement
+acc_00019075,Email,Q3_Payday_2024,29017,3,Clicked
+acc_00019076,Influencer,Q1_YouthInvest_2025,17697,7,No engagement
+acc_00019077,App store,Q3_Payday_2025,23007,5,Opened
+acc_00019079,Paid social,Q1_YouthInvest_2024,26802,9,Clicked
+acc_00019081,Paid social,Q2_TaxFree_2024,9760,5,No engagement
+acc_00019083,Paid search,Q2_Offshore_2025,17176,6,No engagement
+acc_00019085,Direct,,3142,4,Opened
+acc_00019087,Paid search,Q1_YouthInvest_2025,12448,6,No engagement
+acc_00019088,Email,Q4_Festive_2025,11179,0,No engagement
+acc_00019089,Paid search,Q4_Festive_2024,7667,8,No engagement
+acc_00019091,App store,Q4_Festive_2024,28931,6,Clicked
+acc_00019095,Organic search,,3003,5,Opened
+acc_00019096,Paid search,Q4_Festive_2025,17577,1,Opened
+acc_00019097,Paid social,Q2_TaxFree_2026,14838,3,No engagement
+acc_00019098,Direct,,2236,2,Clicked
+acc_00019099,Referral,,3150,1,Clicked
+acc_00019100,Referral,,6715,4,Opened
+acc_00019101,Organic search,,8012,5,No engagement
+acc_00019104,Paid search,Q2_TaxFree_2024,23376,2,No engagement
+acc_00019105,Paid search,Q2_TaxFree_2024,11583,2,Opened
+acc_00019107,Organic search,,2911,5,Clicked
+acc_00019109,Paid search,Q4_Festive_2024,9275,2,No engagement
+acc_00019110,Paid social,Q1_YouthInvest_2025,12746,5,Opened
+acc_00019111,Paid social,Q2_TaxFree_2026,19931,5,Opened
+acc_00019112,Paid social,AlwaysOn_Search,25799,3,Opened
+acc_00019113,Paid social,Q1_YouthInvest_2025,8810,6,Opened
+acc_00019115,Paid social,AlwaysOn_Search,12209,3,No engagement
+acc_00019116,Paid search,Q1_StartSmall_2026,3889,6,No engagement
+acc_00019117,Referral,,2739,3,Opened
+acc_00019118,Paid social,Q1_YouthInvest_2024,10144,7,No engagement
+acc_00019119,Email,Q1_StartSmall_2026,14748,8,Opened
+acc_00019120,Paid social,Q2_Offshore_2025,17446,5,Opened
+acc_00019121,Organic search,,3154,5,No engagement
+acc_00019122,Paid social,Referral_Evergreen,35131,3,No engagement
+acc_00019124,Referral,,5654,5,Opened
+acc_00019125,App store,Referral_Evergreen,14906,4,No engagement
+acc_00019126,Paid social,Q2_TaxFree_2026,11102,4,Opened
+acc_00019127,Organic search,,7044,8,Opened
+acc_00019128,Organic search,,1053,3,Opened
+acc_00019129,Organic search,,2038,6,Opened
+acc_00019130,Referral,,4090,4,No engagement
+acc_00019131,Paid social,Q3_Payday_2025,24072,6,Clicked
+acc_00019132,Referral,,5533,6,No engagement
+acc_00019133,Paid search,Q3_Payday_2025,20132,6,No engagement
+acc_00019135,Organic search,,1896,7,Clicked
+acc_00019136,Paid search,Q1_StartSmall_2026,14102,5,Opened
+acc_00019137,Influencer,Q3_Payday_2025,12868,8,Opened
+acc_00019139,Referral,,3509,9,No engagement
+acc_00019140,Paid social,Q3_Payday_2024,19052,4,No engagement
+acc_00019142,Paid social,Q1_YouthInvest_2024,8106,3,Opened
+acc_00019143,Direct,,3212,3,No engagement
+acc_00019144,Organic search,,1419,3,No engagement
+acc_00019146,Paid search,Q1_YouthInvest_2024,33763,1,Clicked
+acc_00019147,Referral,,2473,2,No engagement
+acc_00019149,Influencer,Q1_StartSmall_2026,12391,2,No engagement
+acc_00019151,Paid search,Q3_Payday_2024,37363,6,Opened
+acc_00019153,Influencer,Q1_StartSmall_2026,8466,4,Opened
+acc_00019154,Direct,,1746,3,No engagement
+acc_00019155,App store,Q4_Festive_2024,14970,5,No engagement
+acc_00019156,Organic search,,3515,1,No engagement
+acc_00019157,Organic search,,3814,6,Clicked
+acc_00019159,Email,Q4_Festive_2024,16125,6,No engagement
+acc_00019160,App store,Q2_TaxFree_2026,7972,5,Opened
+acc_00019162,Organic search,,5499,8,Opened
+acc_00019165,App store,Q4_Festive_2025,27234,3,No engagement
+acc_00019166,Organic search,,6929,4,No engagement
+acc_00019167,Direct,,3201,3,Opened
+acc_00019168,Paid search,Q1_YouthInvest_2025,29509,5,Opened
+acc_00019170,Organic search,,6641,6,Clicked
+acc_00019171,Paid social,Q4_Festive_2024,14216,6,No engagement
+acc_00019177,Paid social,Q4_Festive_2025,26298,3,Clicked
+acc_00019180,Paid search,Q2_Offshore_2025,17767,6,Clicked
+acc_00019181,Email,Q3_Payday_2025,15041,3,Clicked
+acc_00019182,Email,Q3_Payday_2024,16238,6,Clicked
+acc_00019183,Paid search,Q1_YouthInvest_2024,13520,3,No engagement
+acc_00019188,App store,Referral_Evergreen,6058,3,Clicked
+acc_00019189,Paid search,Q4_Festive_2025,14559,2,No engagement
+acc_00019191,Organic search,,1826,6,Opened
+acc_00019193,Referral,,3384,6,Opened
+acc_00019194,Paid search,AlwaysOn_Search,18590,4,No engagement
+acc_00019195,Paid social,Q3_Payday_2024,23506,6,Opened
+acc_00019196,Organic search,,4067,4,Opened
+acc_00019198,Organic search,,6343,5,Opened
+acc_00019201,Organic search,,2645,3,No engagement
+acc_00019202,Email,Q3_Payday_2024,58884,5,No engagement
+acc_00019203,Referral,,2891,4,No engagement
+acc_00019206,Paid search,Q4_Festive_2025,11055,6,Opened
+acc_00019208,Paid search,Q1_YouthInvest_2025,17676,4,Clicked
+acc_00019209,Organic search,,3464,3,Opened
+acc_00019210,Organic search,,3520,6,Clicked
+acc_00019212,Referral,,5054,6,Clicked
+acc_00019214,Paid social,Q4_Festive_2024,15813,2,Clicked
+acc_00019215,Paid search,Q3_Payday_2025,27036,8,Opened
+acc_00019216,Paid search,Q4_Festive_2025,23970,4,No engagement
+acc_00019217,Paid social,Q4_Festive_2024,8081,5,Opened
+acc_00019218,Direct,,1066,5,Opened
+acc_00019219,App store,Q3_Payday_2024,9103,3,No engagement
+acc_00019220,Email,AlwaysOn_Search,11895,4,Clicked
+acc_00019222,App store,Q2_Offshore_2025,7311,4,Clicked
+acc_00019224,Paid search,Referral_Evergreen,34266,3,No engagement
+acc_00019225,Paid social,Q1_YouthInvest_2024,12287,5,Opened
+acc_00019227,Email,Q1_YouthInvest_2025,14210,8,No engagement
+acc_00019228,Organic search,,1377,2,Opened
+acc_00019229,Referral,,6604,1,Clicked
+acc_00019230,Email,Referral_Evergreen,22779,1,Opened
+acc_00019232,Referral,,5514,3,Clicked
+acc_00019234,App store,Q3_Payday_2024,16372,4,No engagement
+acc_00019235,Paid search,Q4_Festive_2025,15506,4,Opened
+acc_00019236,App store,Q1_YouthInvest_2025,28658,8,Clicked
+acc_00019237,Organic search,,1563,5,Clicked
+acc_00019238,Paid social,Q4_Festive_2025,29747,8,Opened
+acc_00019239,Referral,,3793,6,Clicked
+acc_00019240,Email,Q3_Payday_2025,25148,1,Clicked
+acc_00019244,Paid social,Q1_StartSmall_2026,6843,3,Clicked
+acc_00019245,Paid social,Q3_Payday_2024,23622,6,Opened
+acc_00019246,Paid search,Q1_StartSmall_2026,20153,2,Clicked
+acc_00019247,Paid social,AlwaysOn_Search,23499,1,No engagement
+acc_00019249,Direct,,10081,4,Opened
+acc_00019250,Influencer,Q1_YouthInvest_2025,19200,5,Clicked
+acc_00019251,Paid search,Q3_Payday_2025,31243,6,Opened
+acc_00019252,Email,Q2_TaxFree_2026,11259,5,No engagement
+acc_00019253,Paid search,Q4_Festive_2024,38440,5,Opened
+acc_00019254,Paid social,Q3_Payday_2025,19369,2,Opened
+acc_00019255,Email,Q4_Festive_2025,24039,9,Clicked
+acc_00019256,Paid social,Q1_YouthInvest_2025,18776,4,Opened
+acc_00019257,Referral,,4893,6,No engagement
+acc_00019259,Paid social,Q3_Payday_2024,22004,4,No engagement
+acc_00019260,Referral,,2736,5,Opened
+acc_00019264,Direct,,5972,7,No engagement
+acc_00019265,Direct,,1860,2,Clicked
+acc_00019266,Paid search,Referral_Evergreen,10465,5,No engagement
+acc_00019267,Paid social,Q4_Festive_2024,12311,6,No engagement
+acc_00019268,Email,Q4_Festive_2024,17782,3,Clicked
+acc_00019269,Direct,,3577,7,No engagement
+acc_00019270,Referral,,3235,6,Clicked
+acc_00019271,Email,Q4_Festive_2024,12178,6,No engagement
+acc_00019272,App store,AlwaysOn_Search,16631,4,No engagement
+acc_00019274,Organic search,,4775,6,Clicked
+acc_00019275,Paid search,Q2_Offshore_2025,8089,4,No engagement
+acc_00019276,Organic search,,7088,3,No engagement
+acc_00019279,Referral,,4053,3,Clicked
+acc_00019280,Influencer,Q3_Payday_2025,15738,4,Opened
+acc_00019282,Email,Q2_TaxFree_2026,15139,4,Opened
+acc_00019283,Organic search,,2793,4,No engagement
+acc_00019284,Organic search,,3294,4,No engagement
+acc_00019285,Paid search,Q3_Payday_2024,5225,4,No engagement
+acc_00019287,Paid search,Q3_Payday_2024,14927,4,No engagement
+acc_00019290,Organic search,,3141,6,Opened
+acc_00019291,Paid search,Referral_Evergreen,9975,5,Clicked
+acc_00019292,Direct,,2660,3,Clicked
+acc_00019293,Email,Q3_Payday_2025,8158,5,No engagement
+acc_00019294,Organic search,,5670,7,Clicked
+acc_00019295,Paid social,Referral_Evergreen,15364,5,Clicked
+acc_00019298,Paid search,Q4_Festive_2024,35266,6,No engagement
+acc_00019300,Referral,,5176,5,No engagement
+acc_00019301,Paid social,Q3_Payday_2024,17014,5,Opened
+acc_00019303,Organic search,,3564,6,Clicked
+acc_00019304,Organic search,,14547,6,Clicked
+acc_00019305,Organic search,,4922,6,Opened
+acc_00019308,Email,Q1_YouthInvest_2024,31678,7,Clicked
+acc_00019310,Email,Q3_Payday_2024,13605,6,Clicked
+acc_00019311,Paid social,Q2_TaxFree_2026,23473,4,Clicked
+acc_00019312,Email,Q1_YouthInvest_2024,35750,4,Opened
+acc_00019314,Paid social,Q3_Payday_2024,11957,4,No engagement
+acc_00019315,Paid social,Referral_Evergreen,33364,5,Clicked
+acc_00019317,Paid search,Q4_Festive_2024,13928,2,No engagement
+acc_00019318,Paid social,Q4_Festive_2024,9043,6,Clicked
+acc_00019319,Paid social,Q4_Festive_2025,29758,2,No engagement
+acc_00019320,Paid search,Q2_Offshore_2025,21277,6,Opened
+acc_00019322,Organic search,,3335,5,No engagement
+acc_00019323,Paid search,Q4_Festive_2025,12007,5,Clicked
+acc_00019324,App store,Q2_TaxFree_2024,14287,7,Opened
+acc_00019326,Paid search,Q3_Payday_2025,19824,7,Clicked
+acc_00019327,Organic search,,1929,7,Opened
+acc_00019328,App store,AlwaysOn_Search,6970,6,Clicked
+acc_00019329,Email,Q3_Payday_2024,18908,2,Clicked
+acc_00019330,Paid social,Q3_Payday_2024,41185,5,No engagement
+acc_00019331,Direct,,4380,4,Clicked
+acc_00019332,Direct,,6221,5,No engagement
+acc_00019333,Paid social,Q4_Festive_2025,22776,6,Opened
+acc_00019334,App store,Q1_YouthInvest_2025,19132,8,Clicked
+acc_00019335,Influencer,Q1_YouthInvest_2024,12241,1,No engagement
+acc_00019336,Paid social,Q1_StartSmall_2026,33987,6,Opened
+acc_00019337,Paid social,Q1_StartSmall_2026,64984,7,Opened
+acc_00019339,Organic search,,2169,3,No engagement
+acc_00019341,Referral,,1598,1,No engagement
+acc_00019342,Organic search,,4211,9,Clicked
+acc_00019343,Direct,,2332,3,Clicked
+acc_00019344,Email,Q1_YouthInvest_2025,22651,3,No engagement
+acc_00019345,Organic search,,5999,4,No engagement
+acc_00019347,Referral,,2249,1,Opened
+acc_00019348,Influencer,Q3_Payday_2025,8373,6,No engagement
+acc_00019349,Paid search,Q3_Payday_2024,18346,6,No engagement
+acc_00019350,Referral,,4133,5,Opened
+acc_00019351,Paid social,Referral_Evergreen,27803,5,Opened
+acc_00019352,Influencer,Q4_Festive_2025,8394,2,Clicked
+acc_00019354,Paid social,Q4_Festive_2025,44898,2,Opened
+acc_00019355,Paid social,Q4_Festive_2024,23009,1,Opened
+acc_00019357,Organic search,,7418,5,No engagement
+acc_00019358,Referral,,3657,4,Opened
+acc_00019359,Paid social,Q1_YouthInvest_2024,15688,3,No engagement
+acc_00019361,App store,Q3_Payday_2025,5331,6,Opened
+acc_00019362,Paid search,Q1_YouthInvest_2025,34594,4,No engagement
+acc_00019363,App store,Q3_Payday_2024,24700,1,Clicked
+acc_00019364,Paid social,Q3_Payday_2024,14784,8,No engagement
+acc_00019366,Paid search,Q1_StartSmall_2026,5877,7,Opened
+acc_00019367,Referral,,2995,2,Clicked
+acc_00019368,Email,Q1_YouthInvest_2025,26098,4,Clicked
+acc_00019369,Paid search,Q3_Payday_2024,19532,5,Opened
+acc_00019370,Referral,,2399,1,No engagement
+acc_00019371,App store,Q4_Festive_2024,10036,4,Opened
+acc_00019374,Paid search,Q2_Offshore_2025,4669,3,No engagement
+acc_00019375,Influencer,Q1_YouthInvest_2024,37302,4,No engagement
+acc_00019376,Direct,,4066,7,No engagement
+acc_00019377,Paid social,Q2_TaxFree_2024,43883,2,No engagement
+acc_00019379,Organic search,,8239,3,No engagement
+acc_00019381,Email,Referral_Evergreen,26921,4,Opened
+acc_00019384,Organic search,,2521,6,No engagement
+acc_00019387,Email,Q1_YouthInvest_2025,7282,4,Clicked
+acc_00019388,Paid social,Q2_TaxFree_2026,36825,5,No engagement
+acc_00019390,Paid social,Q1_StartSmall_2026,7670,6,Opened
+acc_00019391,Paid social,Q1_StartSmall_2026,25799,4,Opened
+acc_00019392,App store,Q3_Payday_2024,33689,8,Clicked
+acc_00019394,Paid social,Q1_YouthInvest_2025,22756,3,No engagement
+acc_00019397,Paid social,Q1_YouthInvest_2025,47663,7,No engagement
+acc_00019399,Organic search,,2141,2,Opened
+acc_00019400,Paid social,Q2_TaxFree_2026,15942,8,Opened
+acc_00019401,Email,Q1_YouthInvest_2025,24958,6,Clicked
+acc_00019404,Paid social,Q3_Payday_2024,6326,6,No engagement
+acc_00019405,Referral,,2701,3,Opened
+acc_00019406,Paid social,Q3_Payday_2025,31615,2,Clicked
+acc_00019408,Email,Q4_Festive_2025,4235,4,No engagement
+acc_00019410,Paid social,Q1_StartSmall_2026,32214,3,Opened
+acc_00019411,Direct,,5170,4,Opened
+acc_00019412,Paid social,Q2_TaxFree_2026,21816,1,No engagement
+acc_00019413,Email,AlwaysOn_Search,11531,8,No engagement
+acc_00019414,Paid social,Q2_Offshore_2025,7816,4,No engagement
+acc_00019415,Organic search,,2950,0,No engagement
+acc_00019416,Influencer,AlwaysOn_Search,17427,7,Opened
+acc_00019417,Influencer,Q4_Festive_2024,48407,6,Clicked
+acc_00019418,Paid social,Q2_Offshore_2025,16503,3,Clicked
+acc_00019420,Paid social,Q1_StartSmall_2026,3668,5,No engagement
+acc_00019421,Paid search,Q4_Festive_2025,21379,7,Opened
+acc_00019424,Email,Q3_Payday_2024,26584,4,Opened
+acc_00019425,Paid search,Q3_Payday_2024,11847,5,No engagement
+acc_00019426,Paid social,Q4_Festive_2024,8816,3,Opened
+acc_00019427,Paid search,Referral_Evergreen,4779,6,Opened
+acc_00019428,Paid social,Referral_Evergreen,36932,6,No engagement
+acc_00019430,Paid social,Q2_TaxFree_2026,28650,3,Opened
+acc_00019431,Direct,,6297,6,No engagement
+acc_00019432,App store,Q1_StartSmall_2026,11812,2,No engagement
+acc_00019433,Organic search,,8014,8,Opened
+acc_00019435,Influencer,Q2_Offshore_2025,12721,5,No engagement
+acc_00019436,Influencer,Referral_Evergreen,33845,3,Opened
+acc_00019437,Referral,,4493,4,Opened
+acc_00019438,Direct,,5362,4,Opened
+acc_00019442,App store,Q2_TaxFree_2026,18161,5,Clicked
+acc_00019443,App store,Q3_Payday_2025,20610,8,Opened
+acc_00019444,Organic search,,5483,4,Opened
+acc_00019445,Paid social,Q4_Festive_2025,24102,1,Opened
+acc_00019447,Organic search,,3603,6,Clicked
+acc_00019449,Paid search,Q1_YouthInvest_2024,24166,2,Opened
+acc_00019450,Referral,,1818,3,Opened
+acc_00019451,App store,Q2_TaxFree_2024,9563,6,No engagement
+acc_00019452,Influencer,AlwaysOn_Search,12462,3,No engagement
+acc_00019453,Paid search,Q4_Festive_2024,15345,2,Clicked
+acc_00019454,Referral,,3581,2,Clicked
+acc_00019458,Paid social,Q3_Payday_2024,12915,3,Opened
+acc_00019459,Referral,,4071,5,Clicked
+acc_00019460,Referral,,1213,7,Opened
+acc_00019462,Direct,,3802,4,Opened
+acc_00019465,Organic search,,3445,4,Clicked
+acc_00019466,Organic search,,2875,8,No engagement
+acc_00019467,Referral,,6362,5,Clicked
+acc_00019471,App store,Q1_YouthInvest_2025,10270,6,Clicked
+acc_00019472,Paid search,Q1_YouthInvest_2025,6670,4,Opened
+acc_00019473,Paid social,Q4_Festive_2025,7227,7,No engagement
+acc_00019474,Referral,,3397,3,No engagement
+acc_00019475,Organic search,,3605,5,No engagement
+acc_00019476,App store,Referral_Evergreen,11928,4,No engagement
+acc_00019477,Organic search,,5609,6,No engagement
+acc_00019478,Referral,,2582,8,Opened
+acc_00019479,Organic search,,1185,0,No engagement
+acc_00019480,Paid social,Referral_Evergreen,30963,4,Opened
+acc_00019481,Influencer,Q3_Payday_2025,16068,5,Opened
+acc_00019483,Paid social,Referral_Evergreen,19804,5,Clicked
+acc_00019484,App store,AlwaysOn_Search,34944,7,No engagement
+acc_00019486,Organic search,,1537,5,No engagement
+acc_00019487,App store,Q3_Payday_2024,17080,8,Opened
+acc_00019488,Organic search,,2662,5,No engagement
+acc_00019489,Direct,,4838,2,No engagement
+acc_00019490,Influencer,Q2_TaxFree_2024,26688,1,Opened
+acc_00019491,Paid social,Q2_Offshore_2025,33266,2,Clicked
+acc_00019492,Paid social,Q1_YouthInvest_2024,6932,4,No engagement
+acc_00019493,Paid social,Q1_YouthInvest_2025,9076,5,Opened
+acc_00019494,Paid social,Q3_Payday_2025,31340,7,No engagement
+acc_00019495,Paid social,Referral_Evergreen,11210,1,Clicked
+acc_00019496,Paid social,Referral_Evergreen,11036,8,No engagement
+acc_00019497,Influencer,Q4_Festive_2025,27678,4,No engagement
+acc_00019500,Organic search,,3434,3,Opened
+acc_00019502,Referral,,1773,2,No engagement
+acc_00019503,Paid search,Q4_Festive_2024,29795,6,Clicked
+acc_00019504,Organic search,,3588,4,Opened
+acc_00019505,Paid social,Q1_YouthInvest_2025,10339,5,Opened
+acc_00019507,Influencer,Q4_Festive_2025,5651,6,No engagement
+acc_00019508,Organic search,,3209,5,Opened
+acc_00019511,App store,Q3_Payday_2025,40716,7,Opened
+acc_00019512,Influencer,Q4_Festive_2024,4770,7,Clicked
+acc_00019515,Organic search,,2042,6,No engagement
+acc_00019516,Referral,,6982,8,Opened
+acc_00019518,Email,Q2_TaxFree_2026,13766,6,Clicked
+acc_00019519,Organic search,,2535,2,Opened
+acc_00019520,Paid social,Referral_Evergreen,39724,7,Clicked
+acc_00019521,Paid social,Q3_Payday_2025,20755,1,No engagement
+acc_00019528,Paid social,Q1_YouthInvest_2025,11977,7,Opened
+acc_00019530,Organic search,,4640,4,Clicked
+acc_00019532,Organic search,,2181,1,Opened
+acc_00019534,App store,Referral_Evergreen,13013,5,No engagement
+acc_00019536,Paid search,Q4_Festive_2025,17976,7,Clicked
+acc_00019538,Email,Q4_Festive_2024,46911,4,Opened
+acc_00019539,Referral,,3323,5,Opened
+acc_00019541,App store,Q1_YouthInvest_2024,35335,3,No engagement
+acc_00019545,Organic search,,6609,5,Opened
+acc_00019546,Paid social,Q2_TaxFree_2024,19444,5,No engagement
+acc_00019547,Referral,,2218,3,Clicked
+acc_00019548,Paid social,Q4_Festive_2024,49144,5,Opened
+acc_00019549,Paid social,Referral_Evergreen,13500,5,Opened
+acc_00019551,Influencer,Q4_Festive_2024,17885,6,No engagement
+acc_00019553,Paid social,Q1_StartSmall_2026,23358,5,No engagement
+acc_00019554,Influencer,Q2_TaxFree_2024,16873,8,No engagement
+acc_00019555,Organic search,,1702,8,Clicked
+acc_00019556,Email,Q2_TaxFree_2024,22790,1,Clicked
+acc_00019559,Paid social,Q1_YouthInvest_2025,28704,6,No engagement
+acc_00019561,App store,Q4_Festive_2025,14462,3,Opened
+acc_00019562,Paid social,Q2_TaxFree_2026,10376,8,Opened
+acc_00019563,Paid search,Q4_Festive_2025,20358,5,Opened
+acc_00019566,App store,Q4_Festive_2025,31104,5,No engagement
+acc_00019567,Organic search,,7759,2,No engagement
+acc_00019568,Paid social,Q3_Payday_2025,43146,3,Opened
+acc_00019569,Paid search,Q1_YouthInvest_2024,10161,6,Opened
+acc_00019572,Referral,,2128,4,No engagement
+acc_00019573,Email,Q3_Payday_2025,40702,2,Clicked
+acc_00019574,Referral,,3027,10,Opened
+acc_00019575,Influencer,Q1_StartSmall_2026,16146,5,No engagement
+acc_00019577,Paid social,AlwaysOn_Search,16025,6,No engagement
+acc_00019578,Paid social,Referral_Evergreen,32398,9,Opened
+acc_00019579,Paid search,Q2_TaxFree_2026,30001,2,No engagement
+acc_00019581,Email,AlwaysOn_Search,24937,6,Clicked
+acc_00019582,Paid search,Q2_TaxFree_2026,39074,6,Clicked
+acc_00019583,App store,Q3_Payday_2025,16123,5,Clicked
+acc_00019584,Paid search,Q2_TaxFree_2024,13480,5,Clicked
+acc_00019585,App store,Q1_YouthInvest_2024,13792,3,Opened
+acc_00019586,Organic search,,2595,5,Opened
+acc_00019591,App store,Q1_YouthInvest_2024,17154,2,Clicked
+acc_00019592,Paid social,Q2_Offshore_2025,17459,6,Opened
+acc_00019594,Direct,,8178,4,Opened
+acc_00019596,Referral,,4778,2,Opened
+acc_00019598,Paid social,Q4_Festive_2024,20937,3,Opened
+acc_00019599,Referral,,1432,4,No engagement
+acc_00019602,Direct,,4109,4,Clicked
+acc_00019603,Paid social,Q2_TaxFree_2026,14743,3,Opened
+acc_00019605,Referral,,3729,2,Opened
+acc_00019606,Paid social,Q2_TaxFree_2026,13136,6,No engagement
+acc_00019607,Paid search,Q1_YouthInvest_2025,15587,6,Clicked
+acc_00019608,App store,Q1_YouthInvest_2025,27783,6,Clicked
+acc_00019609,Paid social,AlwaysOn_Search,22254,5,No engagement
+acc_00019610,App store,Q2_TaxFree_2026,5594,6,No engagement
+acc_00019611,App store,Q2_TaxFree_2026,48194,5,Clicked
+acc_00019613,Paid social,Q3_Payday_2025,9620,3,Opened
+acc_00019614,Organic search,,2066,4,Clicked
+acc_00019617,Referral,,3872,6,Opened
+acc_00019620,Email,AlwaysOn_Search,9951,3,No engagement
+acc_00019621,Paid social,Q4_Festive_2024,12617,5,No engagement
+acc_00019623,Paid social,Q3_Payday_2025,36547,6,Opened
+acc_00019624,Direct,,2690,6,Clicked
+acc_00019626,Paid social,Q3_Payday_2025,22936,1,No engagement
+acc_00019628,App store,Q4_Festive_2025,11771,5,Clicked
+acc_00019629,Paid social,Q3_Payday_2024,9755,6,No engagement
+acc_00019630,Direct,,3438,2,Opened
+acc_00019631,Organic search,,3529,3,No engagement
+acc_00019632,Organic search,,4863,3,Clicked
+acc_00019634,App store,Q2_TaxFree_2024,15968,4,No engagement
+acc_00019635,Organic search,,3871,9,No engagement
+acc_00019636,Paid search,Q4_Festive_2025,19108,2,No engagement
+acc_00019638,Paid social,AlwaysOn_Search,9433,2,Clicked
+acc_00019639,Organic search,,3345,5,Clicked
+acc_00019644,Referral,,6200,4,Opened
+acc_00019645,Paid social,Q2_TaxFree_2024,16330,2,Clicked
+acc_00019646,Influencer,Q4_Festive_2025,10125,6,Clicked
+acc_00019647,Paid social,Q3_Payday_2024,22334,2,No engagement
+acc_00019648,Paid social,Q3_Payday_2025,20477,5,No engagement
+acc_00019650,Paid social,Referral_Evergreen,16169,5,Opened
+acc_00019652,Referral,,8495,3,No engagement
+acc_00019654,Email,Q3_Payday_2024,53030,1,No engagement
+acc_00019656,Organic search,,3597,4,Opened
+acc_00019657,Paid search,Q4_Festive_2025,10319,4,Clicked
+acc_00019659,Direct,,2960,7,No engagement
+acc_00019660,Influencer,Q2_TaxFree_2024,11178,1,No engagement
+acc_00019661,App store,Q1_StartSmall_2026,16182,3,No engagement
+acc_00019662,Organic search,,3233,4,No engagement
+acc_00019663,Paid search,Q4_Festive_2025,22042,4,No engagement
+acc_00019664,Paid search,Q1_StartSmall_2026,9949,4,Opened
+acc_00019665,Paid social,Q2_TaxFree_2024,22161,5,Clicked
+acc_00019666,Paid social,AlwaysOn_Search,17346,7,Opened
+acc_00019667,Paid search,AlwaysOn_Search,7472,2,Clicked
+acc_00019669,Organic search,,5016,6,Clicked
+acc_00019670,Email,Q1_YouthInvest_2025,36792,3,No engagement
+acc_00019671,Referral,,4627,4,Opened
+acc_00019672,Influencer,Q3_Payday_2024,12218,6,Opened
+acc_00019674,Referral,,6527,4,Opened
+acc_00019675,Paid search,Q3_Payday_2025,26357,3,Clicked
+acc_00019676,Referral,,2887,5,No engagement
+acc_00019677,Organic search,,1824,7,Clicked
+acc_00019678,App store,Q2_TaxFree_2024,14867,6,No engagement
+acc_00019680,Paid social,Q2_TaxFree_2024,10509,1,Opened
+acc_00019681,App store,Q1_YouthInvest_2025,7881,4,No engagement
+acc_00019682,Influencer,Q2_TaxFree_2024,28677,2,Opened
+acc_00019683,Organic search,,5295,4,No engagement
+acc_00019684,Paid search,Q3_Payday_2025,22151,3,Opened
+acc_00019685,App store,AlwaysOn_Search,16097,7,Opened
+acc_00019687,Referral,,1428,4,Opened
+acc_00019688,Paid social,Referral_Evergreen,10792,8,Opened
+acc_00019693,Referral,,6233,9,Opened
+acc_00019695,Organic search,,7250,3,No engagement
+acc_00019696,App store,Q1_YouthInvest_2024,13510,2,Opened
+acc_00019697,Paid social,Q1_YouthInvest_2025,29759,11,Clicked
+acc_00019698,Paid social,Q2_Offshore_2025,22500,3,Clicked
+acc_00019699,Paid social,Q4_Festive_2025,12572,6,No engagement
+acc_00019700,Email,Q1_YouthInvest_2025,16739,5,No engagement
+acc_00019701,Paid social,Q4_Festive_2025,24392,7,Opened
+acc_00019704,Organic search,,6655,2,Clicked
+acc_00019708,Referral,,5073,5,Opened
+acc_00019709,App store,Q4_Festive_2024,20861,3,No engagement
+acc_00019710,App store,Q2_Offshore_2025,17695,7,No engagement
+acc_00019712,Direct,,3552,4,Clicked
+acc_00019713,Paid social,Q1_StartSmall_2026,29762,5,Opened
+acc_00019715,Direct,,3552,9,No engagement
+acc_00019717,Paid social,Q3_Payday_2024,16163,4,Opened
+acc_00019718,Organic search,,1214,3,No engagement
+acc_00019720,Paid social,Q3_Payday_2024,12510,5,No engagement
+acc_00019721,Organic search,,3973,6,No engagement
+acc_00019722,Paid search,Q4_Festive_2024,25204,3,Opened
+acc_00019725,Referral,,5241,6,Opened
+acc_00019726,Organic search,,5862,6,Opened
+acc_00019729,Influencer,Q3_Payday_2025,18084,5,No engagement
+acc_00019731,Influencer,Q4_Festive_2024,5363,4,Opened
+acc_00019733,Paid search,Q1_YouthInvest_2025,19140,6,Clicked
+acc_00019736,Influencer,Q4_Festive_2025,33081,3,Clicked
+acc_00019737,Paid social,Q3_Payday_2025,20354,8,No engagement
+acc_00019740,Paid social,Q1_YouthInvest_2025,40818,3,No engagement
+acc_00019741,Email,Q3_Payday_2024,42202,2,No engagement
+acc_00019742,Influencer,Q4_Festive_2025,7248,10,Clicked
+acc_00019743,Organic search,,3937,3,Opened
+acc_00019744,Influencer,Q1_YouthInvest_2025,8525,5,No engagement
+acc_00019745,Paid social,Q1_YouthInvest_2025,5170,5,No engagement
+acc_00019746,Email,Q3_Payday_2025,5088,9,Opened
+acc_00019749,Direct,,3810,5,Opened
+acc_00019755,Direct,,4578,2,Clicked
+acc_00019756,Paid search,AlwaysOn_Search,12979,4,Opened
+acc_00019757,Paid social,Q1_YouthInvest_2025,22037,7,No engagement
+acc_00019758,Email,Q2_Offshore_2025,13146,5,Opened
+acc_00019759,Paid social,Q1_YouthInvest_2025,5797,1,No engagement
+acc_00019762,Organic search,,5359,9,Clicked
+acc_00019763,Organic search,,4736,6,No engagement
+acc_00019766,Paid social,Q3_Payday_2025,14708,5,Clicked
+acc_00019767,Email,Q1_YouthInvest_2025,10548,2,Clicked
+acc_00019768,Paid social,Q4_Festive_2025,46288,4,Clicked
+acc_00019769,Paid social,Q1_StartSmall_2026,17905,3,No engagement
+acc_00019772,Email,Q4_Festive_2024,13906,2,Clicked
+acc_00019773,Paid search,Q1_YouthInvest_2025,13417,4,No engagement
+acc_00019774,Paid social,Referral_Evergreen,13617,3,Clicked
+acc_00019775,Email,Q2_TaxFree_2024,18879,3,No engagement
+acc_00019778,Referral,,3085,7,No engagement
+acc_00019779,Paid social,Referral_Evergreen,10485,6,Opened
+acc_00019780,Paid search,Q4_Festive_2025,23883,4,Opened
+acc_00019781,Paid search,Q2_TaxFree_2026,20012,3,Clicked
+acc_00019782,Referral,,7249,6,Clicked
+acc_00019783,Paid social,Q3_Payday_2024,16626,4,Opened
+acc_00019784,Organic search,,8244,4,Opened
+acc_00019786,Paid search,Q2_TaxFree_2024,18730,3,No engagement
+acc_00019787,App store,Referral_Evergreen,12460,8,No engagement
+acc_00019788,Referral,,2425,3,Clicked
+acc_00019789,Referral,,2326,4,No engagement
+acc_00019790,Paid search,Q3_Payday_2025,10997,6,Clicked
+acc_00019793,Paid search,Q3_Payday_2024,11949,6,Clicked
+acc_00019794,Paid social,Q3_Payday_2024,15525,7,Clicked
+acc_00019796,Paid social,Q1_YouthInvest_2025,11487,0,No engagement
+acc_00019797,Direct,,2593,4,Opened
+acc_00019800,Paid search,Q3_Payday_2025,3791,2,Opened
+acc_00019801,Organic search,,7375,4,Opened
+acc_00019804,App store,Q2_TaxFree_2026,23840,4,Clicked
+acc_00019805,Direct,,2097,6,Clicked
+acc_00019806,Organic search,,7368,3,Opened
+acc_00019807,Paid social,Q2_TaxFree_2026,56344,8,No engagement
+acc_00019808,Paid social,AlwaysOn_Search,19104,6,No engagement
+acc_00019809,Paid search,Q4_Festive_2024,6569,5,No engagement
+acc_00019810,Email,Q2_Offshore_2025,11684,5,No engagement
+acc_00019811,Influencer,Referral_Evergreen,29178,4,No engagement
+acc_00019812,Referral,,6751,4,No engagement
+acc_00019813,Referral,,4877,3,Opened
+acc_00019814,App store,AlwaysOn_Search,7959,5,Opened
+acc_00019816,Paid social,AlwaysOn_Search,7425,4,Clicked
+acc_00019817,Influencer,Q3_Payday_2024,18688,2,Clicked
+acc_00019818,Organic search,,4657,3,No engagement
+acc_00019819,Organic search,,1969,1,Opened
+acc_00019820,Email,Q1_YouthInvest_2025,27567,6,No engagement
+acc_00019821,Paid social,Q1_YouthInvest_2025,5071,3,Opened
+acc_00019823,Organic search,,3432,3,Opened
+acc_00019826,Referral,,6151,4,No engagement
+acc_00019827,Email,Q4_Festive_2025,47826,4,Opened
+acc_00019828,Referral,,2571,6,Opened
+acc_00019829,Paid search,Q4_Festive_2025,21703,3,No engagement
+acc_00019830,Paid social,Q1_YouthInvest_2024,14544,5,No engagement
+acc_00019831,Paid search,Referral_Evergreen,33072,6,Clicked
+acc_00019832,App store,Q2_TaxFree_2026,14926,7,Clicked
+acc_00019833,Paid social,Q1_YouthInvest_2024,15706,3,Clicked
+acc_00019834,App store,Q3_Payday_2025,6358,4,Opened
+acc_00019835,App store,Q2_TaxFree_2026,31035,5,No engagement
+acc_00019836,Paid social,Q3_Payday_2025,25526,5,Opened
+acc_00019837,Referral,,4857,7,No engagement
+acc_00019839,Influencer,Q2_Offshore_2025,11638,7,Clicked
+acc_00019840,Referral,,10411,3,Opened
+acc_00019841,Influencer,Q2_TaxFree_2026,3245,3,Opened
+acc_00019842,Influencer,Q2_Offshore_2025,8888,7,No engagement
+acc_00019843,Direct,,2895,2,No engagement
+acc_00019845,Paid search,Referral_Evergreen,16024,4,Opened
+acc_00019846,Referral,,1804,6,Opened
+acc_00019850,Direct,,5323,6,No engagement
+acc_00019851,Paid social,Q4_Festive_2025,7459,4,Clicked
+acc_00019855,Paid search,Q2_TaxFree_2026,10443,6,No engagement
+acc_00019856,Paid search,Q2_TaxFree_2024,21919,4,Opened
+acc_00019858,Organic search,,3401,0,No engagement
+acc_00019859,App store,Q2_TaxFree_2024,5367,1,Clicked
+acc_00019861,Referral,,1905,0,No engagement
+acc_00019862,Paid social,Q3_Payday_2024,6320,3,Clicked
+acc_00019864,Email,Q3_Payday_2025,10105,5,Opened
+acc_00019865,Paid search,Q4_Festive_2024,15166,6,No engagement
+acc_00019866,Referral,,1449,9,No engagement
+acc_00019867,Referral,,3972,5,Clicked
+acc_00019868,Organic search,,563,6,No engagement
+acc_00019869,Organic search,,8099,4,Clicked
+acc_00019872,Paid search,Q2_TaxFree_2024,25768,4,No engagement
+acc_00019873,Paid social,Q1_StartSmall_2026,7162,4,Opened
+acc_00019875,Organic search,,2881,4,Opened
+acc_00019876,Paid search,Q4_Festive_2024,23743,5,No engagement
+acc_00019878,Referral,,2187,0,No engagement
+acc_00019879,Referral,,2297,6,No engagement
+acc_00019880,Paid social,Referral_Evergreen,13638,10,Opened
+acc_00019881,Paid social,Q2_Offshore_2025,35892,4,Opened
+acc_00019882,Paid social,Q1_StartSmall_2026,15954,2,No engagement
+acc_00019883,Organic search,,2735,7,Clicked
+acc_00019886,Paid search,Q3_Payday_2024,22355,6,Opened
+acc_00019887,Paid search,Q1_YouthInvest_2024,36497,4,Clicked
+acc_00019888,Paid search,Q2_TaxFree_2024,20153,3,Clicked
+acc_00019889,Paid social,Q2_Offshore_2025,12524,5,Clicked
+acc_00019891,Organic search,,2031,4,Opened
+acc_00019892,App store,Q2_TaxFree_2026,28054,6,No engagement
+acc_00019893,Email,Q4_Festive_2025,38914,4,Opened
+acc_00019894,Influencer,Q2_TaxFree_2026,30552,4,Opened
+acc_00019895,Direct,,2190,6,Clicked
+acc_00019896,Direct,,1657,5,No engagement
+acc_00019897,Referral,,2308,5,Clicked
+acc_00019898,Paid search,Q1_YouthInvest_2024,18774,2,No engagement
+acc_00019899,Influencer,Q2_TaxFree_2024,25636,4,No engagement
+acc_00019901,Organic search,,3475,4,Opened
+acc_00019903,Direct,,5631,1,No engagement
+acc_00019904,Paid social,Q2_TaxFree_2026,17913,2,No engagement
+acc_00019905,Referral,,5250,4,Opened
+acc_00019906,Direct,,2674,3,No engagement
+acc_00019909,Paid social,Q3_Payday_2025,7711,4,Opened
+acc_00019911,Referral,,13172,4,Clicked
+acc_00019912,Referral,,6646,4,No engagement
+acc_00019917,App store,Q4_Festive_2024,36789,7,No engagement
+acc_00019919,Paid social,AlwaysOn_Search,22413,6,Clicked
+acc_00019920,Direct,,1784,0,No engagement
+acc_00019921,Paid social,Q3_Payday_2025,18600,3,No engagement
+acc_00019922,App store,Referral_Evergreen,34623,7,Opened
+acc_00019924,Paid search,Q2_TaxFree_2026,29815,5,Opened
+acc_00019925,Influencer,Q3_Payday_2025,20369,4,Opened
+acc_00019926,App store,Q2_TaxFree_2024,11455,9,Opened
+acc_00019928,Paid social,Q2_Offshore_2025,15937,9,No engagement
+acc_00019930,Influencer,Q1_YouthInvest_2025,39004,5,No engagement
+acc_00019932,Email,Q1_YouthInvest_2024,15589,6,No engagement
+acc_00019933,Organic search,,4417,3,Clicked
+acc_00019934,Organic search,,1748,5,No engagement
+acc_00019937,Paid search,Q4_Festive_2025,13777,8,Opened
+acc_00019938,Email,Q2_TaxFree_2024,9286,6,Clicked
+acc_00019939,Organic search,,1520,2,Clicked
+acc_00019940,Paid social,Q1_StartSmall_2026,21059,3,No engagement
+acc_00019943,Referral,,974,8,No engagement
+acc_00019945,Referral,,6514,3,Clicked
+acc_00019946,Paid social,Q3_Payday_2024,37570,5,Clicked
+acc_00019948,Influencer,Q2_TaxFree_2024,23735,4,Opened
+acc_00019949,Paid social,Q2_TaxFree_2026,17671,3,Clicked
+acc_00019952,Paid social,Q1_YouthInvest_2025,23342,3,No engagement
+acc_00019953,Paid social,Q1_YouthInvest_2025,11744,4,Opened
+acc_00019954,Email,Q2_Offshore_2025,15337,6,Opened
+acc_00019955,Paid search,AlwaysOn_Search,8071,4,No engagement
+acc_00019956,Influencer,Q3_Payday_2025,9534,2,No engagement
+acc_00019958,Paid social,AlwaysOn_Search,16923,7,Clicked
+acc_00019960,Referral,,3446,6,Opened
+acc_00019961,Paid search,Referral_Evergreen,33025,7,Clicked
+acc_00019962,Referral,,3643,7,Clicked
+acc_00019964,Referral,,4237,4,Opened
+acc_00019965,Influencer,Q4_Festive_2024,15091,4,No engagement
+acc_00019968,Paid search,Q1_YouthInvest_2025,5859,3,Clicked
+acc_00019969,Referral,,3496,3,Clicked
+acc_00019972,App store,Q2_TaxFree_2026,9313,4,No engagement
+acc_00019973,Paid social,Q1_StartSmall_2026,16881,3,No engagement
+acc_00019974,Referral,,2825,3,Opened
+acc_00019976,Referral,,2229,3,Clicked
+acc_00019979,Email,Q1_StartSmall_2026,17841,9,Clicked
+acc_00019980,Paid social,Q1_YouthInvest_2024,32630,8,No engagement
+acc_00019981,Paid search,Q4_Festive_2024,15240,5,Opened
+acc_00019982,App store,Q2_Offshore_2025,22540,4,Opened
+acc_00019983,Organic search,,2048,4,No engagement
+acc_00019984,Paid search,Q2_TaxFree_2024,19834,6,No engagement
+acc_00019992,Referral,,2301,7,Opened
+acc_00019993,Paid search,Q2_Offshore_2025,13396,6,No engagement
+acc_00019996,Paid social,Q2_TaxFree_2026,16583,5,Clicked
+acc_00019998,Paid social,Q1_StartSmall_2026,11280,7,Opened
+acc_00019999,Organic search,,2714,8,Clicked
+acc_00020000,Email,Q1_YouthInvest_2024,12430,8,No engagement
+acc_00020003,App store,Q2_TaxFree_2024,24821,6,Clicked
+acc_00020005,Email,Referral_Evergreen,17783,4,No engagement
+acc_00020006,App store,Q3_Payday_2025,10228,2,Opened
+acc_00020007,Referral,,4095,0,No engagement
+acc_00020008,Organic search,,1630,3,Opened
+acc_00020009,Paid social,Q1_YouthInvest_2024,28832,0,No engagement
+acc_00020013,Organic search,,1299,4,No engagement
+acc_00020014,Referral,,3042,6,Opened
+acc_00020015,Email,Q3_Payday_2025,18731,0,No engagement
+acc_00020017,Referral,,2547,4,No engagement
+acc_00020019,Paid search,Q1_StartSmall_2026,8112,5,No engagement
+acc_00020020,Paid search,Q3_Payday_2025,14490,4,Opened
+acc_00020022,Influencer,Q4_Festive_2025,20911,8,No engagement
+acc_00020023,Paid search,Q2_TaxFree_2026,15020,5,No engagement
+acc_00020024,Organic search,,5525,0,No engagement
+acc_00020025,Referral,,12394,0,No engagement
+acc_00020026,Direct,,3944,0,No engagement
+acc_00020027,App store,Q1_YouthInvest_2024,13900,3,No engagement
+acc_00020029,Direct,,3001,2,Clicked
+acc_00020032,Paid social,Q1_YouthInvest_2024,29916,6,Clicked
+acc_00020033,Paid search,Q4_Festive_2025,45323,5,Clicked
+acc_00020035,Influencer,Q2_Offshore_2025,15912,2,Opened
+acc_00020036,Paid search,Referral_Evergreen,39033,8,Opened
+acc_00020038,Organic search,,4767,2,Opened
+acc_00020039,Referral,,4705,3,Opened
+acc_00020040,Paid social,Q4_Festive_2024,37996,0,No engagement
+acc_00020041,App store,Q2_TaxFree_2026,48360,5,No engagement
+acc_00020042,Referral,,5591,7,Opened
+acc_00020047,Referral,,2942,0,No engagement
+acc_00020048,App store,Q3_Payday_2025,15826,3,Opened
+acc_00020050,App store,Q3_Payday_2024,28912,1,Opened
+acc_00020051,Paid social,Q3_Payday_2025,16582,7,No engagement
+acc_00020052,App store,Referral_Evergreen,27234,4,Clicked
+acc_00020054,Paid social,Q2_TaxFree_2024,19973,1,Clicked
+acc_00020056,Paid search,Q3_Payday_2024,11467,2,No engagement
+acc_00020057,Paid social,Q1_YouthInvest_2025,22969,3,Clicked
+acc_00020058,Organic search,,2304,4,No engagement
+acc_00020060,Referral,,2317,1,Opened
+acc_00020062,Direct,,4592,2,No engagement
+acc_00020063,App store,Q4_Festive_2025,7796,8,Opened
+acc_00020064,Organic search,,1292,5,Opened
+acc_00020065,Organic search,,4760,2,Opened
+acc_00020067,Organic search,,2095,6,Clicked
+acc_00020068,Paid search,Q1_YouthInvest_2024,7766,4,Opened
+acc_00020069,Paid search,Q2_Offshore_2025,35300,2,No engagement
+acc_00020071,Paid search,Q4_Festive_2024,36366,6,Clicked
+acc_00020072,Email,Q1_YouthInvest_2024,20290,4,No engagement
+acc_00020074,Email,Q2_TaxFree_2024,11380,3,Clicked
+acc_00020075,Paid social,Q2_Offshore_2025,14685,0,No engagement
+acc_00020077,App store,Q3_Payday_2025,17005,1,Clicked
+acc_00020079,Paid search,Q3_Payday_2025,6775,2,Opened
+acc_00020081,Paid social,AlwaysOn_Search,22832,5,No engagement
+acc_00020083,Referral,,3011,4,Opened
+acc_00020085,App store,Q1_YouthInvest_2024,16537,6,No engagement
+acc_00020086,Direct,,4129,8,Clicked
+acc_00020087,Referral,,2694,6,No engagement
+acc_00020088,Organic search,,1527,5,Opened
+acc_00020089,App store,AlwaysOn_Search,12879,8,Clicked
+acc_00020090,Paid search,Q1_YouthInvest_2024,20404,4,No engagement
+acc_00020092,Paid search,Q2_Offshore_2025,6514,1,Opened
+acc_00020093,Email,Q1_YouthInvest_2025,7385,7,No engagement
+acc_00020097,Paid social,Q3_Payday_2025,10193,3,Clicked
+acc_00020098,Paid search,Q1_YouthInvest_2024,17332,3,No engagement
+acc_00020101,Paid social,AlwaysOn_Search,26468,0,No engagement
+acc_00020102,Paid search,Q4_Festive_2025,12888,9,No engagement
+acc_00020103,Referral,,5822,3,Opened
+acc_00020104,Influencer,AlwaysOn_Search,13190,9,Opened
+acc_00020105,Paid search,AlwaysOn_Search,35703,5,No engagement
+acc_00020109,Organic search,,3762,4,Opened
+acc_00020111,Referral,,2412,5,Clicked
+acc_00020112,Organic search,,3958,12,Clicked
+acc_00020113,Paid search,Q3_Payday_2024,17087,1,Opened
+acc_00020114,App store,AlwaysOn_Search,7958,3,No engagement
+acc_00020115,Paid search,Q2_TaxFree_2024,10904,4,Opened
+acc_00020116,Email,Q3_Payday_2025,11887,5,No engagement
+acc_00020117,App store,Q2_TaxFree_2026,8924,3,Opened
+acc_00020118,Email,Q3_Payday_2025,12625,3,No engagement
+acc_00020119,Organic search,,3677,1,Opened
+acc_00020120,Referral,,5289,4,Clicked
+acc_00020121,Direct,,2418,7,No engagement
+acc_00020122,Organic search,,18037,3,No engagement
+acc_00020123,Paid search,Referral_Evergreen,14203,4,No engagement
+acc_00020126,Paid social,Q4_Festive_2025,16613,4,No engagement
+acc_00020127,Paid social,Referral_Evergreen,15412,10,No engagement
+acc_00020132,Paid search,Q1_StartSmall_2026,8193,1,Clicked
+acc_00020133,Paid search,Q1_StartSmall_2026,30449,6,Clicked
+acc_00020134,Influencer,Q4_Festive_2025,40511,5,No engagement
+acc_00020135,Paid social,Q1_YouthInvest_2024,24465,4,Opened
+acc_00020136,Organic search,,1183,3,Opened
+acc_00020137,Referral,,4257,4,No engagement
+acc_00020138,Organic search,,1766,2,No engagement
+acc_00020139,Direct,,5912,1,Clicked
+acc_00020141,Paid search,Q4_Festive_2024,40453,7,No engagement
+acc_00020142,Paid social,Q2_TaxFree_2024,14541,6,Clicked
+acc_00020143,Paid social,Q4_Festive_2024,12228,5,Clicked
+acc_00020146,Paid social,Q2_TaxFree_2026,6124,4,Opened
+acc_00020147,App store,Q1_StartSmall_2026,33827,6,Clicked
+acc_00020148,Referral,,1574,5,Opened
+acc_00020149,Influencer,Q2_TaxFree_2024,10183,6,Opened
+acc_00020150,App store,Q4_Festive_2024,20616,6,Opened
+acc_00020151,Paid social,Q2_TaxFree_2026,16780,5,Opened
+acc_00020153,Referral,,4108,1,Clicked
+acc_00020154,Paid search,Q2_TaxFree_2026,24465,5,Clicked
+acc_00020155,App store,Q4_Festive_2024,27513,4,Clicked
+acc_00020156,Paid social,Referral_Evergreen,16349,3,Opened
+acc_00020157,Referral,,2879,3,Opened
+acc_00020158,Direct,,3840,5,No engagement
+acc_00020159,Paid search,Q2_TaxFree_2026,6193,7,Opened
+acc_00020163,Organic search,,3316,7,Clicked
+acc_00020168,Paid search,Q2_Offshore_2025,7454,4,Clicked
+acc_00020170,Paid social,Q2_TaxFree_2026,17801,0,No engagement
+acc_00020172,Email,Q1_StartSmall_2026,20490,4,Opened
+acc_00020173,Organic search,,10300,7,Clicked
+acc_00020177,Paid search,Q3_Payday_2024,20811,7,Opened
+acc_00020180,Organic search,,2982,7,No engagement
+acc_00020182,App store,Referral_Evergreen,26391,6,No engagement
+acc_00020183,App store,Q1_YouthInvest_2025,26171,5,Opened
+acc_00020186,Paid social,Q4_Festive_2024,19018,7,No engagement
+acc_00020188,Organic search,,1947,3,No engagement
+acc_00020189,Influencer,Q2_Offshore_2025,85470,6,Clicked
+acc_00020190,Organic search,,2809,5,Opened
+acc_00020192,Paid social,Q3_Payday_2024,35583,4,Opened
+acc_00020194,Organic search,,3463,2,Clicked
+acc_00020195,Referral,,4911,5,No engagement
+acc_00020196,Paid search,Q3_Payday_2024,26852,1,Opened
+acc_00020197,Paid search,Q4_Festive_2024,5451,4,Opened
+acc_00020199,Referral,,1510,2,Opened
+acc_00020200,Paid social,Q4_Festive_2025,37525,6,Opened
+acc_00020201,Organic search,,2522,7,No engagement
+acc_00020202,Paid search,AlwaysOn_Search,7529,5,Clicked
+acc_00020204,Paid social,Q2_Offshore_2025,41374,5,Opened
+acc_00020205,Paid social,Referral_Evergreen,12670,3,Clicked
+acc_00020207,Email,Q1_StartSmall_2026,9474,8,No engagement
+acc_00020210,Email,Q1_YouthInvest_2025,20498,2,Opened
+acc_00020211,Organic search,,2972,7,Clicked
+acc_00020212,Paid search,Q4_Festive_2024,10940,6,Clicked
+acc_00020213,Email,Q4_Festive_2024,27175,9,Opened
+acc_00020214,Paid social,Q2_TaxFree_2026,12384,4,Opened
+acc_00020216,Organic search,,2111,6,No engagement
+acc_00020217,Paid social,Q1_StartSmall_2026,26870,4,Opened
+acc_00020220,Paid search,Referral_Evergreen,21005,9,No engagement
+acc_00020222,Referral,,3469,5,Clicked
+acc_00020225,Organic search,,4870,2,Clicked
+acc_00020227,Email,Q4_Festive_2025,14465,0,No engagement
+acc_00020228,Referral,,3784,4,Opened
+acc_00020229,Direct,,8140,6,Opened
+acc_00020230,Paid social,Q1_YouthInvest_2024,48077,0,No engagement
+acc_00020231,Paid search,Referral_Evergreen,20865,6,No engagement
+acc_00020233,Influencer,Q2_Offshore_2025,10947,2,Clicked
+acc_00020234,Paid search,Q4_Festive_2025,8462,5,Opened
+acc_00020235,Paid social,Referral_Evergreen,14745,3,No engagement
+acc_00020236,Email,Q3_Payday_2025,20725,2,Opened
+acc_00020238,Direct,,1876,8,Clicked
+acc_00020239,Organic search,,3523,3,Opened
+acc_00020240,Paid social,Q2_TaxFree_2024,19700,4,Clicked
+acc_00020242,Email,Q4_Festive_2025,7853,6,No engagement
+acc_00020245,Paid search,Q1_YouthInvest_2024,19050,4,Opened
+acc_00020246,Influencer,AlwaysOn_Search,16036,3,Clicked
+acc_00020249,Paid search,Q2_TaxFree_2026,24543,3,Opened
+acc_00020250,App store,Q1_StartSmall_2026,17623,1,No engagement
+acc_00020254,Influencer,Q4_Festive_2024,9705,7,No engagement
+acc_00020255,Paid search,Q2_TaxFree_2024,22102,3,Opened
+acc_00020257,Organic search,,7244,4,No engagement
+acc_00020258,Referral,,3239,5,Clicked
+acc_00020259,Paid social,Q1_YouthInvest_2025,16003,3,No engagement
+acc_00020261,Paid search,Referral_Evergreen,25791,6,Clicked
+acc_00020262,Paid social,Referral_Evergreen,4883,6,No engagement
+acc_00020263,Influencer,Q1_YouthInvest_2024,20837,5,No engagement
+acc_00020264,Paid search,AlwaysOn_Search,10226,2,Clicked
+acc_00020265,Referral,,2587,3,Clicked
+acc_00020266,Paid social,AlwaysOn_Search,19627,2,No engagement
+acc_00020269,Email,Q1_YouthInvest_2025,7025,7,Opened
+acc_00020273,Paid social,Q3_Payday_2024,13179,5,Opened
+acc_00020274,App store,Q1_StartSmall_2026,11371,7,Opened
+acc_00020277,Organic search,,4580,1,No engagement
+acc_00020279,Paid social,Q1_StartSmall_2026,52243,7,No engagement
+acc_00020280,Referral,,1275,5,No engagement
+acc_00020282,Paid search,Q4_Festive_2024,28076,5,No engagement
+acc_00020284,Direct,,7158,5,Clicked
+acc_00020285,Referral,,4271,5,Opened
+acc_00020286,Paid social,Q1_YouthInvest_2024,26424,1,Clicked
+acc_00020287,Referral,,4964,4,Clicked
+acc_00020289,Referral,,2873,4,Opened
+acc_00020290,Paid social,Q2_Offshore_2025,26143,6,No engagement
+acc_00020292,Email,Q4_Festive_2024,14448,6,Clicked
+acc_00020293,Email,Q3_Payday_2024,6574,8,No engagement
+acc_00020294,Paid search,AlwaysOn_Search,35933,2,No engagement
+acc_00020296,App store,Q2_TaxFree_2026,28876,2,No engagement
+acc_00020297,Paid social,Q1_StartSmall_2026,11188,3,Clicked
+acc_00020298,Referral,,2111,5,Clicked
+acc_00020300,Influencer,Q2_TaxFree_2026,33302,4,No engagement
+acc_00020302,Email,Q1_YouthInvest_2025,17835,2,Opened
+acc_00020303,Referral,,2909,4,No engagement
+acc_00020304,Email,Q3_Payday_2025,7592,5,Opened
+acc_00020306,App store,Q3_Payday_2025,9932,9,No engagement
+acc_00020307,Paid search,Q1_StartSmall_2026,26812,5,Clicked
+acc_00020308,Influencer,Referral_Evergreen,17725,6,Opened
+acc_00020309,Paid social,Q1_YouthInvest_2025,18626,8,Clicked
+acc_00020311,Paid social,Q2_TaxFree_2026,30125,3,No engagement
+acc_00020312,Paid search,Q1_StartSmall_2026,13885,6,Opened
+acc_00020314,Organic search,,1041,4,Opened
+acc_00020315,Paid search,Q4_Festive_2024,11844,5,No engagement
+acc_00020317,Email,Q4_Festive_2024,11275,3,Opened
+acc_00020320,Referral,,6048,0,No engagement
+acc_00020321,Referral,,7739,2,Clicked
+acc_00020323,Paid search,Q2_TaxFree_2026,32662,4,No engagement
+acc_00020326,Email,Q4_Festive_2025,16092,2,Opened
+acc_00020327,Influencer,Referral_Evergreen,17878,3,Clicked
+acc_00020328,App store,Q3_Payday_2024,11384,7,Opened
+acc_00020331,Paid search,Q1_YouthInvest_2025,22862,3,No engagement
+acc_00020332,Paid social,Q3_Payday_2025,10046,3,Clicked
+acc_00020333,App store,Referral_Evergreen,19408,5,No engagement
+acc_00020336,Organic search,,4040,9,No engagement
+acc_00020337,Referral,,2843,9,Opened
+acc_00020338,Paid search,Q2_TaxFree_2026,9555,5,Opened
+acc_00020339,Paid search,AlwaysOn_Search,37010,4,Opened
+acc_00020343,Referral,,4818,5,Clicked
+acc_00020345,Referral,,6586,2,Clicked
+acc_00020346,Paid social,Q2_TaxFree_2026,6952,3,Opened
+acc_00020347,Paid social,Q3_Payday_2024,55644,8,Clicked
+acc_00020348,App store,Q1_YouthInvest_2024,7309,6,No engagement
+acc_00020349,Paid search,Referral_Evergreen,19252,6,Opened
+acc_00020350,Paid social,AlwaysOn_Search,10972,5,Opened
+acc_00020351,Direct,,2643,0,No engagement
+acc_00020352,Paid search,Q2_Offshore_2025,19473,8,Opened
+acc_00020354,Referral,,2281,5,Opened
+acc_00020355,Influencer,Q4_Festive_2025,13874,6,Opened
+acc_00020357,Influencer,Q4_Festive_2024,6730,6,Clicked
+acc_00020358,Direct,,6980,7,Opened
+acc_00020360,Paid search,Q2_TaxFree_2024,8585,12,Opened
+acc_00020362,Influencer,Q1_StartSmall_2026,10370,3,No engagement
+acc_00020366,App store,Q3_Payday_2025,20200,8,Opened
+acc_00020367,Paid social,Q1_YouthInvest_2024,11249,7,Opened
+acc_00020368,Paid social,Q2_Offshore_2025,16550,3,No engagement
+acc_00020370,App store,Q1_StartSmall_2026,27866,7,Opened
+acc_00020372,Paid social,Referral_Evergreen,25940,8,Clicked
+acc_00020373,Paid social,Q2_TaxFree_2024,14698,4,No engagement
+acc_00020374,Referral,,1808,7,No engagement
+acc_00020378,Email,Q1_StartSmall_2026,11281,4,No engagement
+acc_00020380,Influencer,Q3_Payday_2024,15311,4,No engagement
+acc_00020382,Referral,,8699,6,Clicked
+acc_00020383,App store,Q3_Payday_2024,23281,5,No engagement
+acc_00020384,Direct,,2545,4,Opened
+acc_00020385,Referral,,2608,9,Opened
+acc_00020388,Paid social,Q2_TaxFree_2024,44297,1,Opened
+acc_00020389,Organic search,,4317,5,Opened
+acc_00020390,Referral,,4263,6,No engagement
+acc_00020391,Organic search,,7845,4,Opened
+acc_00020392,Influencer,Q3_Payday_2025,35340,3,No engagement
+acc_00020394,App store,Q4_Festive_2025,25548,4,Clicked
+acc_00020397,App store,Q4_Festive_2024,25165,7,No engagement
+acc_00020398,Referral,,5088,5,Clicked
+acc_00020400,Paid social,AlwaysOn_Search,9719,4,No engagement
+acc_00020401,Paid search,Q2_TaxFree_2026,13490,4,Opened
+acc_00020403,Influencer,Q3_Payday_2024,18410,8,No engagement
+acc_00020405,Paid social,Q2_Offshore_2025,8102,6,No engagement
+acc_00020406,Paid search,Q2_TaxFree_2026,12566,2,No engagement
+acc_00020407,Paid social,Q1_StartSmall_2026,51013,3,Opened
+acc_00020408,Email,Referral_Evergreen,28213,3,Opened
+acc_00020409,Paid search,Q4_Festive_2024,15996,5,Clicked
+acc_00020410,Direct,,3469,5,Clicked
+acc_00020412,App store,Q2_TaxFree_2024,10713,0,No engagement
+acc_00020413,Referral,,3402,2,No engagement
+acc_00020414,Organic search,,2202,5,Clicked
+acc_00020416,Referral,,7862,8,Opened
+acc_00020417,Organic search,,8354,3,Clicked
+acc_00020418,Paid search,Q2_Offshore_2025,17199,5,Opened
+acc_00020423,App store,AlwaysOn_Search,33056,0,No engagement
+acc_00020424,Paid social,Q1_StartSmall_2026,36103,4,No engagement
+acc_00020425,App store,AlwaysOn_Search,4244,7,Clicked
+acc_00020426,Paid social,Q4_Festive_2024,16896,4,Opened
+acc_00020427,Paid search,AlwaysOn_Search,3548,8,No engagement
+acc_00020428,Influencer,Q3_Payday_2025,39905,5,No engagement
+acc_00020429,Direct,,2602,6,No engagement
+acc_00020430,Paid social,AlwaysOn_Search,38052,6,Opened
+acc_00020431,Referral,,2459,6,Clicked
+acc_00020432,App store,Q1_YouthInvest_2024,9705,5,Clicked
+acc_00020435,Paid search,Referral_Evergreen,32110,1,Clicked
+acc_00020436,Email,Q4_Festive_2025,28539,5,No engagement
+acc_00020439,Paid social,Q2_TaxFree_2024,12428,5,No engagement
+acc_00020440,Paid social,Referral_Evergreen,29358,6,Opened
+acc_00020441,Paid social,AlwaysOn_Search,30841,5,No engagement
+acc_00020443,Paid social,Q4_Festive_2025,31888,6,No engagement
+acc_00020444,App store,Q2_Offshore_2025,13090,6,Opened
+acc_00020445,Organic search,,2384,6,No engagement
+acc_00020446,Email,Q3_Payday_2025,26085,7,Opened
+acc_00020447,Referral,,5371,6,Clicked
+acc_00020448,Paid search,AlwaysOn_Search,12177,4,Opened
+acc_00020449,Paid search,Q4_Festive_2024,13486,5,Clicked
+acc_00020451,Email,Q1_YouthInvest_2025,39000,7,No engagement
+acc_00020452,Organic search,,1778,6,No engagement
+acc_00020453,Organic search,,5128,3,Opened
+acc_00020454,Influencer,Q3_Payday_2024,21031,3,Clicked
+acc_00020455,Email,Q4_Festive_2024,30319,2,No engagement
+acc_00020456,Referral,,4887,5,No engagement
+acc_00020457,Paid search,Q4_Festive_2025,8253,3,No engagement
+acc_00020459,App store,Referral_Evergreen,15771,4,No engagement
+acc_00020461,Paid social,Q1_StartSmall_2026,19405,3,Opened
+acc_00020465,Paid social,Q4_Festive_2024,19079,5,Clicked
+acc_00020466,Referral,,2738,8,Clicked
+acc_00020467,Paid social,Q4_Festive_2024,11074,2,No engagement
+acc_00020468,Influencer,Q4_Festive_2024,28347,3,Opened
+acc_00020469,Paid social,Q4_Festive_2024,14962,2,Clicked
+acc_00020470,Influencer,Q3_Payday_2024,24519,9,Clicked
+acc_00020472,Paid social,Q2_TaxFree_2026,34042,4,No engagement
+acc_00020473,Referral,,4273,6,Clicked
+acc_00020474,Referral,,5649,4,No engagement
+acc_00020475,Paid social,AlwaysOn_Search,17085,5,No engagement
+acc_00020476,Influencer,Q2_TaxFree_2024,10760,5,Opened
+acc_00020477,Influencer,Referral_Evergreen,8053,3,No engagement
+acc_00020478,Organic search,,1605,5,Opened
+acc_00020479,Referral,,2700,6,No engagement
+acc_00020480,App store,Referral_Evergreen,10745,3,Opened
+acc_00020481,App store,Q1_YouthInvest_2025,8299,6,Opened
+acc_00020482,Paid social,Q2_Offshore_2025,28512,4,No engagement
+acc_00020484,Email,Referral_Evergreen,13155,1,No engagement
+acc_00020485,App store,AlwaysOn_Search,17735,3,Opened
+acc_00020487,App store,Q4_Festive_2025,23947,3,Clicked
+acc_00020488,Email,Q2_TaxFree_2024,21826,7,No engagement
+acc_00020490,Influencer,Q2_TaxFree_2026,17022,3,Opened
+acc_00020491,Email,Q2_TaxFree_2024,11058,10,No engagement
+acc_00020493,Organic search,,3607,4,No engagement
+acc_00020494,Paid social,Q1_StartSmall_2026,23587,2,Opened
+acc_00020497,Email,Q3_Payday_2024,23116,4,Opened
+acc_00020498,Paid social,Q1_YouthInvest_2024,13852,7,No engagement
+acc_00020499,Influencer,Q3_Payday_2024,29792,6,Opened
+acc_00020501,Paid social,Q1_YouthInvest_2024,20401,3,Opened
+acc_00020505,Paid social,Q3_Payday_2025,20550,3,Opened
+acc_00020508,App store,Q1_StartSmall_2026,9873,0,No engagement
+acc_00020509,App store,Q3_Payday_2024,14201,6,No engagement
+acc_00020510,Paid search,Q2_Offshore_2025,7458,3,No engagement
+acc_00020511,Organic search,,1507,5,Clicked
+acc_00020514,Paid search,Referral_Evergreen,8517,4,No engagement
+acc_00020516,Paid search,Q3_Payday_2025,16035,2,Opened
+acc_00020517,Organic search,,1619,4,No engagement
+acc_00020518,Referral,,2901,5,Opened
+acc_00020519,Paid social,Q1_YouthInvest_2024,47492,3,No engagement
+acc_00020521,Paid social,Q2_Offshore_2025,11690,6,Clicked
+acc_00020522,Direct,,3683,2,Clicked
+acc_00020523,Paid social,Q2_TaxFree_2024,44607,4,Opened
+acc_00020524,Organic search,,2174,4,Opened
+acc_00020526,App store,Q2_Offshore_2025,7774,5,No engagement
+acc_00020528,Paid search,Q2_Offshore_2025,19319,3,Clicked
+acc_00020529,Paid social,Q3_Payday_2024,47522,6,Clicked
+acc_00020530,Influencer,Q3_Payday_2024,15727,3,Opened
+acc_00020532,Influencer,Referral_Evergreen,37457,4,No engagement
+acc_00020533,Email,Q2_TaxFree_2026,39871,0,No engagement
+acc_00020534,App store,AlwaysOn_Search,10299,8,Clicked
+acc_00020536,Referral,,3210,9,Opened
+acc_00020537,Referral,,9739,4,Opened
+acc_00020538,App store,Q1_YouthInvest_2024,37803,6,Clicked
+acc_00020541,Paid social,AlwaysOn_Search,11412,0,No engagement
+acc_00020544,App store,Q1_StartSmall_2026,31605,6,Clicked
+acc_00020547,Referral,,3845,7,Opened
+acc_00020548,Organic search,,5358,8,Opened
+acc_00020549,Paid social,Q4_Festive_2024,14847,2,No engagement
+acc_00020551,Organic search,,4203,3,No engagement
+acc_00020554,Influencer,Q3_Payday_2024,17217,10,Opened
+acc_00020555,Referral,,1467,5,Opened
+acc_00020556,Paid social,Q1_YouthInvest_2024,17640,3,Clicked
+acc_00020558,Organic search,,5035,2,No engagement
+acc_00020559,Referral,,7364,0,No engagement
+acc_00020561,Referral,,9079,1,Clicked
+acc_00020562,Paid search,Q2_TaxFree_2026,30144,4,Opened
+acc_00020563,Paid social,AlwaysOn_Search,12405,5,Opened
+acc_00020564,Referral,,2838,7,No engagement
+acc_00020565,Paid social,Q4_Festive_2025,5250,0,No engagement
+acc_00020566,Organic search,,4749,3,Opened
+acc_00020567,Paid social,Q2_TaxFree_2024,20886,2,Clicked
+acc_00020569,Referral,,5224,7,No engagement
+acc_00020570,Paid social,Q4_Festive_2025,17253,0,No engagement
+acc_00020572,Direct,,3590,11,Opened
+acc_00020573,Email,Q4_Festive_2025,17282,9,Clicked
+acc_00020575,Paid search,Q1_YouthInvest_2025,13741,3,Clicked
+acc_00020576,Paid social,Q4_Festive_2024,6952,4,No engagement
+acc_00020577,App store,AlwaysOn_Search,39528,3,Opened
+acc_00020578,Influencer,Q2_TaxFree_2026,11372,2,Opened
+acc_00020582,Referral,,3170,3,No engagement
+acc_00020584,Paid search,Q2_TaxFree_2026,20471,5,Clicked
+acc_00020587,Paid search,AlwaysOn_Search,4137,7,Clicked
+acc_00020588,Email,Referral_Evergreen,7510,2,No engagement
+acc_00020591,Referral,,1151,1,Opened
+acc_00020592,Email,Q4_Festive_2024,8593,3,Opened
+acc_00020593,Direct,,2864,5,Opened
+acc_00020594,Email,Q2_TaxFree_2026,21807,5,No engagement
+acc_00020596,Organic search,,1717,5,No engagement
+acc_00020598,Influencer,Q4_Festive_2025,6880,2,No engagement
+acc_00020599,Paid social,Q1_StartSmall_2026,14543,9,No engagement
+acc_00020600,Referral,,1914,4,Opened
+acc_00020601,Paid social,Q1_YouthInvest_2025,19271,3,Opened
+acc_00020603,Paid social,Q3_Payday_2024,40664,2,Opened
+acc_00020604,Paid search,Q2_Offshore_2025,15893,6,No engagement
+acc_00020605,Organic search,,2973,1,Clicked
+acc_00020607,Paid search,Q1_YouthInvest_2025,22846,6,Opened
+acc_00020608,Influencer,Q1_YouthInvest_2025,19941,4,Opened
+acc_00020609,Paid search,Q4_Festive_2025,12150,7,Opened
+acc_00020611,Direct,,13976,5,Opened
+acc_00020612,Organic search,,3419,4,No engagement
+acc_00020613,Paid social,Q1_YouthInvest_2024,35845,1,No engagement
+acc_00020615,Paid search,Q3_Payday_2024,10083,6,Clicked
+acc_00020616,Email,Q1_YouthInvest_2024,14313,6,Opened
+acc_00020617,Paid social,Q2_Offshore_2025,29861,6,Clicked
+acc_00020619,App store,Q3_Payday_2024,11352,5,Clicked
+acc_00020620,Paid social,Referral_Evergreen,15989,0,No engagement
+acc_00020622,Direct,,3898,1,Opened
+acc_00020625,Paid social,Q1_StartSmall_2026,8618,3,No engagement
+acc_00020626,Direct,,3406,5,Opened
+acc_00020627,Paid search,Q1_StartSmall_2026,30012,3,Opened
+acc_00020628,Organic search,,2795,3,No engagement
+acc_00020631,Paid social,Q3_Payday_2024,30091,5,Opened
+acc_00020632,Paid social,Q2_TaxFree_2024,27021,7,Clicked
+acc_00020635,Organic search,,10035,8,Clicked
+acc_00020638,App store,Q4_Festive_2024,14898,4,Opened
+acc_00020640,Paid social,Q1_YouthInvest_2024,11618,5,Clicked
+acc_00020643,App store,Q1_YouthInvest_2025,17508,3,No engagement
+acc_00020644,Paid social,Referral_Evergreen,31771,7,No engagement
+acc_00020646,Email,Q2_TaxFree_2024,11564,6,Clicked
+acc_00020647,Paid search,Q4_Festive_2025,6435,2,Opened
+acc_00020650,App store,AlwaysOn_Search,74912,4,Opened
+acc_00020651,Email,Q3_Payday_2024,21495,0,No engagement
+acc_00020652,App store,Q2_Offshore_2025,12317,6,Opened
+acc_00020653,Influencer,Q3_Payday_2024,36444,4,Opened
+acc_00020655,Paid social,Q3_Payday_2024,28759,7,Clicked
+acc_00020657,Organic search,,5083,6,Opened
+acc_00020658,Paid social,Referral_Evergreen,15616,5,Opened
+acc_00020662,Organic search,,7095,8,No engagement
+acc_00020666,Paid social,Q2_TaxFree_2026,11556,4,Opened
+acc_00020669,Influencer,Q2_Offshore_2025,10809,4,Opened
+acc_00020670,Paid search,Q2_TaxFree_2026,8620,6,No engagement
+acc_00020671,Paid social,Q2_TaxFree_2024,13141,6,Opened
+acc_00020675,Paid social,Q1_YouthInvest_2024,16065,5,Clicked
+acc_00020676,App store,Q4_Festive_2024,23672,11,Opened
+acc_00020678,Email,Q1_StartSmall_2026,8489,6,No engagement
+acc_00020679,Paid social,Q1_StartSmall_2026,6275,2,Clicked
+acc_00020680,Direct,,1799,1,No engagement
+acc_00020681,App store,Q1_YouthInvest_2025,23510,7,Opened
+acc_00020682,Organic search,,6228,5,No engagement
+acc_00020683,App store,Q1_YouthInvest_2024,8330,8,Opened
+acc_00020684,Referral,,2329,10,Opened
+acc_00020685,Direct,,1697,6,Clicked
+acc_00020687,Referral,,1152,4,No engagement
+acc_00020689,Paid search,Q1_YouthInvest_2024,14740,3,Opened
+acc_00020691,Paid search,Q1_YouthInvest_2024,15908,2,Clicked
+acc_00020692,Paid search,Referral_Evergreen,9237,5,No engagement
+acc_00020693,Paid search,Q2_TaxFree_2026,7070,5,No engagement
+acc_00020694,Organic search,,2254,1,Opened
+acc_00020695,Email,Q3_Payday_2025,13460,4,No engagement
+acc_00020696,Paid social,Q3_Payday_2025,39719,11,Opened
+acc_00020697,Paid search,Q3_Payday_2025,25741,2,No engagement
+acc_00020699,Email,Q1_YouthInvest_2024,18267,4,Opened
+acc_00020701,Email,Q2_TaxFree_2026,7987,5,No engagement
+acc_00020703,Influencer,Q1_StartSmall_2026,13121,6,Opened
+acc_00020705,Paid social,AlwaysOn_Search,10258,1,Opened
+acc_00020706,Paid search,Q2_Offshore_2025,29996,6,Clicked
+acc_00020707,Organic search,,1171,3,Clicked
+acc_00020713,Paid search,Q2_TaxFree_2024,17757,4,No engagement
+acc_00020714,Paid social,Q1_YouthInvest_2024,17305,6,Clicked
+acc_00020715,Organic search,,4324,4,Opened
+acc_00020718,Paid social,Q3_Payday_2024,9243,6,Opened
+acc_00020720,Organic search,,3659,0,No engagement
+acc_00020721,Paid social,Q4_Festive_2025,9979,6,Opened
+acc_00020722,Organic search,,3777,6,No engagement
+acc_00020723,Paid social,Q2_TaxFree_2024,12185,3,Clicked
+acc_00020726,Referral,,4952,4,Clicked
+acc_00020731,App store,Q4_Festive_2024,8526,5,No engagement
+acc_00020732,Paid search,AlwaysOn_Search,24311,4,Opened
+acc_00020733,Paid social,Referral_Evergreen,11897,1,Clicked
+acc_00020735,Referral,,2041,4,Opened
+acc_00020736,App store,Q3_Payday_2025,8079,4,Opened
+acc_00020737,Paid social,Referral_Evergreen,18838,5,Clicked
+acc_00020739,Organic search,,7832,4,Clicked
+acc_00020740,Email,Q1_StartSmall_2026,14091,4,Opened
+acc_00020741,Paid social,Q2_Offshore_2025,7055,2,No engagement
+acc_00020742,Paid social,Q3_Payday_2024,14889,3,Opened
+acc_00020744,Paid social,Q2_TaxFree_2024,18586,9,No engagement
+acc_00020745,Direct,,6561,6,Clicked
+acc_00020746,Email,AlwaysOn_Search,16506,6,Opened
+acc_00020748,Paid social,Q3_Payday_2024,22372,9,Opened
+acc_00020749,Paid search,Q2_Offshore_2025,20308,4,Clicked
+acc_00020750,Paid search,Q3_Payday_2024,11756,3,No engagement
+acc_00020751,Paid social,Q3_Payday_2025,31136,6,No engagement
+acc_00020753,Paid social,Q2_TaxFree_2024,37436,5,No engagement
+acc_00020754,App store,Q3_Payday_2024,20692,7,Clicked
+acc_00020760,Paid social,Q3_Payday_2024,15657,4,Clicked
+acc_00020763,Paid search,Referral_Evergreen,22174,1,No engagement
+acc_00020765,Paid search,Q2_Offshore_2025,30890,4,No engagement
+acc_00020768,Referral,,1779,7,Clicked
+acc_00020769,Paid search,Q1_StartSmall_2026,12851,4,No engagement
+acc_00020770,Paid search,Q1_YouthInvest_2024,8251,6,Opened
+acc_00020771,Paid social,Q2_TaxFree_2024,21929,5,Opened
+acc_00020773,Organic search,,4309,7,No engagement
+acc_00020774,Influencer,Q1_YouthInvest_2024,16892,2,Clicked
+acc_00020775,Organic search,,2083,4,Clicked
+acc_00020776,Email,Q4_Festive_2025,28808,4,Opened
+acc_00020778,App store,AlwaysOn_Search,32537,5,Clicked
+acc_00020779,Paid social,Q3_Payday_2025,15312,2,No engagement
+acc_00020780,Influencer,AlwaysOn_Search,13367,2,Opened
+acc_00020781,App store,AlwaysOn_Search,14627,8,Opened
+acc_00020783,Influencer,Q1_YouthInvest_2025,11748,4,Opened
+acc_00020784,Influencer,Q4_Festive_2025,18990,4,No engagement
+acc_00020785,Direct,,3570,2,Opened
+acc_00020795,Email,Q3_Payday_2024,52221,2,No engagement
+acc_00020796,App store,Q2_TaxFree_2026,29586,5,Opened
+acc_00020800,Paid social,Q2_TaxFree_2026,10305,4,No engagement
+acc_00020802,Paid social,Q3_Payday_2024,23031,4,Clicked
+acc_00020804,Paid social,Q2_TaxFree_2024,10764,5,Clicked
+acc_00020805,Direct,,719,3,Opened
+acc_00020809,Organic search,,3105,5,Opened
+acc_00020814,Email,AlwaysOn_Search,20607,4,Clicked
+acc_00020815,App store,Q1_YouthInvest_2024,20933,5,Clicked
+acc_00020817,Paid social,Q1_YouthInvest_2025,13343,5,Opened
+acc_00020818,Paid social,Q3_Payday_2024,11860,4,Clicked
+acc_00020819,Referral,,5428,7,Opened
+acc_00020820,Paid social,Q4_Festive_2025,48467,5,No engagement
+acc_00020821,Paid social,Q1_YouthInvest_2025,15641,5,Opened
+acc_00020822,Organic search,,1091,3,No engagement
+acc_00020823,Paid search,Q2_TaxFree_2026,8353,1,No engagement
+acc_00020824,Paid social,Q1_YouthInvest_2024,31042,4,Opened
+acc_00020827,Referral,,1739,0,No engagement
+acc_00020829,Influencer,Q3_Payday_2024,15281,1,No engagement
+acc_00020830,Organic search,,2005,3,Opened
+acc_00020831,Paid social,AlwaysOn_Search,33450,2,Clicked
+acc_00020832,Paid social,Q4_Festive_2025,33322,5,No engagement
+acc_00020833,Organic search,,1258,7,No engagement
+acc_00020835,Paid social,Q4_Festive_2025,23784,0,No engagement
+acc_00020836,Email,Q1_StartSmall_2026,19300,7,Opened
+acc_00020843,Paid social,Q2_TaxFree_2024,14524,3,Opened
+acc_00020847,Paid social,Q2_Offshore_2025,17602,3,No engagement
+acc_00020848,Direct,,1804,5,Opened
+acc_00020849,App store,Q1_StartSmall_2026,20359,0,No engagement
+acc_00020850,Paid search,AlwaysOn_Search,33558,3,No engagement
+acc_00020853,Paid social,Q2_Offshore_2025,13643,3,Clicked
+acc_00020854,Paid social,Q2_Offshore_2025,11610,3,Clicked
+acc_00020856,Paid social,Q2_TaxFree_2026,28139,4,Clicked
+acc_00020857,Paid social,Referral_Evergreen,16665,3,Clicked
+acc_00020858,Organic search,,3581,2,No engagement
+acc_00020860,Organic search,,1913,3,No engagement
+acc_00020861,Influencer,Q1_StartSmall_2026,26492,3,Opened
+acc_00020863,Paid social,AlwaysOn_Search,23123,5,No engagement
+acc_00020864,Referral,,5047,3,No engagement
+acc_00020865,Influencer,Q2_TaxFree_2026,9580,7,Clicked
+acc_00020866,Paid social,Q2_TaxFree_2024,17591,5,No engagement
+acc_00020868,Email,Q4_Festive_2024,20624,6,Clicked
+acc_00020869,App store,Referral_Evergreen,22609,5,No engagement
+acc_00020870,Email,AlwaysOn_Search,22704,4,Opened
+acc_00020871,Paid search,Q3_Payday_2025,12203,4,No engagement
+acc_00020872,Email,Q1_StartSmall_2026,16340,4,Clicked
+acc_00020873,Organic search,,2971,5,No engagement
+acc_00020874,Email,Q3_Payday_2024,21948,4,Opened
+acc_00020875,Paid social,Referral_Evergreen,9947,6,Opened
+acc_00020876,App store,Q3_Payday_2024,18303,4,Opened
+acc_00020881,Paid search,Q3_Payday_2024,27406,3,No engagement
+acc_00020883,Paid social,Q1_YouthInvest_2024,18697,2,Clicked
+acc_00020884,App store,Q3_Payday_2024,8321,0,No engagement
+acc_00020886,Paid search,Q3_Payday_2024,9082,4,Opened
+acc_00020887,Referral,,5679,6,Clicked
+acc_00020888,Organic search,,2115,4,Opened
+acc_00020889,Paid search,Q1_StartSmall_2026,12196,7,No engagement
+acc_00020890,Referral,,3498,10,No engagement
+acc_00020892,Paid social,Referral_Evergreen,26560,4,No engagement
+acc_00020893,Referral,,4608,4,Opened
+acc_00020894,Referral,,3468,4,No engagement
+acc_00020896,App store,Q2_Offshore_2025,11822,5,Opened
+acc_00020897,Paid search,Q1_StartSmall_2026,27167,4,No engagement
+acc_00020898,Organic search,,994,9,Clicked
+acc_00020899,App store,Referral_Evergreen,23662,7,No engagement
+acc_00020900,Paid social,Q1_YouthInvest_2025,99144,6,No engagement
+acc_00020902,Paid social,Q2_TaxFree_2024,28138,2,No engagement
+acc_00020903,Paid social,Q2_TaxFree_2024,46810,4,Opened
+acc_00020904,Email,Q1_YouthInvest_2025,11368,5,Opened
+acc_00020906,Paid social,Q2_TaxFree_2024,4833,8,No engagement
+acc_00020910,App store,Q1_StartSmall_2026,26297,10,Clicked
+acc_00020911,Direct,,10182,5,Opened
+acc_00020913,Organic search,,6501,6,No engagement
+acc_00020914,Influencer,Q4_Festive_2025,13444,3,Opened
+acc_00020916,App store,Q3_Payday_2025,16400,3,No engagement
+acc_00020919,Organic search,,8491,4,Opened
+acc_00020920,Paid social,Referral_Evergreen,24434,4,No engagement
+acc_00020921,Email,Referral_Evergreen,5916,3,Clicked
+acc_00020922,Paid search,Q4_Festive_2024,4522,9,Clicked
+acc_00020923,Paid social,Q4_Festive_2024,8497,4,Clicked
+acc_00020924,Paid search,Q3_Payday_2025,14107,6,No engagement
+acc_00020925,App store,Q1_StartSmall_2026,16462,3,No engagement
+acc_00020927,Paid social,Q2_TaxFree_2024,11197,5,No engagement
+acc_00020928,Referral,,2623,7,Opened
+acc_00020931,Email,Q2_TaxFree_2026,11859,6,No engagement
+acc_00020933,Referral,,2792,3,Clicked
+acc_00020937,Paid social,Referral_Evergreen,8256,7,No engagement
+acc_00020938,Email,Q2_Offshore_2025,26378,1,Opened
+acc_00020939,Paid social,Q2_TaxFree_2026,31339,4,No engagement
+acc_00020940,Paid search,AlwaysOn_Search,16459,10,Opened
+acc_00020941,Organic search,,1763,0,No engagement
+acc_00020942,Organic search,,2770,4,Clicked
+acc_00020944,Email,Q3_Payday_2024,26252,6,No engagement
+acc_00020945,Influencer,Q2_Offshore_2025,28531,6,Opened
+acc_00020946,Email,Q1_YouthInvest_2024,31113,3,Opened
+acc_00020947,Organic search,,7833,2,No engagement
+acc_00020948,Organic search,,2181,7,No engagement
+acc_00020949,App store,Q3_Payday_2024,5496,6,Clicked
+acc_00020951,Paid social,AlwaysOn_Search,24466,7,Opened
+acc_00020952,Paid social,AlwaysOn_Search,22470,6,Clicked
+acc_00020953,Organic search,,4419,8,No engagement
+acc_00020954,Direct,,3558,3,Opened
+acc_00020956,Organic search,,2060,2,No engagement
+acc_00020958,Organic search,,3266,4,Opened
+acc_00020959,Paid social,Q2_TaxFree_2026,20849,3,Opened
+acc_00020961,Paid social,Q2_TaxFree_2024,13464,2,Opened
+acc_00020962,Paid social,Q1_YouthInvest_2025,13941,6,Clicked
+acc_00020963,Referral,,1217,5,No engagement
+acc_00020965,Paid social,Q1_StartSmall_2026,19451,3,Clicked
+acc_00020966,Paid search,Q3_Payday_2025,21391,4,No engagement
+acc_00020967,Organic search,,14902,0,No engagement
+acc_00020968,Organic search,,1691,0,No engagement
+acc_00020969,Paid social,Q2_TaxFree_2026,23254,8,No engagement
+acc_00020971,Paid social,Q2_TaxFree_2024,30470,0,No engagement
+acc_00020975,Paid social,Q3_Payday_2024,15894,3,No engagement
+acc_00020976,App store,Q1_StartSmall_2026,28713,6,No engagement
+acc_00020977,Organic search,,3194,6,Opened
+acc_00020979,Referral,,921,7,Opened
+acc_00020981,Paid search,Q1_YouthInvest_2025,17199,3,No engagement
+acc_00020982,Email,Q1_YouthInvest_2024,23820,5,No engagement
+acc_00020983,Influencer,Q2_TaxFree_2024,30947,3,No engagement
+acc_00020985,Direct,,1605,9,No engagement
+acc_00020987,Paid social,AlwaysOn_Search,6285,6,No engagement
+acc_00020988,Paid social,Q3_Payday_2024,13592,3,No engagement
+acc_00020990,Referral,,3219,7,Clicked
+acc_00020991,Paid social,Q2_TaxFree_2024,36600,1,No engagement
+acc_00020992,Paid search,Q2_Offshore_2025,25908,5,Opened
+acc_00020996,Referral,,1497,1,Opened
+acc_00020998,Paid social,Q4_Festive_2024,13936,4,No engagement
+acc_00020999,Paid social,AlwaysOn_Search,18169,4,No engagement
+acc_00021000,Organic search,,1312,2,Opened
+acc_00021001,Paid search,Q3_Payday_2024,19398,1,Opened
+acc_00021002,Influencer,Q2_Offshore_2025,11420,3,Clicked
+acc_00021005,Referral,,1527,4,Opened
+acc_00021007,Paid social,Q2_Offshore_2025,14314,6,No engagement
+acc_00021008,Direct,,878,5,Opened
+acc_00021009,Paid social,Referral_Evergreen,18878,6,No engagement
+acc_00021010,Paid social,AlwaysOn_Search,12173,5,No engagement
+acc_00021011,App store,Referral_Evergreen,10359,6,Clicked
+acc_00021012,Paid search,AlwaysOn_Search,28755,4,Clicked
+acc_00021013,Referral,,1979,7,Opened
+acc_00021015,App store,Q2_Offshore_2025,15673,9,Clicked
+acc_00021016,Organic search,,3278,1,No engagement
+acc_00021017,Organic search,,2661,5,Opened
+acc_00021020,Paid social,Q4_Festive_2025,10223,4,No engagement
+acc_00021021,App store,Q4_Festive_2025,19789,5,Opened
+acc_00021022,Organic search,,3155,5,Opened
+acc_00021023,Paid social,Referral_Evergreen,12189,2,Opened
+acc_00021025,Influencer,Q2_TaxFree_2024,5865,5,Opened
+acc_00021026,Paid search,Q2_TaxFree_2024,29108,4,No engagement
+acc_00021027,App store,AlwaysOn_Search,5730,9,Opened
+acc_00021028,Paid social,AlwaysOn_Search,21577,0,No engagement
+acc_00021029,Paid social,Q3_Payday_2025,20668,3,Opened
+acc_00021031,Paid social,Q3_Payday_2025,9404,3,Clicked
+acc_00021032,Paid social,Q2_TaxFree_2026,9412,6,Opened
+acc_00021034,Email,Q2_TaxFree_2026,40344,6,Opened
+acc_00021035,Paid social,Q3_Payday_2025,12717,3,No engagement
+acc_00021036,Paid social,Q1_YouthInvest_2024,28250,7,No engagement
+acc_00021037,Paid social,Q2_TaxFree_2026,17044,5,Opened
+acc_00021038,Paid social,Q3_Payday_2025,30394,6,No engagement
+acc_00021040,Influencer,AlwaysOn_Search,11905,6,No engagement
+acc_00021041,Organic search,,2908,7,Opened
+acc_00021043,Email,Q4_Festive_2024,9970,3,No engagement
+acc_00021045,Paid social,Q4_Festive_2025,6147,2,Clicked
+acc_00021046,Referral,,2485,4,Opened
+acc_00021047,Paid search,Q4_Festive_2025,53784,5,Clicked
+acc_00021048,Paid social,Q1_YouthInvest_2025,36883,3,Clicked
+acc_00021050,Paid social,AlwaysOn_Search,23050,7,Clicked
+acc_00021051,Referral,,4735,6,No engagement
+acc_00021052,Organic search,,4055,3,No engagement
+acc_00021053,Email,Q2_TaxFree_2026,15943,9,Opened
+acc_00021054,Paid social,Q1_StartSmall_2026,9493,5,No engagement
+acc_00021056,Paid social,Q2_TaxFree_2026,6647,4,No engagement
+acc_00021057,Paid social,Q4_Festive_2025,26150,7,Clicked
+acc_00021059,Referral,,2134,7,Clicked
+acc_00021060,Direct,,8703,3,Opened
+acc_00021061,Influencer,AlwaysOn_Search,14145,3,No engagement
+acc_00021065,Paid search,Q3_Payday_2025,6641,6,Opened
+acc_00021066,Direct,,2412,3,No engagement
+acc_00021067,Paid social,Referral_Evergreen,16141,4,No engagement
+acc_00021069,Paid social,AlwaysOn_Search,15215,6,Clicked
+acc_00021070,Influencer,Q3_Payday_2025,12117,4,No engagement
+acc_00021071,Email,Q1_YouthInvest_2025,25171,7,No engagement
+acc_00021072,Referral,,5040,4,No engagement
+acc_00021073,App store,Q2_Offshore_2025,15359,6,Clicked
+acc_00021074,Influencer,Q2_TaxFree_2026,21017,5,Opened
+acc_00021077,Paid search,Q1_StartSmall_2026,16862,9,Opened
+acc_00021078,Paid search,Q4_Festive_2024,13636,3,No engagement
+acc_00021079,Referral,,5452,5,Opened
+acc_00021080,Referral,,3986,3,Clicked
+acc_00021082,Referral,,4137,2,No engagement
+acc_00021083,Influencer,AlwaysOn_Search,14571,5,Opened
+acc_00021084,Email,Q2_TaxFree_2024,9749,8,No engagement
+acc_00021085,Influencer,Q4_Festive_2025,22596,7,No engagement
+acc_00021088,Paid social,Q2_Offshore_2025,29393,5,Opened
+acc_00021091,Organic search,,3662,6,Opened
+acc_00021092,Email,Referral_Evergreen,12679,5,No engagement
+acc_00021093,Referral,,8712,5,Clicked
+acc_00021094,Organic search,,1841,8,Clicked
+acc_00021095,Referral,,2946,2,Opened
+acc_00021096,Referral,,4389,4,Opened
+acc_00021098,Paid search,Q3_Payday_2025,22794,7,No engagement
+acc_00021099,Direct,,2733,0,No engagement
+acc_00021100,Paid social,Q2_TaxFree_2026,16743,6,Clicked
+acc_00021101,Paid search,Q3_Payday_2025,13078,4,Opened
+acc_00021102,Paid search,Referral_Evergreen,22821,6,No engagement
+acc_00021104,Paid social,Q4_Festive_2024,22069,0,No engagement
+acc_00021108,Direct,,1895,3,Clicked
+acc_00021109,Paid search,Q1_YouthInvest_2024,11901,3,Clicked
+acc_00021110,Paid social,Q3_Payday_2024,10990,6,No engagement
+acc_00021111,App store,Q3_Payday_2024,18647,11,No engagement
+acc_00021112,Paid search,Q1_YouthInvest_2024,15519,6,Clicked
+acc_00021113,Referral,,2482,5,Opened
+acc_00021114,Paid search,Q2_TaxFree_2026,23663,1,No engagement
+acc_00021115,Paid social,Q2_Offshore_2025,8565,3,Opened
+acc_00021116,Organic search,,599,9,Opened
+acc_00021118,Influencer,Q2_TaxFree_2026,23693,5,No engagement
+acc_00021119,Organic search,,1371,3,No engagement
+acc_00021123,Referral,,11626,5,Opened
+acc_00021124,Referral,,1403,5,Clicked
+acc_00021125,Organic search,,4113,4,No engagement
+acc_00021127,Referral,,4955,4,Opened
+acc_00021129,Paid search,Q2_TaxFree_2024,11937,3,Opened
+acc_00021130,Organic search,,3957,6,No engagement
+acc_00021131,Organic search,,5177,3,Opened
+acc_00021133,Direct,,3972,4,Clicked
+acc_00021135,Paid search,Q2_TaxFree_2024,9728,5,Clicked
+acc_00021137,App store,Referral_Evergreen,14141,4,Opened
+acc_00021138,Organic search,,1930,4,No engagement
+acc_00021139,Email,Q2_TaxFree_2026,29345,2,Opened
+acc_00021140,Paid search,Q4_Festive_2025,6217,4,Clicked
+acc_00021143,App store,Referral_Evergreen,23245,7,Clicked
+acc_00021144,Paid social,Q4_Festive_2024,10503,6,Opened
+acc_00021145,App store,Q2_Offshore_2025,31267,4,Clicked
+acc_00021146,App store,Q1_YouthInvest_2025,13247,5,No engagement
+acc_00021147,Paid search,Q3_Payday_2025,6611,5,Opened
+acc_00021148,Referral,,1450,3,Opened
+acc_00021149,Influencer,Q2_TaxFree_2026,29394,7,No engagement
+acc_00021152,Paid social,Q1_StartSmall_2026,14008,8,No engagement
+acc_00021153,Paid social,Referral_Evergreen,30993,4,Opened
+acc_00021154,Paid search,Q1_StartSmall_2026,14759,3,No engagement
+acc_00021155,Referral,,4498,0,No engagement
+acc_00021156,Paid search,Q2_TaxFree_2024,9466,5,No engagement
+acc_00021157,App store,Q1_YouthInvest_2025,6065,6,Clicked
+acc_00021158,Organic search,,2254,6,No engagement
+acc_00021162,Referral,,1631,5,Clicked
+acc_00021165,Email,Q4_Festive_2024,16578,6,Clicked
+acc_00021166,Paid social,Referral_Evergreen,36542,3,Clicked
+acc_00021167,Referral,,2777,7,Clicked
+acc_00021169,Paid social,Q1_YouthInvest_2025,12931,1,No engagement
+acc_00021170,Paid social,Q1_YouthInvest_2025,8697,2,No engagement
+acc_00021171,Paid social,Q2_TaxFree_2024,20913,2,No engagement
+acc_00021172,Email,Q2_TaxFree_2026,34014,4,Opened
+acc_00021173,Influencer,Q2_TaxFree_2026,39498,5,Opened
+acc_00021174,Influencer,Q1_StartSmall_2026,8329,3,No engagement
+acc_00021175,Paid social,Q2_TaxFree_2024,20182,1,Clicked
+acc_00021176,App store,Referral_Evergreen,42540,5,Opened
+acc_00021177,Paid search,Q4_Festive_2024,26275,4,Opened
+acc_00021179,App store,Q4_Festive_2025,18669,5,Clicked
+acc_00021180,Direct,,8287,3,Opened
+acc_00021181,Email,Q1_StartSmall_2026,16360,8,Opened
+acc_00021182,Paid social,Q2_Offshore_2025,16505,6,No engagement
+acc_00021183,Email,Q1_YouthInvest_2025,8102,4,Opened
+acc_00021184,Paid social,Q1_YouthInvest_2025,18961,2,Opened
+acc_00021185,App store,Q2_TaxFree_2026,12807,3,Opened
+acc_00021188,Email,Q3_Payday_2025,19494,1,Clicked
+acc_00021189,Influencer,AlwaysOn_Search,11141,4,No engagement
+acc_00021190,Paid social,Q2_TaxFree_2024,12683,4,No engagement
+acc_00021192,Direct,,2100,2,Opened
+acc_00021194,Referral,,7448,6,Clicked
+acc_00021195,Paid search,Q1_StartSmall_2026,5584,3,Opened
+acc_00021197,Referral,,5246,1,No engagement
+acc_00021198,Paid social,AlwaysOn_Search,46607,3,No engagement
+acc_00021201,Direct,,2793,4,Opened
+acc_00021202,Paid social,Q4_Festive_2024,4249,7,Opened
+acc_00021203,Referral,,2522,7,No engagement
+acc_00021205,Paid social,Q2_TaxFree_2026,46319,7,Opened
+acc_00021206,App store,Q1_YouthInvest_2024,27035,5,Clicked
+acc_00021207,App store,Q3_Payday_2025,8733,5,No engagement
+acc_00021208,Influencer,Q1_YouthInvest_2025,19173,4,Clicked
+acc_00021209,App store,Q3_Payday_2025,26416,4,No engagement
+acc_00021210,Referral,,4027,4,Opened
+acc_00021211,Paid social,Q2_TaxFree_2026,41444,7,Clicked
+acc_00021214,Paid search,Q1_StartSmall_2026,23381,7,No engagement
+acc_00021216,Email,Q4_Festive_2025,23094,3,No engagement
+acc_00021217,Paid search,Q2_TaxFree_2026,18515,7,No engagement
+acc_00021219,Direct,,1721,3,No engagement
+acc_00021220,Paid social,AlwaysOn_Search,71938,3,No engagement
+acc_00021221,Email,Q2_TaxFree_2026,4619,7,No engagement
+acc_00021222,Paid social,Q3_Payday_2025,26360,4,No engagement
+acc_00021223,Organic search,,2335,8,Opened
+acc_00021224,Organic search,,1537,4,Clicked
+acc_00021226,Referral,,6800,6,Opened
+acc_00021229,Email,Q2_TaxFree_2026,39833,4,Clicked
+acc_00021230,Paid search,Referral_Evergreen,23692,8,No engagement
+acc_00021231,Referral,,2371,4,Opened
+acc_00021233,Paid social,Q4_Festive_2024,15818,2,No engagement
+acc_00021234,Paid social,Q3_Payday_2025,18620,0,No engagement
+acc_00021236,App store,Q4_Festive_2025,12135,7,Opened
+acc_00021238,Organic search,,3399,5,No engagement
+acc_00021239,Paid search,Q4_Festive_2025,20105,5,No engagement
+acc_00021242,App store,Q1_YouthInvest_2025,21906,1,Clicked
+acc_00021243,Email,Q4_Festive_2025,15910,9,No engagement
+acc_00021244,Organic search,,1540,1,Opened
+acc_00021245,Paid social,Q3_Payday_2024,10727,7,Clicked
+acc_00021247,Email,Q3_Payday_2025,17299,4,No engagement
+acc_00021249,Paid search,Q1_YouthInvest_2024,13233,1,Opened
+acc_00021250,Paid search,AlwaysOn_Search,5616,6,No engagement
+acc_00021251,Influencer,Q1_StartSmall_2026,24846,3,Clicked
+acc_00021252,Paid social,Q2_TaxFree_2026,28081,4,Clicked
+acc_00021253,App store,Q1_YouthInvest_2024,20790,5,No engagement
+acc_00021255,Paid social,Q2_Offshore_2025,43352,5,Opened
+acc_00021256,Email,Q4_Festive_2024,53382,4,No engagement
+acc_00021257,Organic search,,2777,6,Opened
+acc_00021258,Organic search,,4888,9,Clicked
+acc_00021259,Paid social,Q4_Festive_2025,6597,8,No engagement
+acc_00021260,Organic search,,2418,5,No engagement
+acc_00021261,Paid social,Q2_TaxFree_2024,17347,4,Opened
+acc_00021263,Paid social,AlwaysOn_Search,5104,0,No engagement
+acc_00021264,Organic search,,1142,4,No engagement
+acc_00021265,Referral,,3049,5,Opened
+acc_00021267,Paid search,AlwaysOn_Search,23421,5,Opened
+acc_00021270,App store,Q4_Festive_2025,5354,8,No engagement
+acc_00021273,Referral,,3875,0,No engagement
+acc_00021275,Direct,,2261,2,Opened
+acc_00021276,Paid search,AlwaysOn_Search,25236,6,No engagement
+acc_00021277,Referral,,6691,7,Opened
+acc_00021278,Email,Q4_Festive_2025,25636,8,Clicked
+acc_00021279,App store,Q3_Payday_2024,13219,5,No engagement
+acc_00021280,Email,AlwaysOn_Search,9547,5,No engagement
+acc_00021281,Organic search,,5457,7,Clicked
+acc_00021282,Paid social,Referral_Evergreen,32498,7,Opened
+acc_00021283,Direct,,2352,0,No engagement
+acc_00021284,Referral,,5925,5,Opened
+acc_00021286,Direct,,3491,1,Opened
+acc_00021287,Influencer,Referral_Evergreen,10112,4,Opened
+acc_00021288,Influencer,Q3_Payday_2024,7710,4,No engagement
+acc_00021289,Email,Q1_YouthInvest_2024,39674,6,No engagement
+acc_00021290,App store,Q1_YouthInvest_2025,13342,7,Clicked
+acc_00021291,App store,Q2_TaxFree_2024,10722,8,Opened
+acc_00021292,Organic search,,3475,5,Opened
+acc_00021294,Email,Q3_Payday_2025,17210,8,No engagement
+acc_00021295,Influencer,Q1_YouthInvest_2024,37182,5,Opened
+acc_00021297,Referral,,5459,2,Opened
+acc_00021298,Organic search,,4069,3,Clicked
+acc_00021299,Paid search,Q4_Festive_2025,36478,5,No engagement
+acc_00021300,Organic search,,2399,6,Opened
+acc_00021301,Paid social,Referral_Evergreen,27598,0,No engagement
+acc_00021302,Paid search,Q4_Festive_2024,23137,5,Clicked
+acc_00021303,Organic search,,3187,4,Clicked
+acc_00021304,Paid social,Q1_YouthInvest_2025,23301,7,Opened
+acc_00021305,Influencer,Q4_Festive_2024,38248,4,No engagement
+acc_00021307,Paid social,Q2_Offshore_2025,16469,5,No engagement
+acc_00021308,Paid social,AlwaysOn_Search,25588,5,No engagement
+acc_00021309,App store,Q3_Payday_2024,26098,6,No engagement
+acc_00021310,Paid social,Q2_TaxFree_2026,24021,0,No engagement
+acc_00021311,Paid social,Q2_TaxFree_2024,11461,4,No engagement
+acc_00021313,App store,Q1_StartSmall_2026,33578,6,Opened
+acc_00021314,Paid search,Q3_Payday_2025,7804,4,Clicked
+acc_00021315,Email,Q2_Offshore_2025,16419,5,Clicked
+acc_00021317,Email,Q1_YouthInvest_2025,26934,7,Clicked
+acc_00021318,Paid search,Q1_YouthInvest_2024,20333,7,Clicked
+acc_00021319,Paid social,Q4_Festive_2025,11552,0,No engagement
+acc_00021320,Paid social,Q3_Payday_2025,5259,3,Clicked
+acc_00021322,Paid social,Q2_TaxFree_2024,21963,0,No engagement
+acc_00021323,App store,Q1_YouthInvest_2025,11399,4,Clicked
+acc_00021324,App store,Q4_Festive_2025,39998,5,No engagement
+acc_00021326,Referral,,3977,6,No engagement
+acc_00021327,Organic search,,3548,2,Opened
+acc_00021328,Email,Q2_TaxFree_2026,12736,4,Opened
+acc_00021329,Paid social,Referral_Evergreen,13222,8,Clicked
+acc_00021330,Organic search,,4556,8,Opened
+acc_00021332,Paid search,AlwaysOn_Search,27543,6,No engagement
+acc_00021333,Organic search,,3848,6,No engagement
+acc_00021334,Referral,,6051,8,Opened
+acc_00021335,Paid search,Q2_Offshore_2025,4991,3,Clicked
+acc_00021337,Referral,,4087,5,Clicked
+acc_00021339,Referral,,1564,4,No engagement
+acc_00021340,Email,Q1_YouthInvest_2025,11832,2,No engagement
+acc_00021341,Paid search,Q3_Payday_2025,9540,3,Opened
+acc_00021342,Paid social,Q2_TaxFree_2026,10461,4,No engagement
+acc_00021343,Influencer,Q3_Payday_2024,11352,2,No engagement
+acc_00021344,Paid social,Q1_YouthInvest_2025,9025,5,No engagement
+acc_00021345,Email,Q2_TaxFree_2024,20177,7,No engagement
+acc_00021346,Referral,,2898,7,Clicked
+acc_00021348,Paid social,Q2_TaxFree_2026,7988,4,No engagement
+acc_00021350,Paid search,Q1_YouthInvest_2025,45557,6,No engagement
+acc_00021355,Organic search,,7007,8,Clicked
+acc_00021356,Referral,,2880,5,No engagement
+acc_00021358,Paid social,Referral_Evergreen,18557,8,No engagement
+acc_00021359,Paid social,Q1_StartSmall_2026,10264,4,Opened
+acc_00021361,Paid social,Q4_Festive_2025,9956,6,No engagement
+acc_00021364,Paid social,Q1_YouthInvest_2024,15573,6,Clicked
+acc_00021365,Paid social,Q4_Festive_2025,6953,5,Clicked
+acc_00021366,Organic search,,1759,5,No engagement
+acc_00021368,Paid social,Q3_Payday_2025,13847,6,Opened
+acc_00021370,App store,Q3_Payday_2025,19494,5,Opened
+acc_00021371,App store,Q2_Offshore_2025,7779,6,No engagement
+acc_00021372,Paid search,Q2_Offshore_2025,13533,3,Clicked
+acc_00021373,Paid social,Q4_Festive_2024,8748,0,No engagement
+acc_00021375,Organic search,,772,3,Clicked
+acc_00021377,Organic search,,10339,4,Opened
+acc_00021378,Organic search,,1564,8,No engagement
+acc_00021379,Paid social,Q2_Offshore_2025,24680,4,Opened
+acc_00021380,App store,AlwaysOn_Search,20435,4,No engagement
+acc_00021383,Referral,,5565,5,Clicked
+acc_00021385,Paid search,Q1_YouthInvest_2025,22099,10,Opened
+acc_00021386,Influencer,Q4_Festive_2024,19059,5,Opened
+acc_00021387,Organic search,,5237,5,Opened
+acc_00021388,Paid search,Referral_Evergreen,18462,6,No engagement
+acc_00021389,Influencer,Q3_Payday_2024,45906,4,Clicked
+acc_00021390,Organic search,,3435,7,No engagement
+acc_00021391,Paid social,Q2_TaxFree_2026,23622,5,Opened
+acc_00021392,Influencer,Q1_YouthInvest_2025,23574,8,Opened
+acc_00021393,Paid social,Referral_Evergreen,15216,1,Clicked
+acc_00021394,Referral,,2128,6,Opened
+acc_00021395,Paid social,Referral_Evergreen,4332,8,Opened
+acc_00021396,Direct,,5425,2,Opened
+acc_00021400,Paid search,Q2_TaxFree_2024,49057,7,Opened
+acc_00021401,Organic search,,2298,5,Opened
+acc_00021402,Influencer,Q4_Festive_2025,18032,8,Clicked
+acc_00021406,App store,Q4_Festive_2024,19437,2,No engagement
+acc_00021408,App store,Q2_TaxFree_2026,15764,3,Opened
+acc_00021409,Influencer,Referral_Evergreen,7897,5,No engagement
+acc_00021410,App store,Q4_Festive_2024,11876,3,Clicked
+acc_00021411,Paid social,Q2_TaxFree_2026,19766,3,Clicked
+acc_00021413,Paid social,Referral_Evergreen,38346,6,Clicked
+acc_00021415,Paid search,Q3_Payday_2025,9137,1,Opened
+acc_00021416,Paid search,Q1_StartSmall_2026,32156,7,Clicked
+acc_00021417,Email,Q4_Festive_2024,42353,7,Clicked
+acc_00021418,Organic search,,3340,6,No engagement
+acc_00021419,Paid social,Q1_StartSmall_2026,12379,3,Clicked
+acc_00021421,App store,Q2_TaxFree_2026,37464,1,Clicked
+acc_00021423,Organic search,,4527,4,Opened
+acc_00021424,Organic search,,2628,4,Opened
+acc_00021425,App store,Q3_Payday_2024,43160,5,Opened
+acc_00021430,Direct,,2763,2,Opened
+acc_00021431,Organic search,,3989,0,No engagement
+acc_00021434,Referral,,5176,2,No engagement
+acc_00021435,Paid social,Q1_YouthInvest_2024,11696,1,No engagement
+acc_00021437,Organic search,,2330,5,No engagement
+acc_00021440,App store,Q2_TaxFree_2026,19691,3,No engagement
+acc_00021441,Referral,,853,4,Opened
+acc_00021442,Referral,,4414,6,Opened
+acc_00021444,Organic search,,1862,7,No engagement
+acc_00021445,Email,Q2_Offshore_2025,20456,8,Clicked
+acc_00021446,Organic search,,1374,3,Opened
+acc_00021448,Paid social,Q1_YouthInvest_2025,28711,8,Clicked
+acc_00021450,Direct,,4645,7,No engagement
+acc_00021451,Direct,,6463,4,Clicked
+acc_00021452,Referral,,1791,0,No engagement
+acc_00021453,Paid search,Q1_StartSmall_2026,9678,6,Opened
+acc_00021454,App store,Q1_StartSmall_2026,18740,2,Clicked
+acc_00021456,Email,Q3_Payday_2025,27837,2,Clicked
+acc_00021457,App store,Q2_TaxFree_2024,11012,7,Opened
+acc_00021458,Paid social,Q3_Payday_2024,9596,8,Clicked
+acc_00021462,Paid social,Q1_YouthInvest_2024,19638,6,Clicked
+acc_00021463,Email,Q1_YouthInvest_2025,11844,8,Opened
+acc_00021464,Paid social,Q4_Festive_2025,11886,0,No engagement
+acc_00021465,Referral,,2166,3,Opened
+acc_00021466,Direct,,4260,5,No engagement
+acc_00021467,Organic search,,2096,9,No engagement
+acc_00021468,Email,Q1_StartSmall_2026,19751,5,Clicked
+acc_00021472,Paid social,Q1_YouthInvest_2025,19657,6,Opened
+acc_00021473,Direct,,2378,7,Opened
+acc_00021475,App store,Q1_YouthInvest_2024,15020,5,Opened
+acc_00021476,Influencer,Q1_YouthInvest_2024,9204,5,Opened
+acc_00021478,Paid social,Q1_YouthInvest_2025,29251,4,No engagement
+acc_00021479,App store,Q1_YouthInvest_2024,11077,6,Clicked
+acc_00021481,Email,Q1_StartSmall_2026,14667,6,Clicked
+acc_00021483,Paid social,Q4_Festive_2024,24288,5,No engagement
+acc_00021485,Referral,,2371,5,Opened
+acc_00021486,App store,Q3_Payday_2024,29922,0,No engagement
+acc_00021488,Influencer,AlwaysOn_Search,42006,3,No engagement
+acc_00021491,Influencer,Q2_TaxFree_2026,32866,4,No engagement
+acc_00021492,Email,Q1_YouthInvest_2025,8866,4,Clicked
+acc_00021493,Paid social,Q3_Payday_2025,6687,6,No engagement
+acc_00021495,Organic search,,3568,8,Clicked
+acc_00021496,Email,Q4_Festive_2025,15954,7,No engagement
+acc_00021498,Paid search,Q1_StartSmall_2026,34642,2,Clicked
+acc_00021502,App store,Q2_TaxFree_2024,48043,3,No engagement
+acc_00021503,Influencer,Q4_Festive_2025,11790,8,Clicked
+acc_00021504,App store,Q1_YouthInvest_2024,24297,4,No engagement
+acc_00021505,Organic search,,2874,9,Opened
+acc_00021507,App store,Q3_Payday_2025,28156,2,No engagement
+acc_00021508,App store,Q1_StartSmall_2026,62533,4,Clicked
+acc_00021509,Influencer,Q1_YouthInvest_2025,12711,5,Opened
+acc_00021510,Paid social,Q1_StartSmall_2026,26755,3,Opened
+acc_00021513,Influencer,Q4_Festive_2024,36100,7,No engagement
+acc_00021514,Organic search,,5893,4,Opened
+acc_00021515,Influencer,Q3_Payday_2025,20946,4,Opened
+acc_00021516,App store,Q3_Payday_2025,16694,4,Clicked
+acc_00021517,App store,Q2_TaxFree_2026,17143,3,No engagement
+acc_00021518,Paid social,Q2_Offshore_2025,16595,3,Opened
+acc_00021519,Paid search,Q1_StartSmall_2026,16029,3,Opened
+acc_00021523,Paid search,Referral_Evergreen,25249,6,No engagement
+acc_00021524,Referral,,3758,3,Opened
+acc_00021526,App store,Q4_Festive_2024,18666,6,Clicked
+acc_00021527,Organic search,,1426,3,Opened
+acc_00021528,Email,Q3_Payday_2025,28413,4,No engagement
+acc_00021529,Paid search,Q1_StartSmall_2026,11917,0,No engagement
+acc_00021530,Paid search,Q4_Festive_2024,12586,4,Opened
+acc_00021534,App store,Q1_StartSmall_2026,19021,4,No engagement
+acc_00021535,Organic search,,5014,1,No engagement
+acc_00021536,Email,Q1_YouthInvest_2025,6626,4,Opened
+acc_00021537,Paid social,Q4_Festive_2024,5680,7,No engagement
+acc_00021538,Paid social,AlwaysOn_Search,25286,4,No engagement
+acc_00021540,Influencer,Q2_Offshore_2025,8832,6,Clicked
+acc_00021541,Paid search,Q1_YouthInvest_2025,34740,3,No engagement
+acc_00021542,App store,Q1_StartSmall_2026,21545,2,Clicked
+acc_00021543,Paid social,Q4_Festive_2025,15425,3,Clicked
+acc_00021544,Organic search,,1301,8,No engagement
+acc_00021545,Referral,,5484,4,Opened
+acc_00021547,Paid search,Q2_Offshore_2025,12049,3,No engagement
+acc_00021550,Organic search,,2788,7,Clicked
+acc_00021552,Paid search,Q3_Payday_2024,31112,0,No engagement
+acc_00021555,Paid social,Referral_Evergreen,21417,7,No engagement
+acc_00021557,Paid search,Q4_Festive_2024,12787,4,No engagement
+acc_00021559,Direct,,5187,5,Clicked
+acc_00021560,Organic search,,2904,6,No engagement
+acc_00021561,Paid social,Q1_YouthInvest_2025,11328,6,No engagement
+acc_00021562,Email,AlwaysOn_Search,10912,7,Opened
+acc_00021566,App store,Q1_StartSmall_2026,8892,8,No engagement
+acc_00021567,Direct,,1489,9,Opened
+acc_00021568,Direct,,2235,8,No engagement
+acc_00021569,Paid social,Referral_Evergreen,27195,7,No engagement
+acc_00021570,Paid social,Q2_Offshore_2025,17189,5,Opened
+acc_00021572,App store,Q4_Festive_2025,34519,5,No engagement
+acc_00021573,Influencer,Q4_Festive_2025,15831,9,Clicked
+acc_00021574,App store,Q2_TaxFree_2026,15864,5,Opened
+acc_00021575,Paid social,Q2_TaxFree_2024,16786,3,No engagement
+acc_00021577,Referral,,2247,6,Clicked
+acc_00021579,Referral,,1910,3,No engagement
+acc_00021581,Paid social,Referral_Evergreen,12783,4,Opened
+acc_00021582,Paid social,Q1_YouthInvest_2025,28923,4,Opened
+acc_00021583,App store,Q2_TaxFree_2026,13705,9,Clicked
+acc_00021585,Email,Q1_StartSmall_2026,14575,5,Opened
+acc_00021587,Paid social,Q1_StartSmall_2026,16477,5,Clicked
+acc_00021588,Paid social,Q2_Offshore_2025,14147,4,Opened
+acc_00021590,Paid social,AlwaysOn_Search,20220,3,Clicked
+acc_00021593,Direct,,3082,4,Clicked
+acc_00021595,Paid search,Q4_Festive_2025,24917,11,Opened
+acc_00021597,App store,Q3_Payday_2024,6412,5,No engagement
+acc_00021598,Paid social,Q3_Payday_2025,21071,7,Clicked
+acc_00021599,App store,Q4_Festive_2024,22482,3,Opened
+acc_00021600,Organic search,,2849,4,No engagement
+acc_00021601,Direct,,3543,5,No engagement
+acc_00021602,Email,Q4_Festive_2024,7234,4,Opened
+acc_00021607,Paid social,Q3_Payday_2025,10416,6,No engagement
+acc_00021610,App store,Referral_Evergreen,8938,3,Clicked
+acc_00021611,Paid social,Q2_TaxFree_2024,20274,4,No engagement
+acc_00021612,Paid social,Referral_Evergreen,29363,5,No engagement
+acc_00021613,Email,Q1_YouthInvest_2024,13345,9,Clicked
+acc_00021614,Paid search,Q4_Festive_2024,41595,2,No engagement
+acc_00021615,Paid social,Q1_YouthInvest_2025,12622,7,Opened
+acc_00021616,Paid social,Q2_TaxFree_2026,19805,5,Opened
+acc_00021618,App store,Q1_YouthInvest_2024,24717,7,No engagement
+acc_00021619,Organic search,,3259,7,Opened
+acc_00021624,Direct,,5950,3,No engagement
+acc_00021625,Referral,,2487,1,Clicked
+acc_00021626,App store,Q4_Festive_2024,20224,0,No engagement
+acc_00021627,Influencer,Q4_Festive_2024,9826,1,No engagement
+acc_00021628,Influencer,Q2_TaxFree_2024,14892,6,Opened
+acc_00021630,Paid social,Q1_YouthInvest_2025,17526,7,Clicked
+acc_00021631,Paid search,Q1_YouthInvest_2025,28230,6,No engagement
+acc_00021634,Organic search,,13502,5,No engagement
+acc_00021637,App store,Q1_YouthInvest_2024,30642,7,No engagement
+acc_00021639,Paid search,Q3_Payday_2025,14008,3,No engagement
+acc_00021640,Organic search,,2292,5,Opened
+acc_00021641,Paid search,Q4_Festive_2025,12543,3,Opened
+acc_00021644,Paid social,Q2_Offshore_2025,12044,4,No engagement
+acc_00021645,Paid search,Q1_YouthInvest_2024,13666,2,Opened
+acc_00021646,Email,Referral_Evergreen,15649,6,Opened
+acc_00021647,Referral,,4563,3,Opened
+acc_00021648,Paid search,Q1_YouthInvest_2025,24105,1,Opened
+acc_00021649,Direct,,2413,5,Opened
+acc_00021650,Direct,,1382,3,No engagement
+acc_00021652,Organic search,,1607,6,Clicked
+acc_00021653,Paid social,Q1_YouthInvest_2025,19965,5,Opened
+acc_00021654,Email,Q2_Offshore_2025,19711,1,Clicked
+acc_00021655,Referral,,4802,7,No engagement
+acc_00021657,Organic search,,3720,5,Opened
+acc_00021658,Referral,,3953,8,No engagement
+acc_00021660,Paid search,Q4_Festive_2024,12708,6,Opened
+acc_00021662,Paid search,Referral_Evergreen,60759,3,Clicked
+acc_00021663,Paid social,Q2_Offshore_2025,13869,9,No engagement
+acc_00021664,Email,Referral_Evergreen,9664,1,No engagement
+acc_00021666,Referral,,17861,4,No engagement
+acc_00021669,Paid social,Q3_Payday_2025,17626,4,Opened
+acc_00021672,App store,Q2_TaxFree_2026,16150,1,Clicked
+acc_00021673,Paid search,Q3_Payday_2024,9941,2,No engagement
+acc_00021674,App store,Q2_TaxFree_2024,29990,5,No engagement
+acc_00021675,Paid social,Referral_Evergreen,5912,4,No engagement
+acc_00021677,Influencer,Q2_Offshore_2025,27178,9,Opened
+acc_00021678,Paid social,Referral_Evergreen,12634,7,Opened
+acc_00021679,Referral,,5923,7,Clicked
+acc_00021682,Organic search,,2732,6,Clicked
+acc_00021684,Influencer,Q2_TaxFree_2024,11624,5,Opened
+acc_00021685,App store,Q1_StartSmall_2026,31461,5,No engagement
+acc_00021687,Referral,,1125,3,Opened
+acc_00021688,Email,Q1_YouthInvest_2025,5972,7,Opened
+acc_00021689,Paid search,AlwaysOn_Search,10308,4,Opened
+acc_00021690,Paid search,Referral_Evergreen,14459,3,No engagement
+acc_00021691,Organic search,,2354,3,Opened
+acc_00021692,Email,Q1_YouthInvest_2025,13123,6,Opened
+acc_00021694,Paid social,Q2_TaxFree_2026,24637,1,Opened
+acc_00021695,Organic search,,6211,2,Opened
+acc_00021698,Referral,,12224,3,Opened
+acc_00021700,Referral,,4456,6,Opened
+acc_00021702,App store,Q2_TaxFree_2026,22309,6,No engagement
+acc_00021703,Paid search,Q4_Festive_2024,9210,1,Opened
+acc_00021704,Referral,,2097,6,Opened
+acc_00021705,Influencer,Q1_YouthInvest_2025,6999,7,Clicked
+acc_00021706,Paid search,Q4_Festive_2025,29734,7,Clicked
+acc_00021708,Organic search,,5515,4,Clicked
+acc_00021709,Organic search,,3030,4,Opened
+acc_00021710,Referral,,3755,1,Opened
+acc_00021711,Paid search,Q4_Festive_2025,31357,5,No engagement
+acc_00021713,Paid social,Q1_YouthInvest_2025,9919,3,Clicked
+acc_00021714,Organic search,,2181,6,Clicked
+acc_00021716,Paid search,Q3_Payday_2024,14314,2,Clicked
+acc_00021719,Organic search,,2633,5,Opened
+acc_00021720,Paid search,Q3_Payday_2025,22401,7,Clicked
+acc_00021721,Paid social,Q2_TaxFree_2026,47876,2,Opened
+acc_00021722,Paid social,Q2_TaxFree_2024,16511,4,Opened
+acc_00021723,App store,Q2_Offshore_2025,11533,3,Clicked
+acc_00021726,Referral,,4058,6,Opened
+acc_00021727,Paid social,AlwaysOn_Search,17956,6,No engagement
+acc_00021728,Organic search,,3764,6,Clicked
+acc_00021729,Direct,,2723,6,No engagement
+acc_00021730,Referral,,4219,4,Opened
+acc_00021732,Paid social,Q1_YouthInvest_2025,39947,7,No engagement
+acc_00021734,Email,Q4_Festive_2024,20881,5,Clicked
+acc_00021735,Direct,,7291,3,Opened
+acc_00021738,Paid social,Q4_Festive_2025,12033,5,No engagement
+acc_00021740,Paid social,Q2_TaxFree_2024,7733,6,No engagement
+acc_00021741,Referral,,3380,3,Opened
+acc_00021743,Paid search,Q3_Payday_2025,38431,5,Opened
+acc_00021745,App store,Q2_Offshore_2025,16541,5,Opened
+acc_00021749,Paid search,Referral_Evergreen,19656,6,Clicked
+acc_00021751,Email,Q3_Payday_2025,15712,1,Opened
+acc_00021752,Paid social,Q1_YouthInvest_2025,48210,5,Clicked
+acc_00021753,App store,AlwaysOn_Search,12101,4,Clicked
+acc_00021754,Email,Q3_Payday_2025,16604,3,Opened
+acc_00021756,Organic search,,5556,6,Opened
+acc_00021758,Influencer,Q3_Payday_2024,17277,4,Opened
+acc_00021760,Direct,,1924,4,Opened
+acc_00021761,Paid search,Q2_Offshore_2025,14976,4,No engagement
+acc_00021762,Paid social,Q4_Festive_2024,24715,5,No engagement
+acc_00021764,Organic search,,5130,7,Clicked
+acc_00021765,Paid social,Q2_TaxFree_2026,12144,4,Clicked
+acc_00021766,Influencer,Referral_Evergreen,10238,7,No engagement
+acc_00021767,Email,Q1_YouthInvest_2024,17874,4,No engagement
+acc_00021770,Influencer,Q2_TaxFree_2024,22236,2,Clicked
+acc_00021771,Organic search,,1423,3,No engagement
+acc_00021772,Influencer,Q3_Payday_2024,17889,3,No engagement
+acc_00021776,Influencer,Q4_Festive_2024,18888,7,Clicked
+acc_00021777,App store,Q4_Festive_2025,16196,4,Opened
+acc_00021778,Paid search,Q1_StartSmall_2026,38503,4,Opened
+acc_00021781,Referral,,9964,5,Opened
+acc_00021782,Paid search,Q2_TaxFree_2024,23659,6,Clicked
+acc_00021783,Influencer,Q4_Festive_2025,21422,4,No engagement
+acc_00021784,App store,Q2_TaxFree_2024,25071,3,No engagement
+acc_00021785,Email,Q2_Offshore_2025,11883,3,Clicked
+acc_00021787,Organic search,,1089,2,No engagement
+acc_00021788,Influencer,Q2_Offshore_2025,23179,6,No engagement
+acc_00021789,Organic search,,2348,5,No engagement
+acc_00021790,Referral,,2999,7,No engagement
+acc_00021791,Influencer,AlwaysOn_Search,36462,4,No engagement
+acc_00021794,Paid search,Q2_TaxFree_2024,33387,2,Opened
+acc_00021795,Paid search,Q1_YouthInvest_2025,21132,6,No engagement
+acc_00021796,Direct,,6619,4,Opened
+acc_00021798,Paid search,Q1_YouthInvest_2025,17316,6,No engagement
+acc_00021799,Referral,,1501,4,No engagement
+acc_00021801,Direct,,1708,4,Opened
+acc_00021802,Paid social,Referral_Evergreen,13586,5,No engagement
+acc_00021805,Organic search,,3137,6,No engagement
+acc_00021806,Paid social,Q1_StartSmall_2026,59755,5,Opened
+acc_00021807,Paid social,AlwaysOn_Search,15085,9,Clicked
+acc_00021808,Referral,,3546,6,Clicked
+acc_00021813,App store,Q4_Festive_2024,9866,0,No engagement
+acc_00021814,Organic search,,3177,6,Opened
+acc_00021815,Referral,,4480,8,Opened
+acc_00021816,Organic search,,6914,2,Opened
+acc_00021817,Organic search,,3482,5,No engagement
+acc_00021818,Paid search,Q3_Payday_2025,23953,1,Clicked
+acc_00021819,App store,Q1_YouthInvest_2025,6720,6,No engagement
+acc_00021820,Paid search,Q1_YouthInvest_2024,31632,1,No engagement
+acc_00021821,Email,Referral_Evergreen,46698,5,Opened
+acc_00021822,App store,Q1_YouthInvest_2025,25192,4,Opened
+acc_00021823,Organic search,,3111,5,Opened
+acc_00021825,Paid social,Q1_YouthInvest_2025,14691,5,No engagement
+acc_00021826,Paid social,Q4_Festive_2024,24650,5,Opened
+acc_00021827,Direct,,4136,3,Clicked
+acc_00021828,Paid search,Q4_Festive_2025,22366,6,Clicked
+acc_00021829,Paid social,Q2_Offshore_2025,17690,7,Opened
+acc_00021832,Organic search,,3132,4,Clicked
+acc_00021833,Paid social,Q1_StartSmall_2026,12892,2,No engagement
+acc_00021834,App store,Q2_TaxFree_2026,15241,6,Opened
+acc_00021835,Organic search,,1948,5,Opened
+acc_00021836,Organic search,,4323,3,Opened
+acc_00021837,Paid social,Referral_Evergreen,61245,5,Opened
+acc_00021839,Paid social,Q1_YouthInvest_2025,33509,3,No engagement
+acc_00021841,Paid social,Q4_Festive_2024,12115,4,No engagement
+acc_00021842,Referral,,3089,8,Clicked
+acc_00021843,Influencer,Q1_YouthInvest_2024,30070,2,Clicked
+acc_00021844,Email,Q4_Festive_2025,16097,5,Clicked
+acc_00021845,Organic search,,4868,5,No engagement
+acc_00021846,Email,Q2_TaxFree_2026,21600,4,Clicked
+acc_00021848,Referral,,6974,4,Opened
+acc_00021849,Direct,,4838,0,No engagement
+acc_00021851,Paid social,Q3_Payday_2024,7965,7,No engagement
+acc_00021852,App store,Q3_Payday_2024,2918,2,Clicked
+acc_00021853,Organic search,,6738,5,Clicked
+acc_00021854,Paid social,Q1_StartSmall_2026,34966,0,No engagement
+acc_00021855,Direct,,5260,6,Opened
+acc_00021856,App store,Q4_Festive_2024,11732,0,No engagement
+acc_00021857,Paid social,AlwaysOn_Search,24703,1,No engagement
+acc_00021858,Organic search,,3761,7,No engagement
+acc_00021860,App store,Q4_Festive_2025,14197,3,Opened
+acc_00021861,Influencer,Q2_TaxFree_2026,42855,2,Clicked
+acc_00021862,Organic search,,3528,7,Clicked
+acc_00021863,Referral,,1729,6,Opened
+acc_00021864,Organic search,,5689,7,Opened
+acc_00021865,Email,Q3_Payday_2025,35255,3,Clicked
+acc_00021866,Paid social,Q1_StartSmall_2026,37001,4,Clicked
+acc_00021867,Paid social,Q1_StartSmall_2026,21955,3,Opened
+acc_00021868,Paid search,Q2_TaxFree_2026,12278,6,Clicked
+acc_00021871,Paid search,Referral_Evergreen,18114,2,Clicked
+acc_00021873,Organic search,,2937,5,No engagement
+acc_00021875,Influencer,Q1_YouthInvest_2024,9908,7,No engagement
+acc_00021876,Paid social,Q1_YouthInvest_2024,14497,3,Clicked
+acc_00021877,App store,Referral_Evergreen,29953,7,Clicked
+acc_00021878,Organic search,,2389,0,No engagement
+acc_00021879,Email,Q3_Payday_2024,19488,7,Opened
+acc_00021881,App store,Q1_StartSmall_2026,10179,4,Opened
+acc_00021883,Organic search,,13403,9,No engagement
+acc_00021884,Paid social,Q1_YouthInvest_2025,8200,4,No engagement
+acc_00021887,Referral,,5600,5,Clicked
+acc_00021889,Paid search,Q2_TaxFree_2024,42030,5,No engagement
+acc_00021890,Referral,,3435,3,No engagement
+acc_00021892,Paid social,Q3_Payday_2025,5642,6,No engagement
+acc_00021895,Direct,,11085,0,No engagement
+acc_00021896,Organic search,,6165,1,Opened
+acc_00021898,Paid search,Q4_Festive_2024,18851,6,Clicked
+acc_00021899,Organic search,,9818,5,Clicked
+acc_00021902,Paid search,Q2_TaxFree_2024,23138,8,No engagement
+acc_00021903,Organic search,,2097,7,Clicked
+acc_00021904,Organic search,,4177,3,Opened
+acc_00021905,Referral,,1775,4,Clicked
+acc_00021906,App store,Q4_Festive_2025,10881,5,Clicked
+acc_00021907,Paid social,Q4_Festive_2025,32325,8,Opened
+acc_00021908,Referral,,2105,5,Clicked
+acc_00021909,App store,Q1_YouthInvest_2025,4460,6,No engagement
+acc_00021910,Organic search,,980,2,Clicked
+acc_00021911,Paid social,Referral_Evergreen,7506,2,Opened
+acc_00021913,Email,Q1_YouthInvest_2024,10786,6,Opened
+acc_00021917,Paid search,Q2_TaxFree_2026,35681,5,No engagement
+acc_00021918,Influencer,Q1_StartSmall_2026,27293,4,Clicked
+acc_00021919,App store,Q1_StartSmall_2026,14006,3,No engagement
+acc_00021920,Paid social,Referral_Evergreen,7857,6,Opened
+acc_00021921,Organic search,,1446,5,Opened
+acc_00021922,Paid social,Q3_Payday_2025,21695,3,Opened
+acc_00021923,Paid search,AlwaysOn_Search,25773,8,Opened
+acc_00021924,Paid social,Q1_YouthInvest_2025,11802,2,Clicked
+acc_00021925,Direct,,5367,5,No engagement
+acc_00021926,Paid social,Q3_Payday_2024,6662,7,Clicked
+acc_00021927,Paid social,Q1_YouthInvest_2025,11472,4,No engagement
+acc_00021928,Referral,,2724,5,Opened
+acc_00021929,Email,Q3_Payday_2024,14237,5,Opened
+acc_00021930,App store,Referral_Evergreen,6984,6,Opened
+acc_00021932,Influencer,Q1_YouthInvest_2025,17713,3,No engagement
+acc_00021933,Referral,,7207,1,Clicked
+acc_00021935,Organic search,,5487,2,Opened
+acc_00021937,Paid search,Q3_Payday_2024,35428,7,Opened
+acc_00021938,Paid social,Q1_StartSmall_2026,15020,3,Opened
+acc_00021939,Organic search,,4621,4,No engagement
+acc_00021940,Paid search,Q1_YouthInvest_2025,13070,5,Opened
+acc_00021942,Paid social,Q2_TaxFree_2024,26079,3,No engagement
+acc_00021943,Email,Q4_Festive_2024,26163,5,Opened
+acc_00021949,Paid search,Q2_TaxFree_2024,17708,3,Opened
+acc_00021950,Paid social,AlwaysOn_Search,11145,5,Opened
+acc_00021952,Paid social,Q2_TaxFree_2026,29346,7,Opened
+acc_00021955,App store,Q2_TaxFree_2026,17250,5,No engagement
+acc_00021956,App store,Q3_Payday_2025,9936,4,Opened
+acc_00021957,Email,Referral_Evergreen,17565,1,Opened
+acc_00021958,Referral,,2682,6,Clicked
+acc_00021959,Paid social,Q2_Offshore_2025,40302,4,No engagement
+acc_00021960,Organic search,,2319,5,Opened
+acc_00021962,Paid social,Q2_Offshore_2025,46804,2,Opened
+acc_00021965,Influencer,Q4_Festive_2024,22786,4,No engagement
+acc_00021966,App store,Q2_Offshore_2025,14686,3,Clicked
+acc_00021971,Influencer,Q2_Offshore_2025,20149,3,Opened
+acc_00021973,Email,Q2_TaxFree_2026,12848,9,No engagement
+acc_00021974,Direct,,2919,3,Opened
+acc_00021975,Paid social,Q2_TaxFree_2026,31443,7,Clicked
+acc_00021976,Paid social,Q3_Payday_2024,21901,6,Clicked
+acc_00021978,Paid social,Q1_StartSmall_2026,14202,4,No engagement
+acc_00021980,Paid social,Q1_YouthInvest_2024,23704,4,No engagement
+acc_00021981,Paid social,Q1_YouthInvest_2024,32503,2,Opened
+acc_00021982,Paid social,AlwaysOn_Search,11275,4,No engagement
+acc_00021984,Paid social,Q2_TaxFree_2026,8060,4,Opened
+acc_00021985,Organic search,,3837,6,No engagement
+acc_00021986,App store,Q3_Payday_2024,13673,3,Opened
+acc_00021988,Organic search,,5923,9,Opened
+acc_00021989,Referral,,2413,7,No engagement
+acc_00021990,Organic search,,3915,4,Clicked
+acc_00021991,Paid social,Q4_Festive_2024,15970,5,Clicked
+acc_00021992,Organic search,,2703,5,Opened
+acc_00021993,Paid social,Q3_Payday_2025,24696,5,Opened
+acc_00021994,Referral,,1139,3,Opened
+acc_00021995,Referral,,3739,5,Opened
+acc_00021998,Direct,,2408,3,Opened
+acc_00021999,Paid search,Q3_Payday_2025,14861,0,No engagement
+acc_00022002,App store,Q1_YouthInvest_2025,5192,3,Clicked
+acc_00022003,Organic search,,1479,1,Opened
+acc_00022005,Paid search,Q4_Festive_2025,22732,4,No engagement
+acc_00022006,Organic search,,3768,6,Clicked
+acc_00022007,Paid social,Q1_YouthInvest_2025,29708,5,Clicked
+acc_00022008,Influencer,Q4_Festive_2025,29548,4,Opened
+acc_00022010,Referral,,2099,9,No engagement
+acc_00022012,App store,Q2_Offshore_2025,13709,4,No engagement
+acc_00022013,Organic search,,2350,6,Opened
+acc_00022015,Paid search,Q4_Festive_2024,23747,2,No engagement
+acc_00022016,Paid search,Q4_Festive_2025,23343,8,Opened
+acc_00022018,Paid social,Q3_Payday_2024,14687,3,No engagement
+acc_00022021,Influencer,Q1_YouthInvest_2025,19775,2,Opened
+acc_00022022,Referral,,7045,0,No engagement
+acc_00022023,Email,Q4_Festive_2024,22536,3,No engagement
+acc_00022024,Email,Q1_StartSmall_2026,25479,5,Clicked
+acc_00022026,Referral,,2041,1,Opened
+acc_00022027,Paid search,Q2_Offshore_2025,7122,5,Opened
+acc_00022028,App store,Q2_TaxFree_2024,13440,1,No engagement
+acc_00022029,Paid search,Q3_Payday_2025,27460,2,Opened
+acc_00022030,Paid social,Q2_TaxFree_2026,29766,7,No engagement
+acc_00022031,Referral,,1744,2,Opened
+acc_00022032,Influencer,Q2_Offshore_2025,9858,4,Clicked
+acc_00022033,Paid social,Q4_Festive_2024,29839,4,Clicked
+acc_00022034,Paid search,Q2_TaxFree_2026,24257,9,No engagement
+acc_00022035,Paid social,AlwaysOn_Search,30521,7,Opened
+acc_00022036,Paid social,Q1_YouthInvest_2024,51285,3,No engagement
+acc_00022037,Direct,,4936,7,No engagement
+acc_00022038,Email,Q2_TaxFree_2024,17874,4,Opened
+acc_00022042,Paid social,Q3_Payday_2024,24362,4,No engagement
+acc_00022043,Referral,,3567,3,Clicked
+acc_00022044,Organic search,,1593,6,Clicked
+acc_00022046,Referral,,4613,5,Opened
+acc_00022047,Paid social,Q3_Payday_2024,32462,3,Opened
+acc_00022048,Paid social,Q3_Payday_2024,17098,7,No engagement
+acc_00022049,Direct,,6042,5,Opened
+acc_00022050,Influencer,Q2_TaxFree_2026,22578,4,Clicked
+acc_00022051,Paid social,AlwaysOn_Search,15383,3,No engagement
+acc_00022052,Email,Q2_Offshore_2025,40592,5,Opened
+acc_00022054,Email,Q1_YouthInvest_2025,26295,2,Opened
+acc_00022055,Paid search,Q2_TaxFree_2024,9530,7,Clicked
+acc_00022058,Paid search,Q1_StartSmall_2026,15076,3,Opened
+acc_00022060,Paid search,Q2_TaxFree_2024,13239,2,Opened
+acc_00022061,App store,Q4_Festive_2024,35217,1,Opened
+acc_00022062,App store,Q2_TaxFree_2026,22744,3,No engagement
+acc_00022063,App store,Q2_TaxFree_2026,23123,2,No engagement
+acc_00022064,Paid social,Q1_YouthInvest_2025,19329,6,Opened
+acc_00022065,Email,Q2_TaxFree_2024,21485,4,Opened
+acc_00022066,Paid social,Q2_Offshore_2025,7051,5,Opened
+acc_00022067,Paid social,Referral_Evergreen,13355,4,No engagement
+acc_00022068,Organic search,,5150,11,Opened
+acc_00022069,Paid search,Q3_Payday_2024,8048,7,Clicked
+acc_00022070,Referral,,2456,4,Opened
+acc_00022071,Paid social,Q1_StartSmall_2026,24383,3,Opened
+acc_00022072,Paid social,Q2_TaxFree_2026,16457,8,Opened
+acc_00022073,Paid social,Q2_TaxFree_2026,22538,2,Opened
+acc_00022074,Organic search,,1248,6,Opened
+acc_00022077,Paid search,Q2_TaxFree_2024,20964,2,Opened
+acc_00022079,Paid social,AlwaysOn_Search,32604,6,Opened
+acc_00022081,Paid search,Referral_Evergreen,7348,3,No engagement
+acc_00022083,App store,Q3_Payday_2025,22312,1,Opened
+acc_00022085,Paid social,Q3_Payday_2024,10789,7,Opened
+acc_00022086,Direct,,2085,6,No engagement
+acc_00022088,Referral,,4159,0,No engagement
+acc_00022091,Email,Q3_Payday_2025,18309,4,Opened
+acc_00022093,Paid social,Q3_Payday_2025,20948,2,Opened
+acc_00022094,Email,Q2_TaxFree_2024,29576,10,No engagement
+acc_00022098,Referral,,4316,4,Clicked
+acc_00022099,Email,Q3_Payday_2025,12000,6,No engagement
+acc_00022100,App store,Q1_YouthInvest_2024,11118,4,No engagement
+acc_00022101,App store,Q4_Festive_2025,19174,4,No engagement
+acc_00022102,Influencer,Q3_Payday_2024,54152,5,No engagement
+acc_00022103,Paid search,Referral_Evergreen,32873,6,Clicked
+acc_00022105,Direct,,4761,6,No engagement
+acc_00022106,Organic search,,2375,1,Clicked
+acc_00022107,Direct,,1950,3,Clicked
+acc_00022109,Influencer,Q2_TaxFree_2026,20669,4,Opened
+acc_00022110,Paid social,Q1_YouthInvest_2025,17918,4,No engagement
+acc_00022111,Paid social,Q1_YouthInvest_2024,41976,6,No engagement
+acc_00022112,Paid social,Q2_TaxFree_2026,10573,5,No engagement
+acc_00022113,Organic search,,3551,6,Opened
+acc_00022114,Paid social,Q4_Festive_2025,20892,6,Clicked
+acc_00022115,App store,Q4_Festive_2025,13579,4,Opened
+acc_00022116,Email,Q2_TaxFree_2026,23140,5,Opened
+acc_00022118,Organic search,,4578,6,Clicked
+acc_00022119,Influencer,Q4_Festive_2025,15200,7,Opened
+acc_00022121,App store,AlwaysOn_Search,9055,8,No engagement
+acc_00022122,Influencer,Q2_TaxFree_2024,27995,5,No engagement
+acc_00022124,Organic search,,4210,4,Opened
+acc_00022125,Influencer,Q3_Payday_2025,10375,5,No engagement
+acc_00022126,Paid search,Q2_TaxFree_2024,7382,4,Clicked
+acc_00022127,Direct,,2543,4,No engagement
+acc_00022131,Organic search,,1485,6,No engagement
+acc_00022132,Paid social,Referral_Evergreen,15310,4,Opened
+acc_00022134,Paid social,Q2_TaxFree_2024,18485,3,No engagement
+acc_00022135,Email,AlwaysOn_Search,8347,1,Opened
+acc_00022136,Referral,,1569,11,Opened
+acc_00022139,Paid social,Q2_Offshore_2025,7770,4,Opened
+acc_00022142,Paid social,Q1_YouthInvest_2025,12762,4,No engagement
+acc_00022143,Referral,,3731,4,No engagement
+acc_00022145,Influencer,Q4_Festive_2024,15603,5,Opened
+acc_00022146,Paid social,Q3_Payday_2025,20667,9,No engagement
+acc_00022147,Paid search,Q4_Festive_2024,28937,4,Clicked
+acc_00022148,Paid search,Q2_Offshore_2025,8654,3,No engagement
+acc_00022149,App store,Q1_StartSmall_2026,17535,6,No engagement
+acc_00022150,Paid social,Referral_Evergreen,30950,2,Opened
+acc_00022152,Direct,,1607,6,Clicked
+acc_00022153,Organic search,,3656,3,No engagement
+acc_00022155,Organic search,,4238,2,No engagement
+acc_00022158,Referral,,6457,7,No engagement
+acc_00022161,Organic search,,3654,6,Opened
+acc_00022162,App store,Q2_TaxFree_2024,14863,0,No engagement
+acc_00022164,Paid search,Q2_Offshore_2025,19413,0,No engagement
+acc_00022165,Referral,,1801,10,No engagement
+acc_00022166,Organic search,,2872,4,Opened
+acc_00022167,Referral,,1548,3,Clicked
+acc_00022168,Influencer,AlwaysOn_Search,9480,5,Clicked
+acc_00022169,App store,Q1_StartSmall_2026,16067,2,No engagement
+acc_00022170,Email,Q4_Festive_2025,10833,4,Opened
+acc_00022171,Referral,,2031,2,Opened
+acc_00022174,Paid social,Referral_Evergreen,25350,7,Opened
+acc_00022175,Paid social,Q2_TaxFree_2024,19549,12,No engagement
+acc_00022176,Paid search,Q3_Payday_2025,18105,4,Opened
+acc_00022177,Organic search,,2809,4,Clicked
+acc_00022178,Email,Q3_Payday_2024,17384,0,No engagement
+acc_00022179,Paid search,Q1_YouthInvest_2025,21631,4,Opened
+acc_00022180,Paid social,AlwaysOn_Search,36496,7,No engagement
+acc_00022181,Organic search,,2223,8,Clicked
+acc_00022182,Organic search,,4382,5,Opened
+acc_00022184,Influencer,Q4_Festive_2024,19051,6,Opened
+acc_00022186,Paid social,Q2_TaxFree_2024,8789,5,Opened
+acc_00022187,Organic search,,2104,5,No engagement
+acc_00022188,Direct,,6635,6,Opened
+acc_00022189,Paid social,Q1_StartSmall_2026,29075,7,Clicked
+acc_00022190,Paid search,AlwaysOn_Search,17386,1,Opened
+acc_00022191,Referral,,2161,5,Clicked
+acc_00022192,Email,Q3_Payday_2025,17748,6,No engagement
+acc_00022193,Referral,,10070,6,No engagement
+acc_00022194,Email,Q2_Offshore_2025,29626,5,Opened
+acc_00022195,Email,Q2_Offshore_2025,19574,7,Clicked
+acc_00022197,Organic search,,9094,4,Opened
+acc_00022198,App store,AlwaysOn_Search,12847,9,Opened
+acc_00022199,Paid social,Q2_Offshore_2025,39751,4,No engagement
+acc_00022200,Organic search,,3323,5,No engagement
+acc_00022201,Paid social,Q4_Festive_2024,13100,7,Opened
+acc_00022202,Influencer,Q1_YouthInvest_2025,21113,5,No engagement
+acc_00022204,Paid social,AlwaysOn_Search,20982,7,No engagement
+acc_00022206,Paid social,Referral_Evergreen,33215,2,Opened
+acc_00022207,Paid search,Referral_Evergreen,42052,5,Opened
+acc_00022208,Paid social,Q1_YouthInvest_2025,37555,4,Opened
+acc_00022209,Influencer,Q2_Offshore_2025,17837,7,Opened
+acc_00022210,Organic search,,5222,5,Opened
+acc_00022213,Paid social,Q2_TaxFree_2026,8574,6,No engagement
+acc_00022215,Direct,,3101,4,No engagement
+acc_00022216,Email,Q4_Festive_2025,23768,0,No engagement
+acc_00022218,Paid search,Q2_TaxFree_2024,8289,3,Opened
+acc_00022219,Email,Q3_Payday_2025,13967,6,No engagement
+acc_00022220,Organic search,,3107,4,No engagement
+acc_00022221,Direct,,7413,8,Clicked
+acc_00022222,Paid social,Q1_YouthInvest_2025,13829,8,No engagement
+acc_00022223,Referral,,3024,3,No engagement
+acc_00022224,Organic search,,3073,5,Opened
+acc_00022225,Paid social,Q3_Payday_2025,31075,3,Opened
+acc_00022226,Influencer,Q2_TaxFree_2026,10075,3,No engagement
+acc_00022227,Paid social,Q2_TaxFree_2024,8766,5,No engagement
+acc_00022228,Organic search,,2176,2,Clicked
+acc_00022229,App store,Q1_YouthInvest_2025,14218,3,No engagement
+acc_00022231,Organic search,,3564,1,No engagement
+acc_00022232,Direct,,3465,3,No engagement
+acc_00022233,Influencer,Q1_YouthInvest_2024,17885,4,No engagement
+acc_00022235,App store,Q1_YouthInvest_2024,19806,6,Clicked
+acc_00022236,App store,Q3_Payday_2025,19882,3,Opened
+acc_00022237,Organic search,,4735,0,No engagement
+acc_00022239,Paid social,Referral_Evergreen,12666,3,Opened
+acc_00022241,Paid social,Q4_Festive_2024,15822,3,No engagement
+acc_00022242,Paid social,Q2_TaxFree_2024,27443,2,No engagement
+acc_00022245,Influencer,AlwaysOn_Search,18995,4,Opened
+acc_00022247,Email,Q4_Festive_2024,48648,8,Opened
+acc_00022248,Email,Q2_TaxFree_2024,9405,7,Clicked
+acc_00022249,Paid search,Q3_Payday_2025,17036,10,Opened
+acc_00022250,Organic search,,2598,6,Opened
+acc_00022251,Paid social,AlwaysOn_Search,11420,8,Opened
+acc_00022254,Organic search,,2588,6,No engagement
+acc_00022255,Paid social,Q1_YouthInvest_2025,31094,3,Opened
+acc_00022256,Paid social,Q2_TaxFree_2024,8814,7,Clicked
+acc_00022257,App store,Q1_YouthInvest_2025,16061,3,No engagement
+acc_00022258,Referral,,3349,6,Opened
+acc_00022259,Paid search,Q1_YouthInvest_2025,28634,7,Opened
+acc_00022260,Direct,,2607,4,Opened
+acc_00022261,Email,Referral_Evergreen,30406,4,No engagement
+acc_00022262,Paid search,Referral_Evergreen,7386,1,No engagement
+acc_00022265,App store,Q3_Payday_2025,41168,5,No engagement
+acc_00022267,App store,Q1_StartSmall_2026,16918,5,Clicked
+acc_00022268,Paid social,Q1_YouthInvest_2024,39124,1,Opened
+acc_00022269,Paid social,Q2_TaxFree_2024,33915,6,Opened
+acc_00022270,Influencer,Q1_YouthInvest_2025,45162,3,Opened
+acc_00022273,Paid search,Q2_Offshore_2025,25543,5,Clicked
+acc_00022274,Referral,,5720,5,Opened
+acc_00022275,Email,Q4_Festive_2025,53076,4,No engagement
+acc_00022278,Paid social,Q1_StartSmall_2026,30557,4,Opened
+acc_00022280,Paid search,Referral_Evergreen,15114,6,No engagement
+acc_00022281,App store,Q1_YouthInvest_2025,17951,3,Opened
+acc_00022284,Paid social,Q2_Offshore_2025,9342,9,Opened
+acc_00022285,Paid social,Q2_TaxFree_2024,34285,5,Clicked
+acc_00022286,Influencer,Q2_TaxFree_2026,27447,3,Clicked
+acc_00022287,Referral,,4584,7,Clicked
+acc_00022288,Organic search,,8497,7,Clicked
+acc_00022291,Influencer,Q1_YouthInvest_2024,23482,6,Opened
+acc_00022293,Direct,,4905,5,Opened
+acc_00022294,App store,Q2_TaxFree_2024,11851,9,Opened
+acc_00022295,Referral,,3748,10,Opened
+acc_00022298,Paid social,Q2_TaxFree_2024,7070,6,Clicked
+acc_00022299,Influencer,Q4_Festive_2025,25296,2,No engagement
+acc_00022300,Paid search,Q1_YouthInvest_2024,15474,6,Opened
+acc_00022301,App store,Q2_TaxFree_2026,14066,5,Opened
+acc_00022302,Paid search,Q2_TaxFree_2026,7784,1,No engagement
+acc_00022303,Referral,,5379,2,Opened
+acc_00022304,Paid social,Q2_TaxFree_2026,32182,4,No engagement
+acc_00022305,Paid search,Q3_Payday_2024,18713,3,Opened
+acc_00022306,App store,Q1_YouthInvest_2024,13502,6,Clicked
+acc_00022307,Referral,,2066,3,Opened
+acc_00022311,Paid search,Q1_YouthInvest_2024,16801,5,Opened
+acc_00022312,Organic search,,4533,1,No engagement
+acc_00022313,Paid social,Q1_YouthInvest_2024,26757,7,Clicked
+acc_00022315,App store,Q2_Offshore_2025,27547,3,Opened
+acc_00022316,Influencer,Q3_Payday_2025,22998,6,Clicked
+acc_00022317,App store,Q4_Festive_2024,18059,3,Clicked
+acc_00022319,Organic search,,3037,9,Opened
+acc_00022320,Direct,,3286,4,No engagement
+acc_00022321,Referral,,3161,3,No engagement
+acc_00022322,Organic search,,3708,6,No engagement
+acc_00022323,App store,AlwaysOn_Search,17047,6,Clicked
+acc_00022325,Paid social,Q3_Payday_2024,23920,0,No engagement
+acc_00022326,Paid social,Q2_TaxFree_2024,5928,2,Opened
+acc_00022327,Paid search,Q1_YouthInvest_2024,39421,2,Clicked
+acc_00022329,App store,Referral_Evergreen,16690,1,No engagement
+acc_00022330,Organic search,,1997,8,No engagement
+acc_00022331,Organic search,,2678,4,Clicked
+acc_00022332,Organic search,,2594,4,No engagement
+acc_00022333,Direct,,3724,6,No engagement
+acc_00022334,Paid social,Referral_Evergreen,9816,4,Opened
+acc_00022336,Influencer,Q2_TaxFree_2024,8281,5,Opened
+acc_00022337,App store,Referral_Evergreen,31065,3,Opened
+acc_00022339,Organic search,,1102,6,Clicked
+acc_00022341,Referral,,6003,5,No engagement
+acc_00022344,Direct,,4702,4,Opened
+acc_00022345,Organic search,,3371,3,Clicked
+acc_00022348,Email,Referral_Evergreen,7738,8,No engagement
+acc_00022349,Email,Q2_TaxFree_2024,7247,3,Opened
+acc_00022350,Paid search,Q2_Offshore_2025,18888,3,No engagement
+acc_00022351,Direct,,2469,5,No engagement
+acc_00022352,Paid search,Q1_YouthInvest_2024,6410,7,Clicked
+acc_00022353,Paid search,Q2_Offshore_2025,34054,1,Opened
+acc_00022354,Organic search,,3568,3,Clicked
+acc_00022357,Paid social,Q2_TaxFree_2026,9253,4,Opened
+acc_00022358,Email,Q1_StartSmall_2026,11815,2,Opened
+acc_00022359,Organic search,,1657,6,No engagement
+acc_00022361,Email,Q4_Festive_2025,45842,6,No engagement
+acc_00022362,Email,Q1_StartSmall_2026,7595,6,Opened
+acc_00022363,Organic search,,3261,3,No engagement
+acc_00022364,Paid social,Q2_TaxFree_2026,23337,6,No engagement
+acc_00022365,Organic search,,3284,7,No engagement
+acc_00022367,Referral,,1901,5,No engagement
+acc_00022368,Referral,,3225,6,Opened
+acc_00022371,Referral,,1939,0,No engagement
+acc_00022372,Organic search,,2110,7,Clicked
+acc_00022375,Organic search,,3201,9,No engagement
+acc_00022377,Influencer,Q2_Offshore_2025,27774,3,Clicked
+acc_00022383,Paid social,Q3_Payday_2024,29235,6,No engagement
+acc_00022384,Email,Q4_Festive_2025,44936,3,No engagement
+acc_00022386,Paid social,Q3_Payday_2025,10722,7,Opened
+acc_00022388,Paid social,Q1_YouthInvest_2024,5567,6,Clicked
+acc_00022389,Paid search,Q1_YouthInvest_2024,32332,10,No engagement
+acc_00022390,Organic search,,2828,1,No engagement
+acc_00022391,Influencer,Q1_YouthInvest_2024,9947,9,No engagement
+acc_00022393,Email,Q1_StartSmall_2026,18046,3,Opened
+acc_00022394,App store,Q4_Festive_2024,10626,6,Clicked
+acc_00022396,Influencer,Referral_Evergreen,33604,4,No engagement
+acc_00022398,Email,AlwaysOn_Search,28207,5,Opened
+acc_00022399,App store,Q2_TaxFree_2024,38411,6,Opened
+acc_00022400,Organic search,,3495,7,No engagement
+acc_00022403,Paid search,Q2_TaxFree_2024,19611,5,Opened
+acc_00022404,Referral,,1420,1,Clicked
+acc_00022405,Influencer,Referral_Evergreen,36065,5,Clicked
+acc_00022407,Paid search,Q2_TaxFree_2026,51529,6,Clicked
+acc_00022408,Paid social,Q1_YouthInvest_2024,23317,4,Clicked
+acc_00022409,Paid social,Q4_Festive_2024,23656,4,Opened
+acc_00022410,Paid social,Q3_Payday_2024,11105,3,Clicked
+acc_00022411,Email,Q2_TaxFree_2026,18588,7,No engagement
+acc_00022412,Paid social,Q2_TaxFree_2026,12577,6,No engagement
+acc_00022413,Influencer,Q2_TaxFree_2026,28394,3,Opened
+acc_00022414,Referral,,2992,3,Clicked
+acc_00022416,Organic search,,1334,6,No engagement
+acc_00022417,App store,Q2_TaxFree_2026,19720,3,Opened
+acc_00022419,Paid search,AlwaysOn_Search,16990,8,Opened
+acc_00022420,Influencer,Q1_StartSmall_2026,25474,3,Opened
+acc_00022422,App store,AlwaysOn_Search,17959,11,No engagement
+acc_00022424,Paid social,Q2_TaxFree_2024,7847,3,No engagement
+acc_00022425,Paid social,Q2_TaxFree_2026,13219,5,Clicked
+acc_00022426,App store,Q4_Festive_2024,28499,5,Opened
+acc_00022427,Email,Q2_TaxFree_2024,16390,5,Clicked
+acc_00022428,Referral,,3117,3,Opened
+acc_00022429,Paid social,Q3_Payday_2025,15480,9,Clicked
+acc_00022430,App store,Q2_TaxFree_2026,50332,3,Opened
+acc_00022431,Email,Q1_StartSmall_2026,10443,4,Clicked
+acc_00022437,Organic search,,3195,2,No engagement
+acc_00022438,App store,Q4_Festive_2025,13392,5,Opened
+acc_00022439,Paid social,Q1_StartSmall_2026,5678,2,No engagement
+acc_00022443,Paid search,Q3_Payday_2025,10789,3,Clicked
+acc_00022444,App store,Q4_Festive_2024,20157,6,Opened
+acc_00022448,Email,Q2_TaxFree_2026,11051,3,No engagement
+acc_00022449,Paid search,Referral_Evergreen,18388,6,Clicked
+acc_00022450,Referral,,2240,3,No engagement
+acc_00022451,Referral,,3874,3,Opened
+acc_00022452,Email,Q2_TaxFree_2026,14185,4,Opened
+acc_00022453,Referral,,3237,1,Opened
+acc_00022454,Direct,,2851,4,No engagement
+acc_00022455,Influencer,Referral_Evergreen,15051,8,No engagement
+acc_00022456,App store,Q1_YouthInvest_2024,26327,1,Opened
+acc_00022457,Organic search,,3781,5,Opened
+acc_00022458,Referral,,3404,9,No engagement
+acc_00022460,Organic search,,3837,5,Opened
+acc_00022462,Paid social,Q1_YouthInvest_2025,18739,4,No engagement
+acc_00022463,Paid social,Q1_YouthInvest_2025,15258,3,No engagement
+acc_00022464,Paid social,Q3_Payday_2024,5214,1,Opened
+acc_00022465,Influencer,Q1_YouthInvest_2024,6756,2,Opened
+acc_00022466,Organic search,,6356,6,Opened
+acc_00022467,Direct,,8439,7,Opened
+acc_00022468,Influencer,Q3_Payday_2025,20497,3,Clicked
+acc_00022469,Paid social,Q1_YouthInvest_2024,12600,4,No engagement
+acc_00022472,Organic search,,3537,6,Opened
+acc_00022473,Direct,,2511,3,Opened
+acc_00022476,Referral,,1661,0,No engagement
+acc_00022478,Paid social,Q2_Offshore_2025,16192,2,Opened
+acc_00022479,Paid social,Q3_Payday_2025,12750,8,No engagement
+acc_00022480,Paid search,AlwaysOn_Search,15512,8,Clicked
+acc_00022481,Paid social,Q1_YouthInvest_2025,6962,7,Clicked
+acc_00022482,App store,Q1_YouthInvest_2024,17983,6,No engagement
+acc_00022483,Email,Q3_Payday_2024,25981,2,No engagement
+acc_00022486,Email,Q4_Festive_2025,14747,6,Opened
+acc_00022487,App store,Q2_TaxFree_2026,2340,3,Opened
+acc_00022488,Paid social,Q1_StartSmall_2026,7603,4,Opened
+acc_00022492,Paid social,Q2_Offshore_2025,13377,7,Opened
+acc_00022493,Paid social,Q2_TaxFree_2026,14677,9,Opened
+acc_00022494,App store,AlwaysOn_Search,17630,7,No engagement
+acc_00022495,Influencer,Q4_Festive_2025,10301,3,No engagement
+acc_00022497,Referral,,13899,9,Opened
+acc_00022498,Direct,,5659,6,Clicked
+acc_00022499,Paid search,AlwaysOn_Search,3440,7,No engagement
+acc_00022500,App store,Q3_Payday_2025,14448,5,Clicked
+acc_00022501,Paid search,Q4_Festive_2024,60680,5,No engagement
+acc_00022502,Influencer,Q4_Festive_2025,16232,4,No engagement
+acc_00022503,Email,Q3_Payday_2025,10502,4,Opened
+acc_00022504,Organic search,,2606,3,Opened
+acc_00022506,Paid social,AlwaysOn_Search,20866,5,Clicked
+acc_00022509,Organic search,,2594,5,No engagement
+acc_00022511,App store,Q2_TaxFree_2024,33174,6,Opened
+acc_00022512,Direct,,3015,3,No engagement
+acc_00022513,Paid social,Q1_YouthInvest_2025,19091,4,Clicked
+acc_00022514,App store,Q1_YouthInvest_2024,6265,4,No engagement
+acc_00022516,App store,AlwaysOn_Search,29075,4,No engagement
+acc_00022517,Referral,,1820,4,Opened
+acc_00022519,Paid social,Q2_TaxFree_2024,11819,7,No engagement
+acc_00022520,Referral,,6381,7,Opened
+acc_00022526,Organic search,,5747,4,No engagement
+acc_00022527,Direct,,1664,2,No engagement
+acc_00022529,Paid search,Q1_YouthInvest_2024,9502,1,Opened
+acc_00022532,Direct,,3607,4,Clicked
+acc_00022533,App store,Q3_Payday_2025,28672,6,Clicked
+acc_00022534,Direct,,1496,4,Clicked
+acc_00022535,Referral,,1976,5,Clicked
+acc_00022536,Paid social,Referral_Evergreen,19697,2,No engagement
+acc_00022537,Influencer,AlwaysOn_Search,16531,7,No engagement
+acc_00022538,Paid social,Referral_Evergreen,37898,3,Clicked
+acc_00022540,Referral,,11811,1,No engagement
+acc_00022541,Organic search,,3289,2,Opened
+acc_00022542,Paid search,Q1_YouthInvest_2025,37551,1,No engagement
+acc_00022544,Influencer,Q2_TaxFree_2024,28000,9,Clicked
+acc_00022545,Email,Q1_YouthInvest_2024,12828,6,Opened
+acc_00022547,Paid search,Q3_Payday_2024,4512,5,No engagement
+acc_00022548,Paid search,Q4_Festive_2024,10829,3,Clicked
+acc_00022549,Influencer,Q1_YouthInvest_2025,25064,7,Clicked
+acc_00022550,Paid social,Referral_Evergreen,16952,6,Clicked
+acc_00022551,Organic search,,1290,7,Opened
+acc_00022553,Direct,,4505,6,No engagement
+acc_00022557,Organic search,,1704,5,Opened
+acc_00022561,Paid search,Q2_TaxFree_2024,9601,0,No engagement
+acc_00022562,Paid social,AlwaysOn_Search,27710,1,No engagement
+acc_00022563,App store,Q1_StartSmall_2026,28979,5,Opened
+acc_00022565,Direct,,2528,3,No engagement
+acc_00022566,Direct,,2972,4,Clicked
+acc_00022567,Referral,,4572,6,Opened
+acc_00022568,Organic search,,3931,2,Opened
+acc_00022570,Influencer,Q4_Festive_2024,16464,5,Clicked
+acc_00022571,Referral,,5508,1,No engagement
+acc_00022572,Influencer,Q3_Payday_2025,27644,0,No engagement
+acc_00022573,Paid search,Q3_Payday_2024,39356,4,Opened
+acc_00022574,Email,Q2_TaxFree_2026,8121,5,No engagement
+acc_00022576,Direct,,4125,11,No engagement
+acc_00022578,Paid search,Q1_YouthInvest_2025,12719,7,Opened
+acc_00022579,Paid social,Q4_Festive_2024,40249,7,Opened
+acc_00022580,Paid social,Q4_Festive_2024,9079,6,Opened
+acc_00022582,Organic search,,2354,6,No engagement
+acc_00022583,Influencer,Q2_TaxFree_2026,20264,6,No engagement
+acc_00022585,Paid social,Q1_YouthInvest_2024,25963,5,No engagement
+acc_00022586,Referral,,3510,2,Opened
+acc_00022587,Organic search,,27229,9,No engagement
+acc_00022588,Influencer,Q3_Payday_2025,22812,1,No engagement
+acc_00022589,Email,AlwaysOn_Search,14908,4,Opened
+acc_00022590,Paid social,Q4_Festive_2024,7213,7,Opened
+acc_00022592,App store,Q3_Payday_2024,19129,12,No engagement
+acc_00022595,Paid search,Referral_Evergreen,13247,5,No engagement
+acc_00022596,Paid search,Q4_Festive_2024,19018,3,No engagement
+acc_00022597,Influencer,Q2_TaxFree_2024,15923,5,No engagement
+acc_00022598,Paid search,Q3_Payday_2025,16078,5,Clicked
+acc_00022600,Referral,,1732,2,No engagement
+acc_00022602,Influencer,Q2_Offshore_2025,20656,2,No engagement
+acc_00022603,Paid search,Q4_Festive_2025,7787,6,No engagement
+acc_00022605,Influencer,Q1_YouthInvest_2024,21931,6,Clicked
+acc_00022606,Referral,,3873,4,Clicked
+acc_00022607,Influencer,Q4_Festive_2025,28572,0,No engagement
+acc_00022608,Paid search,Q1_YouthInvest_2025,23684,4,Clicked
+acc_00022609,Direct,,4539,5,Opened
+acc_00022611,Organic search,,5201,5,No engagement
+acc_00022612,Influencer,Q3_Payday_2025,48586,9,Opened
+acc_00022615,Paid search,Q1_StartSmall_2026,9874,7,Opened
+acc_00022616,Paid social,Q4_Festive_2025,19422,8,No engagement
+acc_00022617,Email,Referral_Evergreen,15824,8,Clicked
+acc_00022618,Direct,,3367,3,Clicked
+acc_00022619,App store,Q1_StartSmall_2026,22279,7,No engagement
+acc_00022620,Direct,,3202,3,Clicked
+acc_00022622,Paid social,Q4_Festive_2025,35335,8,Clicked
+acc_00022623,Direct,,1036,4,No engagement
+acc_00022624,App store,Q3_Payday_2025,14342,8,No engagement
+acc_00022625,Paid social,Q2_Offshore_2025,16965,6,Clicked
+acc_00022626,Paid social,Q2_TaxFree_2024,8154,1,Clicked
+acc_00022628,Paid social,Q2_Offshore_2025,17173,6,Opened
+acc_00022629,Paid social,Q4_Festive_2024,36835,2,Clicked
+acc_00022630,Organic search,,4073,4,No engagement
+acc_00022631,Organic search,,3906,6,Opened
+acc_00022632,Paid search,Q4_Festive_2024,33248,7,Clicked
+acc_00022633,App store,Q1_StartSmall_2026,11410,6,Opened
+acc_00022637,Paid search,Q2_TaxFree_2026,25036,6,Opened
+acc_00022638,Paid search,Q4_Festive_2025,26845,3,Clicked
+acc_00022641,Email,Q2_Offshore_2025,51547,5,Clicked
+acc_00022642,Paid social,Q3_Payday_2025,17458,3,Opened
+acc_00022643,Paid social,AlwaysOn_Search,11072,8,No engagement
+acc_00022645,Referral,,4269,4,Clicked
+acc_00022646,Email,Q2_Offshore_2025,17502,6,Clicked
+acc_00022648,Organic search,,6053,6,Opened
+acc_00022649,Paid search,Q3_Payday_2024,55150,4,Clicked
+acc_00022650,Paid social,Referral_Evergreen,24120,4,No engagement
+acc_00022652,Organic search,,7605,5,Clicked
+acc_00022654,Direct,,7340,5,No engagement
+acc_00022655,Direct,,2947,3,No engagement
+acc_00022656,Paid search,Q4_Festive_2024,35255,3,Opened
+acc_00022657,App store,Q2_TaxFree_2026,21107,4,Opened
+acc_00022658,Referral,,1812,4,No engagement
+acc_00022660,App store,Q2_Offshore_2025,76990,3,Clicked
+acc_00022662,Email,Q1_YouthInvest_2025,15208,6,No engagement
+acc_00022666,Referral,,4313,6,Opened
+acc_00022667,Organic search,,5063,3,Opened
+acc_00022668,App store,Q4_Festive_2024,15492,3,Opened
+acc_00022669,Direct,,2408,2,Opened
+acc_00022670,Referral,,2154,10,No engagement
+acc_00022675,Paid social,Q4_Festive_2024,21254,2,No engagement
+acc_00022676,Paid search,Q4_Festive_2024,28341,1,Clicked
+acc_00022677,App store,Q2_TaxFree_2024,10497,3,No engagement
+acc_00022678,App store,Q3_Payday_2024,15685,5,Opened
+acc_00022679,Referral,,3131,4,No engagement
+acc_00022680,App store,Q3_Payday_2025,18556,4,No engagement
+acc_00022682,Organic search,,7005,7,Opened
+acc_00022683,Paid search,Q1_StartSmall_2026,54801,1,Opened
+acc_00022689,Paid social,Q3_Payday_2024,7091,8,No engagement
+acc_00022690,Direct,,2840,3,Clicked
+acc_00022691,Organic search,,6716,5,Opened
+acc_00022693,Paid social,AlwaysOn_Search,15187,6,Clicked
+acc_00022694,Organic search,,1865,6,Opened
+acc_00022695,Email,Q3_Payday_2024,30990,8,Opened
+acc_00022696,Paid search,Q1_YouthInvest_2025,11944,5,No engagement
+acc_00022697,Email,Q4_Festive_2024,20708,8,Clicked
+acc_00022699,App store,Q1_YouthInvest_2024,49492,0,No engagement
+acc_00022701,Email,Q3_Payday_2024,31588,5,Clicked
+acc_00022702,Paid social,Q3_Payday_2024,20695,5,Opened
+acc_00022703,Referral,,2455,9,No engagement
+acc_00022706,Paid search,Q4_Festive_2025,27085,2,Opened
+acc_00022707,Paid search,AlwaysOn_Search,8161,6,Clicked
+acc_00022709,App store,Referral_Evergreen,22635,3,No engagement
+acc_00022710,Referral,,4311,5,Clicked
+acc_00022711,Influencer,Q2_TaxFree_2024,32427,4,Opened
+acc_00022712,Organic search,,1939,3,Clicked
+acc_00022715,Email,Q2_Offshore_2025,8207,6,Opened
+acc_00022717,Paid search,Q3_Payday_2025,18384,2,Opened
+acc_00022718,Paid search,Q2_Offshore_2025,20382,6,Opened
+acc_00022720,Email,Q4_Festive_2025,11877,5,Clicked
+acc_00022721,Referral,,1642,8,Opened
+acc_00022722,Organic search,,1960,6,Clicked
+acc_00022723,Email,Q3_Payday_2024,27090,5,No engagement
+acc_00022725,App store,Q1_YouthInvest_2024,34400,6,No engagement
+acc_00022727,Organic search,,3031,6,Opened
+acc_00022729,Paid social,Q2_TaxFree_2026,11385,7,No engagement
+acc_00022731,Paid social,Q1_YouthInvest_2025,21154,5,No engagement
+acc_00022732,Influencer,Q1_YouthInvest_2024,9194,2,Clicked
+acc_00022733,Organic search,,7440,2,Clicked
+acc_00022734,App store,Q1_YouthInvest_2024,15824,0,No engagement
+acc_00022735,Referral,,1777,7,No engagement
+acc_00022736,Paid social,Q2_TaxFree_2024,30398,5,Opened
+acc_00022738,Organic search,,5764,6,Clicked
+acc_00022739,Paid social,Q4_Festive_2024,22401,4,Opened
+acc_00022740,Paid social,Q1_YouthInvest_2024,31134,0,No engagement
+acc_00022742,Organic search,,2071,4,Opened
+acc_00022746,Referral,,3455,6,No engagement
+acc_00022747,Paid search,Q2_Offshore_2025,7760,4,Clicked
+acc_00022748,Paid social,Q4_Festive_2024,15687,6,No engagement
+acc_00022750,Organic search,,1497,3,No engagement
+acc_00022751,Email,Q2_TaxFree_2024,21107,3,Opened
+acc_00022752,Paid social,Q3_Payday_2025,10393,7,Clicked
+acc_00022754,Paid social,Q1_YouthInvest_2024,12141,5,No engagement
+acc_00022756,Organic search,,11761,3,Clicked
+acc_00022757,Organic search,,6429,7,Clicked
+acc_00022758,Influencer,Q1_YouthInvest_2024,23896,4,Clicked
+acc_00022759,Organic search,,3312,4,Opened
+acc_00022763,Influencer,Q1_YouthInvest_2025,15685,5,Opened
+acc_00022764,Paid social,AlwaysOn_Search,9444,5,No engagement
+acc_00022767,Email,Q1_YouthInvest_2024,6564,10,No engagement
+acc_00022768,Paid search,Q1_YouthInvest_2025,12316,7,No engagement
+acc_00022769,Paid social,Q2_TaxFree_2026,25762,5,No engagement
+acc_00022770,Paid search,Q1_StartSmall_2026,20762,4,No engagement
+acc_00022771,Paid search,AlwaysOn_Search,24964,4,Opened
+acc_00022772,Direct,,2990,7,No engagement
+acc_00022774,Paid search,Q2_TaxFree_2026,9949,1,Opened
+acc_00022775,Paid search,Referral_Evergreen,46575,5,Opened
+acc_00022776,App store,AlwaysOn_Search,9286,6,Opened
+acc_00022777,Referral,,14757,6,No engagement
+acc_00022778,Paid search,Q4_Festive_2024,8970,4,Opened
+acc_00022779,Referral,,2064,6,Opened
+acc_00022780,Direct,,4258,4,Opened
+acc_00022782,Organic search,,5913,6,No engagement
+acc_00022783,App store,Q1_StartSmall_2026,24633,9,No engagement
+acc_00022784,Paid social,Q3_Payday_2025,39167,0,No engagement
+acc_00022785,App store,AlwaysOn_Search,16766,4,No engagement
+acc_00022786,Paid social,Q2_Offshore_2025,5396,5,No engagement
+acc_00022787,Referral,,4009,6,Opened
+acc_00022788,Direct,,6030,7,Opened
+acc_00022789,Paid social,Q3_Payday_2024,13678,4,No engagement
+acc_00022791,Influencer,Q1_StartSmall_2026,16442,3,Opened
+acc_00022792,Influencer,Q3_Payday_2025,21147,7,No engagement
+acc_00022794,App store,Q4_Festive_2025,31163,4,No engagement
+acc_00022796,Email,Q2_TaxFree_2024,36961,0,No engagement
+acc_00022798,Email,Q4_Festive_2024,45916,3,Clicked
+acc_00022799,Paid search,Q1_StartSmall_2026,8609,7,No engagement
+acc_00022800,Direct,,3817,3,Opened
+acc_00022801,Referral,,1563,7,Clicked
+acc_00022802,Paid social,Q2_TaxFree_2026,12466,0,No engagement
+acc_00022803,Referral,,6570,6,No engagement
+acc_00022804,Paid search,Q4_Festive_2024,15990,1,No engagement
+acc_00022805,Email,Q3_Payday_2024,14845,6,Opened
+acc_00022807,Paid search,Q4_Festive_2025,9909,9,Clicked
+acc_00022808,Organic search,,4720,3,Clicked
+acc_00022809,Paid search,AlwaysOn_Search,16538,1,Opened
+acc_00022810,Email,Q2_TaxFree_2024,14275,5,Opened
+acc_00022811,Direct,,1451,4,No engagement
+acc_00022812,Paid search,Q1_YouthInvest_2025,6569,5,No engagement
+acc_00022814,Paid search,Q2_TaxFree_2024,13603,2,Opened
+acc_00022815,Influencer,Q1_YouthInvest_2025,19670,4,Opened
+acc_00022816,Influencer,Q1_YouthInvest_2025,26196,6,No engagement
+acc_00022817,Referral,,2492,10,No engagement
+acc_00022818,Paid search,Q1_YouthInvest_2024,9837,7,Clicked
+acc_00022820,Paid social,Q2_Offshore_2025,9364,6,No engagement
+acc_00022821,Paid social,Q2_Offshore_2025,26236,0,No engagement
+acc_00022823,Paid social,AlwaysOn_Search,16562,6,Opened
+acc_00022824,App store,Q1_YouthInvest_2025,14854,7,Opened
+acc_00022825,Referral,,2376,4,No engagement
+acc_00022826,Paid search,Referral_Evergreen,30689,4,Clicked
+acc_00022827,Organic search,,2331,6,No engagement
+acc_00022828,Paid social,Q4_Festive_2024,26472,3,No engagement
+acc_00022829,Paid social,Q1_YouthInvest_2025,10986,2,Clicked
+acc_00022831,Organic search,,19819,8,Opened
+acc_00022832,Organic search,,3749,4,Opened
+acc_00022835,App store,Q3_Payday_2024,22527,7,Opened
+acc_00022836,App store,Q1_StartSmall_2026,24458,5,Clicked
+acc_00022838,Paid search,Q4_Festive_2025,6557,9,Opened
+acc_00022839,Email,Referral_Evergreen,6938,4,No engagement
+acc_00022840,Referral,,7642,5,Opened
+acc_00022841,Organic search,,6592,10,No engagement
+acc_00022843,Paid search,Q2_Offshore_2025,27692,4,Opened
+acc_00022845,App store,Referral_Evergreen,11618,5,Opened
+acc_00022847,Influencer,Q2_Offshore_2025,12251,1,Opened
+acc_00022848,Paid search,Q2_TaxFree_2026,41258,8,Clicked
+acc_00022849,Influencer,Q2_TaxFree_2024,15827,9,No engagement
+acc_00022850,Paid social,Q2_Offshore_2025,10265,8,Opened
+acc_00022851,Paid social,Referral_Evergreen,14155,2,Clicked
+acc_00022852,Organic search,,1657,2,Opened
+acc_00022855,Organic search,,3346,4,Clicked
+acc_00022856,Referral,,2151,4,No engagement
+acc_00022857,Paid search,Q2_TaxFree_2026,28209,4,Clicked
+acc_00022859,Email,Q3_Payday_2025,11467,3,Opened
+acc_00022861,Direct,,12561,3,No engagement
+acc_00022862,Direct,,4096,4,No engagement
+acc_00022863,App store,Q4_Festive_2024,18951,2,No engagement
+acc_00022864,Referral,,13250,7,Opened
+acc_00022865,Paid social,Q3_Payday_2024,16685,2,Clicked
+acc_00022866,App store,Q1_YouthInvest_2024,25460,3,No engagement
+acc_00022867,Paid social,Referral_Evergreen,14259,4,Clicked
+acc_00022868,Referral,,3999,4,No engagement
+acc_00022869,Paid social,Q1_StartSmall_2026,32200,7,No engagement
+acc_00022871,Paid social,Q3_Payday_2025,23884,7,No engagement
+acc_00022872,Paid social,Q1_YouthInvest_2024,16749,4,Opened
+acc_00022874,Referral,,999,9,Clicked
+acc_00022875,App store,Q1_YouthInvest_2024,23177,5,Opened
+acc_00022876,Organic search,,2212,4,Clicked
+acc_00022877,App store,Q1_YouthInvest_2024,15394,6,Opened
+acc_00022880,Paid search,Q2_TaxFree_2026,42613,9,No engagement
+acc_00022881,Direct,,4398,8,No engagement
+acc_00022884,Organic search,,2125,4,Clicked
+acc_00022885,Email,Q1_StartSmall_2026,8466,5,Opened
+acc_00022886,Paid social,Q3_Payday_2025,14568,5,No engagement
+acc_00022887,Referral,,6006,4,No engagement
+acc_00022890,Paid search,Q4_Festive_2025,38161,8,Clicked
+acc_00022891,Referral,,9101,5,No engagement
+acc_00022893,Email,Q4_Festive_2024,18241,6,No engagement
+acc_00022895,Referral,,1748,4,Opened
+acc_00022896,Paid search,Q2_TaxFree_2024,19078,4,No engagement
+acc_00022897,Direct,,1734,3,Opened
+acc_00022898,Organic search,,2040,7,Opened
+acc_00022899,Paid social,Q2_TaxFree_2024,11631,6,Opened
+acc_00022900,Organic search,,1448,6,Clicked
+acc_00022901,App store,Q2_Offshore_2025,6065,1,No engagement
+acc_00022902,Paid social,Q4_Festive_2024,8960,3,Clicked
+acc_00022904,Referral,,9223,4,No engagement
+acc_00022905,Paid social,Q3_Payday_2025,16808,8,No engagement
+acc_00022906,Organic search,,1976,9,Clicked
+acc_00022907,Paid social,Q2_TaxFree_2026,10168,4,Clicked
+acc_00022908,Organic search,,5694,4,Opened
+acc_00022909,App store,AlwaysOn_Search,12897,5,Opened
+acc_00022911,App store,Q4_Festive_2024,6772,5,No engagement
+acc_00022912,App store,Referral_Evergreen,29256,3,No engagement
+acc_00022913,Paid social,Q4_Festive_2025,36797,4,Opened
+acc_00022915,Paid search,Q3_Payday_2024,20203,5,No engagement
+acc_00022917,Paid search,Q1_YouthInvest_2024,31131,7,Opened
+acc_00022918,Email,Q4_Festive_2024,13856,1,No engagement
+acc_00022920,Email,Q2_TaxFree_2026,14217,7,Opened
+acc_00022921,Paid search,Referral_Evergreen,23087,4,Clicked
+acc_00022922,Direct,,5710,1,Opened
+acc_00022923,Influencer,Q1_StartSmall_2026,39309,1,Clicked
+acc_00022926,Email,Q4_Festive_2024,15100,8,Opened
+acc_00022927,Influencer,Referral_Evergreen,9978,7,Opened
+acc_00022932,Email,AlwaysOn_Search,29090,5,Opened
+acc_00022934,Referral,,4974,7,Clicked
+acc_00022935,Influencer,Q1_YouthInvest_2024,44680,3,No engagement
+acc_00022938,Paid search,Q2_Offshore_2025,33843,6,Opened
+acc_00022939,App store,Q1_StartSmall_2026,12532,2,No engagement
+acc_00022941,Referral,,4111,3,Opened
+acc_00022943,Email,Q1_YouthInvest_2025,21327,6,Opened
+acc_00022944,App store,Q1_YouthInvest_2024,14012,9,Clicked
+acc_00022945,Paid social,Q1_YouthInvest_2025,17872,0,No engagement
+acc_00022947,App store,Q2_TaxFree_2026,21764,2,Clicked
+acc_00022948,Organic search,,1558,8,Opened
+acc_00022951,Referral,,3697,3,Opened
+acc_00022953,Paid social,Q4_Festive_2024,49811,4,No engagement
+acc_00022954,Paid social,Q1_YouthInvest_2024,21815,8,Clicked
+acc_00022955,Paid social,AlwaysOn_Search,16286,3,Opened
+acc_00022956,Referral,,1596,8,No engagement
+acc_00022957,Paid social,Q3_Payday_2024,13881,5,Clicked
+acc_00022960,Paid search,Q4_Festive_2025,8956,1,Clicked
+acc_00022962,Paid search,Q2_TaxFree_2026,15772,9,No engagement
+acc_00022963,Influencer,Q2_Offshore_2025,35672,5,Opened
+acc_00022964,Direct,,11965,7,Opened
+acc_00022966,Organic search,,1542,2,No engagement
+acc_00022967,Paid social,Q2_TaxFree_2026,17795,7,No engagement
+acc_00022971,Organic search,,3115,7,No engagement
+acc_00022972,Paid search,Q3_Payday_2024,11565,2,Clicked
+acc_00022976,Influencer,Q1_YouthInvest_2024,23227,0,No engagement
+acc_00022978,Organic search,,1717,2,No engagement
+acc_00022981,Referral,,5344,4,Opened
+acc_00022984,App store,Q1_YouthInvest_2025,19116,1,Opened
+acc_00022985,App store,Referral_Evergreen,18322,4,Opened
+acc_00022987,Paid social,Q2_Offshore_2025,11853,3,No engagement
+acc_00022991,App store,Referral_Evergreen,6453,5,No engagement
+acc_00022993,Organic search,,1399,6,Clicked
+acc_00022994,Paid social,Q3_Payday_2025,11353,4,Opened
+acc_00022995,Paid search,Q3_Payday_2024,19728,3,Opened
+acc_00022996,Paid social,Q2_Offshore_2025,12846,2,Clicked
+acc_00022997,Paid social,Q2_TaxFree_2024,35899,5,Opened
+acc_00022998,Email,Q3_Payday_2025,7140,3,No engagement
+acc_00022999,Direct,,2740,8,Opened
+acc_00023001,Paid social,Q3_Payday_2025,26949,1,Clicked
+acc_00023002,App store,Q2_TaxFree_2026,16265,3,Opened
+acc_00023003,Paid social,Q3_Payday_2024,56851,7,Opened
+acc_00023005,Influencer,Q4_Festive_2025,5444,7,Clicked
+acc_00023007,Paid social,Referral_Evergreen,42531,5,Clicked
+acc_00023008,Referral,,2268,2,Clicked
+acc_00023010,Organic search,,2329,3,No engagement
+acc_00023012,Paid social,Q2_TaxFree_2026,10850,6,Clicked
+acc_00023015,Referral,,2570,3,Opened
+acc_00023019,Paid search,Q1_YouthInvest_2025,19994,3,Opened
+acc_00023020,Paid search,Q2_TaxFree_2024,12514,5,Opened
+acc_00023021,Email,Q4_Festive_2024,20395,5,No engagement
+acc_00023022,Influencer,Q2_TaxFree_2026,15908,1,Opened
+acc_00023024,Organic search,,3022,4,No engagement
+acc_00023025,Paid social,Referral_Evergreen,33268,4,No engagement
+acc_00023026,Paid social,Q3_Payday_2024,14586,2,No engagement
+acc_00023027,Paid social,Q1_YouthInvest_2024,34875,4,No engagement
+acc_00023028,Paid search,Q2_TaxFree_2024,6119,8,Opened
+acc_00023029,Organic search,,2180,6,Opened
+acc_00023033,Influencer,Q2_TaxFree_2026,15107,5,No engagement
+acc_00023034,Paid search,Q4_Festive_2024,28043,5,No engagement
+acc_00023035,Organic search,,2368,7,Opened
+acc_00023036,Organic search,,1911,3,Opened
+acc_00023037,Influencer,Q3_Payday_2025,16164,2,Opened
+acc_00023038,App store,Q1_YouthInvest_2025,16601,3,Clicked
+acc_00023040,Influencer,Q4_Festive_2025,6705,2,Opened
+acc_00023042,Email,Q2_Offshore_2025,14105,4,Opened
+acc_00023043,Paid social,Q1_YouthInvest_2025,27607,4,Opened
+acc_00023044,Influencer,Q3_Payday_2024,41780,5,Clicked
+acc_00023045,Paid social,Referral_Evergreen,5644,4,Clicked
+acc_00023046,Paid search,Q1_YouthInvest_2025,18502,2,Opened
+acc_00023048,Influencer,Q3_Payday_2024,16887,1,Clicked
+acc_00023050,Referral,,1937,2,Clicked
+acc_00023052,Paid search,Q4_Festive_2025,8338,4,Clicked
+acc_00023054,Influencer,Q1_StartSmall_2026,5922,4,Opened
+acc_00023058,Referral,,10200,5,Clicked
+acc_00023060,Paid search,Q1_YouthInvest_2024,9588,3,Opened
+acc_00023061,Organic search,,6292,7,No engagement
+acc_00023063,App store,Q1_YouthInvest_2024,12104,5,Clicked
+acc_00023065,App store,Q2_TaxFree_2026,14262,2,Clicked
+acc_00023066,Paid social,Q2_TaxFree_2024,11648,5,Clicked
+acc_00023067,Paid social,Q3_Payday_2025,3286,4,Opened
+acc_00023068,Paid search,Referral_Evergreen,54187,6,Opened
+acc_00023069,Email,Q1_YouthInvest_2024,15197,7,No engagement
+acc_00023070,App store,Q2_TaxFree_2026,35107,4,Opened
+acc_00023072,Paid social,Q4_Festive_2024,35645,2,No engagement
+acc_00023074,Paid search,Q1_YouthInvest_2025,12848,2,Opened
+acc_00023075,Paid search,Q1_StartSmall_2026,11683,5,Clicked
+acc_00023076,Email,Q3_Payday_2024,15835,2,Clicked
+acc_00023077,Paid social,Referral_Evergreen,25236,0,No engagement
+acc_00023079,Paid social,Q1_YouthInvest_2025,24908,7,Clicked
+acc_00023080,Paid search,Q3_Payday_2025,32894,4,Opened
+acc_00023083,Referral,,3892,6,No engagement
+acc_00023085,Organic search,,4259,3,Opened
+acc_00023086,Direct,,3861,0,No engagement
+acc_00023087,Paid social,Q4_Festive_2024,16952,5,Opened
+acc_00023089,Paid social,Q2_TaxFree_2026,12392,2,Opened
+acc_00023090,Organic search,,5112,5,Opened
+acc_00023092,Referral,,1320,2,No engagement
+acc_00023094,App store,Q4_Festive_2024,75512,5,Clicked
+acc_00023095,Paid social,Referral_Evergreen,32151,0,No engagement
+acc_00023096,Influencer,Q2_TaxFree_2026,11475,5,No engagement
+acc_00023099,Paid search,Q3_Payday_2025,11516,2,No engagement
+acc_00023101,Email,Q4_Festive_2025,20534,1,No engagement
+acc_00023103,Organic search,,6819,2,No engagement
+acc_00023104,Paid search,Q1_YouthInvest_2024,28039,4,Clicked
+acc_00023107,App store,Q2_TaxFree_2024,34350,1,Clicked
+acc_00023108,Organic search,,3803,1,Clicked
+acc_00023111,Paid social,Q1_YouthInvest_2024,14912,2,Clicked
+acc_00023112,Organic search,,2826,2,Opened
+acc_00023115,App store,Q1_YouthInvest_2024,13649,4,Clicked
+acc_00023116,Email,Q2_TaxFree_2026,26834,6,No engagement
+acc_00023117,Organic search,,4246,6,Clicked
+acc_00023118,Organic search,,2554,5,Opened
+acc_00023120,Paid search,Q1_YouthInvest_2025,11265,5,Clicked
+acc_00023121,Referral,,5840,3,Clicked
+acc_00023122,Referral,,7561,5,Opened
+acc_00023123,Organic search,,3021,4,No engagement
+acc_00023125,Paid social,AlwaysOn_Search,43432,7,No engagement
+acc_00023126,Organic search,,8731,6,No engagement
+acc_00023130,App store,Q4_Festive_2025,7850,4,Clicked
+acc_00023131,Paid social,Q1_YouthInvest_2025,38189,0,No engagement
+acc_00023133,Paid search,Q3_Payday_2025,16831,2,No engagement
+acc_00023135,Organic search,,3973,5,Clicked
+acc_00023136,Organic search,,6056,2,Opened
+acc_00023137,App store,Q3_Payday_2025,29707,2,No engagement
+acc_00023138,App store,Q3_Payday_2025,7730,5,No engagement
+acc_00023139,Paid search,Q1_YouthInvest_2025,10137,4,Opened
+acc_00023141,Paid social,Q1_YouthInvest_2025,16842,3,Clicked
+acc_00023142,Direct,,5180,7,Opened
+acc_00023143,Referral,,1574,6,Opened
+acc_00023144,Referral,,1192,6,Clicked
+acc_00023145,Paid social,Q4_Festive_2024,25001,3,No engagement
+acc_00023146,Organic search,,3036,3,No engagement
+acc_00023147,Organic search,,4597,7,Clicked
+acc_00023150,Referral,,3669,4,Opened
+acc_00023153,App store,Q2_TaxFree_2026,28295,4,Opened
+acc_00023154,Organic search,,4317,4,Opened
+acc_00023157,Paid search,AlwaysOn_Search,21125,5,No engagement
+acc_00023160,Paid social,Q4_Festive_2024,33718,1,Clicked
+acc_00023161,Influencer,Q4_Festive_2024,10768,4,Opened
+acc_00023162,App store,Q2_Offshore_2025,25778,6,No engagement
+acc_00023164,Paid search,Q1_YouthInvest_2025,11331,7,No engagement
+acc_00023165,Paid social,Q1_YouthInvest_2024,27049,6,Opened
+acc_00023166,Paid social,Q2_TaxFree_2026,38837,4,No engagement
+acc_00023167,App store,Q3_Payday_2024,21153,4,Opened
+acc_00023169,Paid search,Referral_Evergreen,44840,2,Opened
+acc_00023170,Organic search,,4458,2,Clicked
+acc_00023172,Paid social,Q2_TaxFree_2026,21269,7,Clicked
+acc_00023174,Organic search,,4626,5,Clicked
+acc_00023175,Paid search,Q3_Payday_2024,14590,4,No engagement
+acc_00023176,Paid search,Q4_Festive_2025,8066,4,Clicked
+acc_00023177,Organic search,,6283,5,Clicked
+acc_00023178,Email,Q1_YouthInvest_2025,141020,4,No engagement
+acc_00023179,Paid social,Q4_Festive_2024,9331,7,No engagement
+acc_00023180,Influencer,Q4_Festive_2024,6863,5,Opened
+acc_00023181,Organic search,,2312,6,Clicked
+acc_00023182,Paid search,Q4_Festive_2025,6837,2,No engagement
+acc_00023183,Organic search,,4793,5,No engagement
+acc_00023184,App store,Q2_Offshore_2025,17296,5,No engagement
+acc_00023185,Influencer,Q1_StartSmall_2026,9990,5,No engagement
+acc_00023186,Organic search,,2500,8,Opened
+acc_00023189,Paid search,Q2_TaxFree_2026,66143,6,No engagement
+acc_00023192,Organic search,,7889,7,Opened
+acc_00023193,Paid search,Q3_Payday_2024,19854,6,Clicked
+acc_00023194,Organic search,,3218,7,No engagement
+acc_00023195,Paid social,Q1_StartSmall_2026,10177,5,No engagement
+acc_00023196,Influencer,Q4_Festive_2024,16031,6,Clicked
+acc_00023199,Email,Q4_Festive_2024,11736,2,No engagement
+acc_00023200,App store,Q2_TaxFree_2026,16851,9,Opened
+acc_00023201,Email,Q2_TaxFree_2024,15868,6,No engagement
+acc_00023202,Paid social,Q4_Festive_2024,15226,5,Opened
+acc_00023203,Paid search,AlwaysOn_Search,13322,6,No engagement
+acc_00023204,Paid social,Q3_Payday_2025,6564,2,Opened
+acc_00023205,Referral,,10873,4,Clicked
+acc_00023206,Paid social,Q1_YouthInvest_2025,14735,3,Clicked
+acc_00023207,Email,Q1_YouthInvest_2024,47162,4,Opened
+acc_00023211,Referral,,5684,4,No engagement
+acc_00023212,Organic search,,4044,2,Clicked
+acc_00023213,Organic search,,1226,2,Opened
+acc_00023215,Referral,,6658,8,Opened
+acc_00023217,Influencer,Q2_TaxFree_2024,20174,6,Opened
+acc_00023221,Email,Referral_Evergreen,57483,7,Clicked
+acc_00023222,Direct,,4040,4,No engagement
+acc_00023224,Paid search,Q4_Festive_2024,24046,4,Clicked
+acc_00023226,Referral,,6339,3,No engagement
+acc_00023227,Referral,,3537,5,Clicked
+acc_00023229,Paid search,Q2_Offshore_2025,28028,5,Clicked
+acc_00023230,Influencer,Q2_TaxFree_2024,6946,10,Opened
+acc_00023231,Email,Q4_Festive_2024,41648,3,Clicked
+acc_00023232,Influencer,Q3_Payday_2025,9405,4,No engagement
+acc_00023233,Influencer,AlwaysOn_Search,19593,0,No engagement
+acc_00023234,Organic search,,1578,6,Opened
+acc_00023237,Direct,,1973,7,Clicked
+acc_00023238,Paid social,Q2_TaxFree_2024,20863,3,Opened
+acc_00023239,Paid search,Q4_Festive_2024,17886,8,No engagement
+acc_00023240,Organic search,,7243,1,No engagement
+acc_00023241,Paid social,Q2_TaxFree_2024,11980,0,No engagement
+acc_00023243,App store,Q1_YouthInvest_2024,21851,5,Opened
+acc_00023244,Referral,,4286,5,No engagement
+acc_00023245,Paid social,Q1_YouthInvest_2025,14320,5,No engagement
+acc_00023248,Referral,,2412,4,No engagement
+acc_00023249,Email,AlwaysOn_Search,42232,6,Clicked
+acc_00023250,Paid social,Q4_Festive_2024,19648,5,No engagement
+acc_00023251,Paid social,AlwaysOn_Search,20815,6,No engagement
+acc_00023252,Direct,,903,5,Clicked
+acc_00023255,Paid social,Q3_Payday_2025,12682,5,No engagement
+acc_00023256,Influencer,Q2_TaxFree_2026,17020,4,Clicked
+acc_00023258,App store,Q3_Payday_2024,31656,7,No engagement
+acc_00023260,Paid social,AlwaysOn_Search,55349,0,No engagement
+acc_00023261,Paid social,Q2_TaxFree_2026,30571,6,Opened
+acc_00023262,Email,Q4_Festive_2025,14925,2,Clicked
+acc_00023264,Paid search,Q3_Payday_2024,15619,10,Opened
+acc_00023265,Referral,,3586,2,Clicked
+acc_00023266,Paid social,Q2_TaxFree_2026,15050,6,No engagement
+acc_00023267,Paid social,Q1_YouthInvest_2024,11340,8,No engagement
+acc_00023268,Paid social,Q2_TaxFree_2026,23032,5,No engagement
+acc_00023269,Paid social,AlwaysOn_Search,21454,4,No engagement
+acc_00023270,Organic search,,4401,6,No engagement
+acc_00023271,Paid social,Q4_Festive_2024,11805,1,Opened
+acc_00023272,Paid search,Q2_TaxFree_2024,86813,7,No engagement
+acc_00023273,Paid social,Q1_YouthInvest_2024,13101,4,Opened
+acc_00023274,Paid social,AlwaysOn_Search,31068,3,No engagement
+acc_00023276,Referral,,3997,6,Opened
+acc_00023277,Organic search,,2875,7,Clicked
+acc_00023279,Paid search,Referral_Evergreen,16859,5,No engagement
+acc_00023280,Referral,,3768,4,No engagement
+acc_00023281,Influencer,Q4_Festive_2024,25776,8,No engagement
+acc_00023282,Paid social,Q3_Payday_2024,13790,8,Opened
+acc_00023283,App store,Q1_YouthInvest_2025,8042,2,No engagement
+acc_00023284,Paid search,Q1_StartSmall_2026,25029,1,Clicked
+acc_00023285,Referral,,2423,2,Clicked
+acc_00023287,Email,Q1_YouthInvest_2025,36043,3,Opened
+acc_00023288,Organic search,,4379,4,Clicked
+acc_00023289,Email,Q2_TaxFree_2024,14608,7,Clicked
+acc_00023290,Referral,,1652,5,Opened
+acc_00023291,Referral,,1981,6,Clicked
+acc_00023293,Organic search,,2763,6,No engagement
+acc_00023294,Organic search,,3370,2,No engagement
+acc_00023296,Email,Q1_YouthInvest_2024,10155,4,No engagement
+acc_00023300,Direct,,2040,4,No engagement
+acc_00023301,Paid social,Q4_Festive_2024,47132,3,Opened
+acc_00023304,Organic search,,2022,1,Opened
+acc_00023308,Referral,,2969,3,Opened
+acc_00023309,Referral,,3586,7,No engagement
+acc_00023310,Paid search,Q4_Festive_2025,30097,6,No engagement
+acc_00023311,Paid social,Referral_Evergreen,7638,1,Opened
+acc_00023312,Influencer,Q3_Payday_2025,23643,1,No engagement
+acc_00023313,Referral,,3850,7,Clicked
+acc_00023314,Organic search,,1275,2,No engagement
+acc_00023316,Influencer,Referral_Evergreen,28172,3,No engagement
+acc_00023317,Organic search,,2109,2,No engagement
+acc_00023318,App store,Q3_Payday_2024,10250,6,No engagement
+acc_00023319,Organic search,,4796,3,No engagement
+acc_00023320,Referral,,1088,6,Clicked
+acc_00023323,Referral,,8675,2,Clicked
+acc_00023327,Influencer,Referral_Evergreen,14834,4,Opened
+acc_00023328,Organic search,,4775,5,No engagement
+acc_00023332,Paid social,Q4_Festive_2025,49952,4,No engagement
+acc_00023334,App store,AlwaysOn_Search,19247,6,Opened
+acc_00023336,Email,Q1_YouthInvest_2024,23051,9,No engagement
+acc_00023338,Email,Q4_Festive_2024,24199,2,Opened
+acc_00023339,Email,Referral_Evergreen,26737,4,Opened
+acc_00023340,Referral,,2014,6,Opened
+acc_00023341,Email,Q2_TaxFree_2024,23423,4,Clicked
+acc_00023344,Organic search,,2577,6,No engagement
+acc_00023345,Influencer,Q2_TaxFree_2026,11882,2,Opened
+acc_00023346,Organic search,,3461,7,Opened
+acc_00023347,Paid social,AlwaysOn_Search,48924,3,No engagement
+acc_00023348,Paid social,Q1_StartSmall_2026,8013,3,Opened
+acc_00023352,Paid social,Q1_YouthInvest_2025,19888,5,Clicked
+acc_00023353,Paid search,Q1_YouthInvest_2025,25979,3,Clicked
+acc_00023354,Paid search,Q2_TaxFree_2026,35309,6,Clicked
+acc_00023355,Paid social,Q3_Payday_2025,21302,5,Opened
+acc_00023356,Paid social,Q3_Payday_2025,30916,9,Clicked
+acc_00023358,Paid social,Q3_Payday_2025,14615,6,No engagement
+acc_00023360,Influencer,Referral_Evergreen,26286,1,No engagement
+acc_00023363,Influencer,Q1_YouthInvest_2025,7372,4,Opened
+acc_00023364,Organic search,,4191,5,No engagement
+acc_00023365,App store,AlwaysOn_Search,14812,5,No engagement
+acc_00023367,Paid search,Q4_Festive_2025,13310,6,Clicked
+acc_00023375,Paid search,Q3_Payday_2024,23340,0,No engagement
+acc_00023376,Paid social,Q2_TaxFree_2024,22930,4,Clicked
+acc_00023377,Referral,,10445,0,No engagement
+acc_00023378,Referral,,1493,4,Clicked
+acc_00023380,Paid social,Q1_YouthInvest_2025,22472,5,Opened
+acc_00023381,Paid search,Q2_TaxFree_2026,12681,5,No engagement
+acc_00023382,Email,Q3_Payday_2024,39503,2,Opened
+acc_00023383,Email,AlwaysOn_Search,30175,1,Clicked
+acc_00023384,Influencer,Q1_YouthInvest_2025,12503,3,No engagement
+acc_00023385,Referral,,2165,9,No engagement
+acc_00023387,Direct,,1995,2,No engagement
+acc_00023388,Paid social,Q3_Payday_2025,7276,5,No engagement
+acc_00023392,Direct,,3400,8,No engagement
+acc_00023393,Referral,,1770,3,No engagement
+acc_00023395,Paid search,Q2_TaxFree_2024,42577,4,Clicked
+acc_00023397,Direct,,5099,6,No engagement
+acc_00023398,Paid social,Q1_YouthInvest_2024,23597,9,Opened
+acc_00023401,Email,Q1_StartSmall_2026,9095,4,Clicked
+acc_00023402,Organic search,,1724,2,Clicked
+acc_00023404,Referral,,2203,3,No engagement
+acc_00023405,Paid social,AlwaysOn_Search,29765,3,Clicked
+acc_00023406,Organic search,,4152,3,Opened
+acc_00023408,Referral,,5204,5,Clicked
+acc_00023411,Organic search,,3301,5,No engagement
+acc_00023412,Paid social,Referral_Evergreen,7733,6,Opened
+acc_00023413,Influencer,AlwaysOn_Search,55374,2,No engagement
+acc_00023414,Paid social,Q1_YouthInvest_2024,17032,0,No engagement
+acc_00023415,App store,Referral_Evergreen,14943,8,No engagement
+acc_00023416,Paid social,Q3_Payday_2025,13695,2,No engagement
+acc_00023417,Paid social,Q1_StartSmall_2026,20841,4,Clicked
+acc_00023419,Email,Q3_Payday_2024,17225,6,Clicked
+acc_00023423,Organic search,,2840,3,Opened
+acc_00023424,Email,Q2_TaxFree_2026,6120,7,Opened
+acc_00023426,App store,Q2_TaxFree_2024,36181,6,No engagement
+acc_00023427,Paid search,Q2_Offshore_2025,23591,6,No engagement
+acc_00023428,Organic search,,4005,5,Clicked
+acc_00023430,Email,Q2_TaxFree_2024,30421,4,No engagement
+acc_00023432,Paid social,AlwaysOn_Search,12694,6,No engagement
+acc_00023433,Referral,,3250,4,Opened
+acc_00023434,Paid search,Q4_Festive_2025,18808,5,Clicked
+acc_00023436,Paid social,Referral_Evergreen,12136,5,No engagement
+acc_00023438,Influencer,Q1_YouthInvest_2024,11875,2,No engagement
+acc_00023439,Organic search,,8917,3,No engagement
+acc_00023440,Email,Q3_Payday_2024,13569,10,Clicked
+acc_00023441,Referral,,1610,7,No engagement
+acc_00023442,Organic search,,3549,6,Clicked
+acc_00023443,App store,Q1_YouthInvest_2024,43372,6,Clicked
+acc_00023445,Direct,,2853,2,Opened
+acc_00023446,Paid social,AlwaysOn_Search,37103,5,No engagement
+acc_00023447,Email,Q2_TaxFree_2026,32621,8,Opened
+acc_00023448,Paid search,Q4_Festive_2024,8427,6,No engagement
+acc_00023449,Email,Q1_YouthInvest_2024,7917,4,No engagement
+acc_00023450,Email,Q1_YouthInvest_2024,9568,6,Clicked
+acc_00023454,Influencer,Q3_Payday_2025,16307,5,Opened
+acc_00023455,Paid social,Q2_Offshore_2025,14353,8,Opened
+acc_00023456,Email,Q2_TaxFree_2026,16953,5,No engagement
+acc_00023457,App store,AlwaysOn_Search,9576,5,No engagement
+acc_00023458,App store,Q2_TaxFree_2024,15681,3,No engagement
+acc_00023459,Paid search,Q2_Offshore_2025,8034,2,Opened
+acc_00023461,Paid social,Referral_Evergreen,89316,6,Opened
+acc_00023462,App store,Q1_YouthInvest_2025,10971,2,No engagement
+acc_00023464,Influencer,Q1_StartSmall_2026,6321,3,No engagement
+acc_00023465,Email,Q4_Festive_2025,7428,3,No engagement
+acc_00023466,Referral,,2261,5,Clicked
+acc_00023469,Email,Q4_Festive_2025,8083,8,Opened
+acc_00023471,Referral,,3353,1,No engagement
+acc_00023472,App store,Q2_TaxFree_2026,23862,5,Opened
+acc_00023473,Influencer,Q3_Payday_2024,34779,4,No engagement
+acc_00023474,Organic search,,3933,0,No engagement
+acc_00023475,Organic search,,2497,3,No engagement
+acc_00023476,Paid social,Referral_Evergreen,24946,6,No engagement
+acc_00023477,Organic search,,1643,5,No engagement
+acc_00023478,Referral,,1775,0,No engagement
+acc_00023479,Direct,,2672,6,No engagement
+acc_00023480,Paid social,Q1_YouthInvest_2024,11804,6,Opened
+acc_00023485,Paid search,Q2_Offshore_2025,16611,6,Opened
+acc_00023486,App store,Q1_YouthInvest_2024,20212,6,Opened
+acc_00023488,App store,Q1_YouthInvest_2025,17212,2,No engagement
+acc_00023490,Paid social,Q3_Payday_2025,5843,3,Clicked
+acc_00023492,Influencer,Q3_Payday_2025,18854,3,No engagement
+acc_00023493,Organic search,,1643,8,Clicked
+acc_00023494,Referral,,1676,8,No engagement
+acc_00023498,Referral,,5722,3,Opened
+acc_00023501,Organic search,,1853,3,No engagement
+acc_00023503,Paid social,Q1_YouthInvest_2024,51303,4,Opened
+acc_00023505,Email,AlwaysOn_Search,51771,4,Clicked
+acc_00023507,Referral,,7543,0,No engagement
+acc_00023509,Organic search,,2113,8,No engagement
+acc_00023511,App store,Q4_Festive_2025,23508,7,No engagement
+acc_00023512,Referral,,2583,4,Clicked
+acc_00023514,Paid social,Q2_Offshore_2025,37662,5,No engagement
+acc_00023515,Paid search,Q2_TaxFree_2024,11844,7,No engagement
+acc_00023516,Influencer,Q1_YouthInvest_2025,16628,6,Opened
+acc_00023518,Paid social,Q4_Festive_2025,24719,2,Clicked
+acc_00023519,Paid social,Q1_YouthInvest_2025,41188,1,No engagement
+acc_00023520,App store,Q2_Offshore_2025,29000,4,No engagement
+acc_00023521,Direct,,1972,1,Opened
+acc_00023523,App store,Q3_Payday_2025,10160,6,Opened
+acc_00023524,Paid search,Q3_Payday_2025,25013,4,No engagement
+acc_00023525,Paid social,Referral_Evergreen,14170,5,Clicked
+acc_00023526,Paid social,Q1_StartSmall_2026,20361,1,Opened
+acc_00023528,Paid social,Q2_Offshore_2025,11709,8,No engagement
+acc_00023529,Referral,,2373,7,Clicked
+acc_00023530,Referral,,3008,3,Clicked
+acc_00023531,Influencer,Q1_YouthInvest_2025,13437,4,Clicked
+acc_00023532,Organic search,,2614,5,Opened
+acc_00023533,Paid search,Q1_YouthInvest_2025,13890,4,Opened
+acc_00023535,Email,Q2_TaxFree_2026,8205,5,No engagement
+acc_00023536,App store,Referral_Evergreen,20275,2,Opened
+acc_00023537,Paid social,Q1_YouthInvest_2025,16980,5,Clicked
+acc_00023538,Email,Q4_Festive_2025,17448,3,No engagement
+acc_00023540,Paid social,Q3_Payday_2025,24274,1,Opened
+acc_00023541,Influencer,Q2_TaxFree_2026,12695,6,Clicked
+acc_00023545,Paid search,Q4_Festive_2025,14658,2,Opened
+acc_00023547,Organic search,,3800,5,No engagement
+acc_00023548,Paid search,Q1_StartSmall_2026,30838,3,Clicked
+acc_00023550,Paid social,Q1_YouthInvest_2025,15518,5,No engagement
+acc_00023552,Paid social,Q1_YouthInvest_2025,9893,5,Opened
+acc_00023554,Referral,,2729,5,No engagement
+acc_00023555,App store,Q1_YouthInvest_2025,23943,2,Clicked
+acc_00023557,Paid social,AlwaysOn_Search,45621,2,Opened
+acc_00023558,Paid search,Q1_YouthInvest_2025,11399,4,Clicked
+acc_00023562,Email,Q1_YouthInvest_2024,11263,6,Clicked
+acc_00023565,Email,Q3_Payday_2024,23361,5,No engagement
+acc_00023566,Referral,,2105,4,No engagement
+acc_00023567,Paid search,AlwaysOn_Search,20795,2,Opened
+acc_00023568,Organic search,,4955,6,Opened
+acc_00023571,Organic search,,4367,4,Opened
+acc_00023573,Paid social,Q1_StartSmall_2026,34323,0,No engagement
+acc_00023574,Paid search,Q2_Offshore_2025,21111,2,Opened
+acc_00023575,Influencer,Q3_Payday_2024,29359,5,No engagement
+acc_00023577,Influencer,Referral_Evergreen,15185,7,No engagement
+acc_00023580,Influencer,Q2_Offshore_2025,21182,4,No engagement
+acc_00023583,Email,Q1_StartSmall_2026,14266,3,Opened
+acc_00023584,Organic search,,1199,2,Opened
+acc_00023585,Influencer,Q3_Payday_2024,17074,4,No engagement
+acc_00023587,Referral,,4901,6,Opened
+acc_00023589,Organic search,,4357,6,Clicked
+acc_00023590,App store,AlwaysOn_Search,8032,0,No engagement
+acc_00023592,Organic search,,6031,3,Opened
+acc_00023593,Paid social,AlwaysOn_Search,8311,4,No engagement
+acc_00023601,Referral,,3537,3,Clicked
+acc_00023603,Paid social,Q2_Offshore_2025,29120,3,Opened
+acc_00023604,Paid search,Referral_Evergreen,17215,5,No engagement
+acc_00023606,Influencer,Q1_YouthInvest_2025,19224,10,Opened
+acc_00023607,Paid social,Q1_StartSmall_2026,13431,1,Clicked
+acc_00023609,Email,Q4_Festive_2025,12166,3,No engagement
+acc_00023612,Direct,,6663,7,Opened
+acc_00023613,App store,Q2_TaxFree_2026,4782,8,No engagement
+acc_00023614,App store,AlwaysOn_Search,24418,5,Opened
+acc_00023615,Organic search,,4471,7,Clicked
+acc_00023616,Paid search,Q4_Festive_2025,21638,5,Opened
+acc_00023617,Paid social,Q3_Payday_2024,14096,3,No engagement
+acc_00023618,Referral,,5189,7,No engagement
+acc_00023619,Influencer,AlwaysOn_Search,10436,6,No engagement
+acc_00023620,Influencer,Referral_Evergreen,13018,5,No engagement
+acc_00023621,Organic search,,4508,5,Clicked
+acc_00023622,App store,Q1_StartSmall_2026,18004,5,Opened
+acc_00023623,Email,Referral_Evergreen,18228,4,Opened
+acc_00023625,Paid search,Q3_Payday_2025,20247,4,Opened
+acc_00023628,Paid search,Q1_YouthInvest_2025,28458,8,Clicked
+acc_00023629,Paid social,Q3_Payday_2024,9175,5,Opened
+acc_00023630,Influencer,Q3_Payday_2024,17223,6,Clicked
+acc_00023631,Paid social,Q4_Festive_2024,18892,9,Clicked
+acc_00023632,Referral,,2180,6,Clicked
+acc_00023634,App store,Q3_Payday_2025,42449,5,No engagement
+acc_00023635,Paid social,Q1_YouthInvest_2024,16624,3,Opened
+acc_00023636,Paid social,Q4_Festive_2025,26905,6,No engagement
+acc_00023637,Influencer,Q1_StartSmall_2026,8020,2,No engagement
+acc_00023638,Paid social,Q4_Festive_2025,33758,4,No engagement
+acc_00023639,Organic search,,3207,4,Clicked
+acc_00023640,Referral,,1535,4,Clicked
+acc_00023642,Paid social,Q3_Payday_2024,22679,3,No engagement
+acc_00023643,Email,Referral_Evergreen,20487,6,Clicked
+acc_00023645,Paid social,Q2_TaxFree_2026,13330,2,Opened
+acc_00023646,App store,AlwaysOn_Search,13800,5,Opened
+acc_00023647,Paid search,AlwaysOn_Search,17844,6,Clicked
+acc_00023649,Influencer,Q1_YouthInvest_2025,18354,6,No engagement
+acc_00023650,Organic search,,3322,4,No engagement
+acc_00023651,Paid search,Q4_Festive_2025,32067,4,Opened
+acc_00023653,App store,Q4_Festive_2024,42142,4,Clicked
+acc_00023654,Paid social,Q1_YouthInvest_2025,10088,2,Clicked
+acc_00023655,Paid search,Q4_Festive_2024,37570,5,No engagement
+acc_00023656,Paid social,Q1_StartSmall_2026,9807,8,Clicked
+acc_00023658,Paid social,Q1_StartSmall_2026,7749,2,Opened
+acc_00023659,Paid search,Q1_YouthInvest_2024,7986,5,Opened
+acc_00023660,Direct,,2449,8,No engagement
+acc_00023661,Organic search,,3186,4,Opened
+acc_00023665,App store,Q4_Festive_2024,22961,3,No engagement
+acc_00023666,App store,Q2_TaxFree_2026,28152,5,Clicked
+acc_00023667,App store,Q2_TaxFree_2024,11650,2,Clicked
+acc_00023671,Direct,,3607,2,Clicked
+acc_00023672,Paid social,Q3_Payday_2024,13968,9,No engagement
+acc_00023674,Paid social,Q3_Payday_2024,31607,4,Clicked
+acc_00023675,App store,Q4_Festive_2024,24090,4,Clicked
+acc_00023676,Paid search,Q4_Festive_2025,24531,4,No engagement
+acc_00023677,Paid search,Q1_YouthInvest_2024,5606,4,Clicked
+acc_00023678,Paid social,Q3_Payday_2024,11768,6,Opened
+acc_00023679,Direct,,3198,3,No engagement
+acc_00023686,Paid social,AlwaysOn_Search,15995,4,Opened
+acc_00023689,Paid search,Q3_Payday_2024,16850,7,No engagement
+acc_00023690,Paid social,Q2_TaxFree_2026,16327,8,Clicked
+acc_00023691,Direct,,1566,4,No engagement
+acc_00023692,Paid social,Q1_StartSmall_2026,12820,6,Clicked
+acc_00023694,Organic search,,4588,5,Clicked
+acc_00023695,Paid social,Q4_Festive_2025,15408,3,Opened
+acc_00023696,Organic search,,5764,5,Opened
+acc_00023697,Paid search,Q1_StartSmall_2026,30544,4,No engagement
+acc_00023699,Paid social,Q1_YouthInvest_2025,27840,6,Clicked
+acc_00023700,Paid social,Q3_Payday_2025,18423,4,No engagement
+acc_00023701,Referral,,3342,12,No engagement
+acc_00023703,Organic search,,3836,2,Clicked
+acc_00023704,App store,Q3_Payday_2024,16536,8,Opened
+acc_00023705,Paid search,Q1_YouthInvest_2025,16612,4,Clicked
+acc_00023707,Influencer,Q3_Payday_2024,12263,9,No engagement
+acc_00023708,Organic search,,2405,4,Opened
+acc_00023709,Organic search,,5376,9,No engagement
+acc_00023710,Direct,,1327,1,No engagement
+acc_00023711,App store,Q1_YouthInvest_2025,32700,6,Opened
+acc_00023712,Referral,,2608,5,No engagement
+acc_00023713,Organic search,,2045,5,Clicked
+acc_00023715,Influencer,Referral_Evergreen,44113,3,Opened
+acc_00023717,Paid search,Q1_YouthInvest_2024,16671,6,Opened
+acc_00023718,Direct,,3428,7,No engagement
+acc_00023719,Paid social,Q1_StartSmall_2026,28577,9,Opened
+acc_00023720,Email,Q2_TaxFree_2024,9354,5,Opened
+acc_00023722,Influencer,Q1_StartSmall_2026,10041,2,Opened
+acc_00023723,Organic search,,5618,1,Opened
+acc_00023725,Organic search,,2862,2,Opened
+acc_00023729,Organic search,,5030,7,Clicked
+acc_00023730,Paid social,Q4_Festive_2025,23061,2,Clicked
+acc_00023731,Email,Q2_Offshore_2025,38846,3,Opened
+acc_00023732,Email,Q3_Payday_2024,34535,3,No engagement
+acc_00023733,Paid search,Referral_Evergreen,14558,7,No engagement
+acc_00023735,Referral,,1991,4,Opened
+acc_00023738,Paid social,Q3_Payday_2025,15747,1,Opened
+acc_00023739,Paid search,Q2_TaxFree_2024,16975,6,No engagement
+acc_00023740,Email,Q1_YouthInvest_2024,6848,4,No engagement
+acc_00023743,Referral,,2865,4,Opened
+acc_00023744,Paid social,Q1_YouthInvest_2024,64283,3,Opened
+acc_00023747,Email,Q1_YouthInvest_2024,7886,5,Opened
+acc_00023748,Paid search,Q2_TaxFree_2026,15635,4,No engagement
+acc_00023751,Referral,,4112,8,No engagement
+acc_00023752,Paid social,AlwaysOn_Search,10809,3,Opened
+acc_00023753,App store,Q1_YouthInvest_2024,6840,2,Opened
+acc_00023754,Paid search,Q1_YouthInvest_2024,9590,5,Clicked
+acc_00023755,Paid search,Q3_Payday_2024,44867,6,Clicked
+acc_00023756,Influencer,Q1_StartSmall_2026,14974,6,Clicked
+acc_00023758,App store,Q4_Festive_2025,9105,6,Clicked
+acc_00023759,Paid social,Q4_Festive_2024,9971,5,No engagement
+acc_00023760,Direct,,2145,7,No engagement
+acc_00023761,Referral,,1683,3,Opened
+acc_00023762,Organic search,,4284,4,Clicked
+acc_00023763,Paid social,Q2_TaxFree_2024,20017,6,No engagement
+acc_00023764,Referral,,2604,8,No engagement
+acc_00023765,App store,Q1_YouthInvest_2025,28052,5,No engagement
+acc_00023767,Paid social,Q1_YouthInvest_2024,27520,3,Clicked
+acc_00023769,App store,Referral_Evergreen,25773,11,Opened
+acc_00023770,Referral,,2096,6,Opened
+acc_00023771,Paid search,Q2_TaxFree_2026,14046,9,No engagement
+acc_00023772,Referral,,5131,6,Opened
+acc_00023774,Paid social,Q1_YouthInvest_2024,8311,5,No engagement
+acc_00023775,App store,Q1_YouthInvest_2024,11659,2,No engagement
+acc_00023776,Paid search,AlwaysOn_Search,14167,5,Opened
+acc_00023777,Direct,,6097,3,Opened
+acc_00023778,Referral,,11455,4,Opened
+acc_00023780,Paid social,Q1_YouthInvest_2024,65114,2,Opened
+acc_00023782,Referral,,2522,4,No engagement
+acc_00023783,Paid social,Q3_Payday_2024,17902,6,Opened
+acc_00023784,Referral,,2476,6,Opened
+acc_00023785,Paid social,Referral_Evergreen,11041,7,Opened
+acc_00023786,Referral,,5286,0,No engagement
+acc_00023787,App store,Q3_Payday_2024,29216,3,Opened
+acc_00023790,App store,Q4_Festive_2025,4796,8,No engagement
+acc_00023793,Paid social,Q1_YouthInvest_2025,28208,0,No engagement
+acc_00023795,Influencer,AlwaysOn_Search,17156,8,Clicked
+acc_00023796,Paid social,AlwaysOn_Search,30502,1,No engagement
+acc_00023797,Email,Q2_TaxFree_2024,23674,6,No engagement
+acc_00023798,Paid social,Q2_TaxFree_2024,13603,5,No engagement
+acc_00023799,Paid social,AlwaysOn_Search,32143,5,Opened
+acc_00023800,Paid social,Q1_YouthInvest_2024,18517,6,No engagement
+acc_00023802,Referral,,2475,5,Clicked
+acc_00023803,Organic search,,2849,6,Clicked
+acc_00023804,Organic search,,7516,7,Clicked
+acc_00023810,Referral,,2305,5,Clicked
+acc_00023812,Paid social,Q3_Payday_2025,14335,1,Opened
+acc_00023813,Email,Q1_YouthInvest_2024,15133,3,Opened
+acc_00023814,Paid search,Q1_YouthInvest_2024,30328,5,Clicked
+acc_00023815,Influencer,Q4_Festive_2025,28880,3,Opened
+acc_00023816,Email,Q4_Festive_2025,45891,7,Clicked
+acc_00023817,Influencer,Q3_Payday_2024,17564,5,Clicked
+acc_00023818,Paid social,Q1_YouthInvest_2025,10625,10,Opened
+acc_00023819,Paid social,Q2_TaxFree_2024,9589,4,Clicked
+acc_00023820,Paid search,Q3_Payday_2025,23546,4,Opened
+acc_00023822,Influencer,Q1_YouthInvest_2025,12323,8,Opened
+acc_00023823,Email,Q4_Festive_2025,4706,7,Opened
+acc_00023825,Paid search,Q2_Offshore_2025,56320,5,Clicked
+acc_00023826,Organic search,,5752,4,Clicked
+acc_00023827,App store,Q4_Festive_2025,24983,3,No engagement
+acc_00023829,Email,Q2_Offshore_2025,13743,8,No engagement
+acc_00023831,Referral,,1849,5,Clicked
+acc_00023833,Influencer,Q1_YouthInvest_2025,6468,9,Opened
+acc_00023835,App store,AlwaysOn_Search,12136,5,Clicked
+acc_00023836,Paid search,Q4_Festive_2025,11485,6,No engagement
+acc_00023838,Email,AlwaysOn_Search,15676,4,Clicked
+acc_00023840,Referral,,2414,3,Opened
+acc_00023842,Paid search,AlwaysOn_Search,13629,3,Clicked
+acc_00023843,Referral,,2994,3,Clicked
+acc_00023846,Influencer,Q1_YouthInvest_2024,18976,1,Clicked
+acc_00023847,Paid search,Q4_Festive_2025,25620,5,No engagement
+acc_00023848,Influencer,Q4_Festive_2025,20295,5,Opened
+acc_00023850,Paid social,Q4_Festive_2024,9815,4,Opened
+acc_00023852,App store,Q1_YouthInvest_2025,28517,5,No engagement
+acc_00023855,App store,Q3_Payday_2024,11259,1,No engagement
+acc_00023857,App store,Q3_Payday_2024,12414,5,Opened
+acc_00023858,Paid social,AlwaysOn_Search,22336,2,Opened
+acc_00023859,Organic search,,1982,2,Opened
+acc_00023861,App store,Q4_Festive_2024,17931,4,No engagement
+acc_00023862,Organic search,,11018,7,No engagement
+acc_00023863,App store,Q1_YouthInvest_2025,46453,7,No engagement
+acc_00023866,Organic search,,4009,5,No engagement
+acc_00023867,Influencer,Q1_StartSmall_2026,29897,4,No engagement
+acc_00023868,Organic search,,1661,9,Opened
+acc_00023869,Email,AlwaysOn_Search,16515,2,Clicked
+acc_00023870,Influencer,Referral_Evergreen,12770,3,Opened
+acc_00023871,App store,Referral_Evergreen,8540,6,No engagement
+acc_00023873,Influencer,Q2_TaxFree_2026,7687,6,Opened
+acc_00023874,Email,Q3_Payday_2025,17820,6,Clicked
+acc_00023875,Organic search,,1407,5,Clicked
+acc_00023876,Email,Q2_TaxFree_2026,12992,10,Clicked
+acc_00023877,Paid social,Q1_StartSmall_2026,19808,3,Opened
+acc_00023878,Paid search,Q2_Offshore_2025,27128,5,Opened
+acc_00023880,Organic search,,6311,5,Opened
+acc_00023881,Paid social,Q4_Festive_2025,44179,9,Clicked
+acc_00023882,Organic search,,1582,6,No engagement
+acc_00023883,Email,Q4_Festive_2025,17616,2,Opened
+acc_00023884,Email,Q3_Payday_2024,12100,5,No engagement
+acc_00023885,Referral,,3941,1,Opened
+acc_00023886,Paid social,Q2_TaxFree_2024,28800,6,No engagement
+acc_00023887,Paid social,Q2_TaxFree_2024,24607,3,Opened
+acc_00023888,Paid social,Q1_StartSmall_2026,7280,5,Opened
+acc_00023889,Paid social,Q3_Payday_2024,11361,5,Clicked
+acc_00023893,Paid social,Q1_YouthInvest_2025,22491,0,No engagement
+acc_00023895,Paid social,Q4_Festive_2024,17211,6,Clicked
+acc_00023897,Paid social,Q4_Festive_2024,18489,0,No engagement
+acc_00023898,Paid search,Q3_Payday_2024,17715,3,Clicked
+acc_00023901,Email,Q1_StartSmall_2026,7534,0,No engagement
+acc_00023902,Paid search,Q3_Payday_2025,24001,5,Clicked
+acc_00023903,Direct,,3081,3,Opened
+acc_00023904,Organic search,,3879,7,Clicked
+acc_00023905,Paid search,Q2_Offshore_2025,7529,8,No engagement
+acc_00023909,Paid social,AlwaysOn_Search,18281,5,No engagement
+acc_00023910,Paid social,Q2_TaxFree_2024,8405,1,No engagement
+acc_00023911,Paid social,Q2_TaxFree_2026,13094,3,No engagement
+acc_00023912,Direct,,2861,5,No engagement
+acc_00023915,App store,Q1_StartSmall_2026,12786,3,Clicked
+acc_00023916,Paid search,Q1_StartSmall_2026,17187,3,No engagement
+acc_00023918,Direct,,1284,5,No engagement
+acc_00023919,Organic search,,4368,2,Clicked
+acc_00023920,Direct,,3253,5,No engagement
+acc_00023922,Paid search,Q3_Payday_2024,46086,3,No engagement
+acc_00023923,App store,Q4_Festive_2025,22507,3,Clicked
+acc_00023925,Paid social,Q2_TaxFree_2026,28256,5,Opened
+acc_00023932,Influencer,Q1_YouthInvest_2025,20109,5,Opened
+acc_00023934,Paid search,Q2_TaxFree_2024,19214,6,Opened
+acc_00023935,Referral,,2446,5,No engagement
+acc_00023936,Paid search,Q2_TaxFree_2026,13667,4,Clicked
+acc_00023937,Email,Q1_YouthInvest_2025,12029,7,No engagement
+acc_00023938,Referral,,3147,1,No engagement
+acc_00023941,Organic search,,7468,3,No engagement
+acc_00023944,Organic search,,7926,6,No engagement
+acc_00023945,Organic search,,3137,6,Clicked
+acc_00023946,App store,Q3_Payday_2025,18104,0,No engagement
+acc_00023947,Email,Q4_Festive_2025,10827,6,Clicked
+acc_00023948,Paid search,Q1_YouthInvest_2025,5234,5,No engagement
+acc_00023949,Direct,,2530,2,Clicked
+acc_00023950,Email,Referral_Evergreen,20941,6,No engagement
+acc_00023951,Paid social,Referral_Evergreen,37121,5,Clicked
+acc_00023952,Paid search,Q4_Festive_2024,60764,5,No engagement
+acc_00023953,Email,Referral_Evergreen,13325,4,No engagement
+acc_00023954,Paid search,Q4_Festive_2025,15833,2,No engagement
+acc_00023955,Influencer,Referral_Evergreen,16647,5,No engagement
+acc_00023958,Paid social,Q2_TaxFree_2026,18514,5,Clicked
+acc_00023960,Influencer,Q1_StartSmall_2026,10311,2,Clicked
+acc_00023962,Paid search,Q2_Offshore_2025,16416,3,Clicked
+acc_00023964,Paid social,Q3_Payday_2025,8653,3,Opened
+acc_00023965,Paid social,Q2_Offshore_2025,27225,3,Opened
+acc_00023966,Organic search,,5967,4,No engagement
+acc_00023968,Paid social,Q1_StartSmall_2026,14049,5,No engagement
+acc_00023970,Referral,,6871,2,Opened
+acc_00023972,Referral,,1652,5,Opened
+acc_00023973,Organic search,,1458,7,Opened
+acc_00023975,Paid social,Q2_TaxFree_2024,17697,6,No engagement
+acc_00023977,Direct,,3028,4,Clicked
+acc_00023980,Referral,,5346,3,No engagement
+acc_00023981,Paid social,Q1_YouthInvest_2025,29863,2,Clicked
+acc_00023983,Organic search,,1648,5,Clicked
+acc_00023984,Referral,,3540,3,Opened
+acc_00023986,Influencer,Referral_Evergreen,3249,5,Opened
+acc_00023987,Email,Q2_TaxFree_2024,10927,8,Clicked
+acc_00023988,Paid search,Referral_Evergreen,23142,6,Opened
+acc_00023990,App store,Q3_Payday_2025,11469,6,No engagement
+acc_00023992,Direct,,2530,4,Clicked
+acc_00023993,Referral,,2791,4,Opened
+acc_00023994,App store,Q2_TaxFree_2024,10185,7,Clicked
+acc_00023995,Referral,,1292,5,No engagement
+acc_00023997,Paid social,Q2_Offshore_2025,20993,1,No engagement
+acc_00023998,Paid social,Q2_Offshore_2025,22557,2,No engagement
+acc_00024000,Paid search,Q3_Payday_2024,9761,3,Opened
+acc_00024001,Referral,,3183,6,No engagement
+acc_00024002,Referral,,3765,4,No engagement
+acc_00024003,Influencer,Q4_Festive_2025,44592,2,No engagement
+acc_00024004,Paid search,Q2_TaxFree_2024,18549,2,Opened
+acc_00024005,Organic search,,2806,5,No engagement
+acc_00024007,Paid search,AlwaysOn_Search,15469,7,No engagement
+acc_00024009,App store,Q1_StartSmall_2026,11114,3,Clicked
+acc_00024010,App store,AlwaysOn_Search,9894,7,Opened
+acc_00024012,Paid social,Q1_YouthInvest_2025,20540,7,Opened
+acc_00024013,Paid social,Q1_StartSmall_2026,28785,6,Opened
+acc_00024014,Organic search,,3848,4,Clicked
+acc_00024016,App store,Q1_YouthInvest_2025,21142,6,No engagement
+acc_00024018,Paid search,Q4_Festive_2025,10354,8,No engagement
+acc_00024019,Organic search,,4326,6,Opened
+acc_00024020,Email,Q1_StartSmall_2026,8393,5,Opened
+acc_00024021,Paid social,Q4_Festive_2024,22558,2,No engagement
+acc_00024022,Influencer,Q4_Festive_2025,9801,3,No engagement
+acc_00024024,Referral,,3855,6,No engagement
+acc_00024025,Organic search,,3180,3,No engagement
+acc_00024026,Paid search,Q4_Festive_2024,15740,0,No engagement
+acc_00024027,Referral,,3084,2,Clicked
+acc_00024028,Organic search,,1773,3,Clicked
+acc_00024030,Email,Q4_Festive_2024,16564,7,Clicked
+acc_00024031,Organic search,,3656,5,Clicked
+acc_00024032,Organic search,,1432,1,No engagement
+acc_00024034,Paid search,Q4_Festive_2025,17712,5,No engagement
+acc_00024035,Paid social,Q2_TaxFree_2026,10956,5,No engagement
+acc_00024036,Paid social,Q2_TaxFree_2024,18394,8,No engagement
+acc_00024037,Influencer,AlwaysOn_Search,9518,7,Opened
+acc_00024038,Email,Q1_StartSmall_2026,35597,0,No engagement
+acc_00024039,Paid social,Q2_TaxFree_2024,22110,7,No engagement
+acc_00024041,Organic search,,1344,7,Clicked
+acc_00024042,Paid social,Q1_YouthInvest_2024,17202,4,No engagement
+acc_00024043,Paid social,Q2_TaxFree_2026,15776,4,Opened
+acc_00024045,App store,Q4_Festive_2024,12202,4,Clicked
+acc_00024048,Email,Q4_Festive_2025,7317,7,Clicked
+acc_00024049,Paid social,Q2_TaxFree_2026,17900,7,No engagement
+acc_00024051,Organic search,,4741,0,No engagement
+acc_00024052,Organic search,,3978,8,No engagement
+acc_00024053,Paid search,Q4_Festive_2024,16963,5,Opened
+acc_00024054,Organic search,,4131,5,Opened
+acc_00024056,Paid social,Q2_TaxFree_2026,37368,3,Clicked
+acc_00024057,App store,Q1_StartSmall_2026,9801,5,Clicked
+acc_00024059,Paid social,Q2_TaxFree_2024,23897,3,Clicked
+acc_00024060,Paid social,Q1_YouthInvest_2025,12874,2,Clicked
+acc_00024061,Organic search,,4834,5,Opened
+acc_00024063,Paid search,Q1_StartSmall_2026,10886,5,Opened
+acc_00024064,Email,Q2_TaxFree_2024,10415,3,Opened
+acc_00024065,Organic search,,3466,3,No engagement
+acc_00024066,Paid search,Q3_Payday_2025,16181,3,Opened
+acc_00024067,Organic search,,1456,11,Opened
+acc_00024068,Paid social,Referral_Evergreen,10295,1,No engagement
+acc_00024069,Organic search,,2750,4,No engagement
+acc_00024071,Email,AlwaysOn_Search,17114,7,No engagement
+acc_00024072,Email,AlwaysOn_Search,16210,2,Clicked
+acc_00024074,Referral,,2608,11,No engagement
+acc_00024076,Paid search,Q3_Payday_2024,14695,4,Opened
+acc_00024077,Paid search,Q2_Offshore_2025,23223,5,No engagement
+acc_00024079,Paid social,Q1_YouthInvest_2025,24967,5,Clicked
+acc_00024080,Paid social,Q2_TaxFree_2026,26543,8,No engagement
+acc_00024082,Organic search,,4764,5,Opened
+acc_00024085,Email,Q2_TaxFree_2024,23932,3,Clicked
+acc_00024086,Paid social,Q2_TaxFree_2026,22650,3,Opened
+acc_00024087,Paid social,Q2_Offshore_2025,24711,5,Opened
+acc_00024088,Organic search,,1922,3,Clicked
+acc_00024090,Paid social,Q4_Festive_2025,17662,5,No engagement
+acc_00024092,Paid social,Q3_Payday_2025,35461,6,Clicked
+acc_00024093,Paid social,AlwaysOn_Search,36905,10,No engagement
+acc_00024094,Influencer,Q3_Payday_2025,24953,6,Opened
+acc_00024095,Influencer,Q3_Payday_2024,22040,5,No engagement
+acc_00024099,Direct,,1796,4,Opened
+acc_00024101,Paid social,Q1_YouthInvest_2025,11586,4,Clicked
+acc_00024103,Organic search,,5020,7,No engagement
+acc_00024104,Paid search,Q1_YouthInvest_2025,35389,3,No engagement
+acc_00024106,Paid social,Q3_Payday_2025,16404,3,Clicked
+acc_00024107,Paid search,Q4_Festive_2024,13921,7,Clicked
+acc_00024110,Email,AlwaysOn_Search,11601,3,Clicked
+acc_00024113,Paid search,Q4_Festive_2025,14490,2,Clicked
+acc_00024114,Email,Q1_YouthInvest_2024,24828,8,No engagement
+acc_00024115,Influencer,Q3_Payday_2025,9949,3,No engagement
+acc_00024116,Organic search,,3512,5,Clicked
+acc_00024117,Paid social,Q3_Payday_2024,14971,6,No engagement
+acc_00024119,Paid social,Q4_Festive_2025,28915,5,No engagement
+acc_00024121,Organic search,,2263,4,Opened
+acc_00024122,App store,Q1_YouthInvest_2024,27435,4,Opened
+acc_00024123,Influencer,Q2_TaxFree_2026,9038,4,Clicked
+acc_00024124,Referral,,5759,6,Clicked
+acc_00024125,Influencer,Q2_TaxFree_2024,37796,2,No engagement
+acc_00024126,App store,Q1_YouthInvest_2024,29285,5,Opened
+acc_00024128,Paid social,Q1_YouthInvest_2024,27878,9,No engagement
+acc_00024130,Email,Q4_Festive_2025,16297,6,Opened
+acc_00024131,App store,Q3_Payday_2024,8345,7,No engagement
+acc_00024132,Paid social,Q2_TaxFree_2026,12337,2,No engagement
+acc_00024135,Direct,,4309,3,Opened
+acc_00024136,Paid search,Q2_Offshore_2025,13335,3,No engagement
+acc_00024137,Referral,,3754,3,Opened
+acc_00024138,Email,Q1_YouthInvest_2024,38537,0,No engagement
+acc_00024139,Paid search,AlwaysOn_Search,7474,5,No engagement
+acc_00024140,Paid search,AlwaysOn_Search,6856,3,No engagement
+acc_00024141,Organic search,,3905,2,Clicked
+acc_00024143,Referral,,3488,6,No engagement
+acc_00024146,Paid search,Q4_Festive_2025,7266,5,No engagement
+acc_00024149,Paid social,Referral_Evergreen,50453,3,No engagement
+acc_00024151,Paid search,Q4_Festive_2024,21548,8,Opened
+acc_00024152,Paid social,Q1_YouthInvest_2025,33132,0,No engagement
+acc_00024153,Influencer,Q1_StartSmall_2026,13464,3,Opened
+acc_00024154,Influencer,Q2_TaxFree_2024,17085,3,No engagement
+acc_00024160,Email,Q2_Offshore_2025,16276,1,Opened
+acc_00024161,Email,Q2_Offshore_2025,25207,4,No engagement
+acc_00024162,Paid social,Q4_Festive_2025,21909,7,No engagement
+acc_00024163,Paid search,Q3_Payday_2025,23319,3,Clicked
+acc_00024166,Paid social,AlwaysOn_Search,16229,7,No engagement
+acc_00024167,Email,Q2_TaxFree_2024,14229,12,Opened
+acc_00024169,Direct,,4784,2,No engagement
+acc_00024170,Paid social,Q2_TaxFree_2024,25151,2,Clicked
+acc_00024171,Paid search,Q2_TaxFree_2026,9052,5,No engagement
+acc_00024172,Organic search,,2958,5,No engagement
+acc_00024173,Referral,,6325,2,No engagement
+acc_00024174,Paid social,Q1_YouthInvest_2024,40898,3,No engagement
+acc_00024176,Influencer,Q1_YouthInvest_2024,20686,5,No engagement
+acc_00024177,Paid search,Q3_Payday_2025,19052,2,Opened
+acc_00024178,Paid search,Q3_Payday_2025,6874,5,Clicked
+acc_00024181,Paid social,Q4_Festive_2025,9859,3,No engagement
+acc_00024182,Direct,,2360,4,No engagement
+acc_00024183,Paid search,Q2_TaxFree_2024,8482,2,Clicked
+acc_00024186,Paid search,Q4_Festive_2025,12719,4,Clicked
+acc_00024187,Referral,,2384,6,No engagement
+acc_00024188,Paid search,Q2_TaxFree_2026,16888,3,Clicked
+acc_00024189,Referral,,4599,5,No engagement
+acc_00024190,Referral,,7960,4,Clicked
+acc_00024191,Organic search,,2694,5,No engagement
+acc_00024193,App store,Q3_Payday_2024,15746,7,Opened
+acc_00024195,Referral,,3070,4,Clicked
+acc_00024196,Paid search,Q2_TaxFree_2026,18487,2,No engagement
+acc_00024198,Direct,,3057,5,No engagement
+acc_00024201,Referral,,4779,5,Opened
+acc_00024203,Organic search,,3377,4,Opened
+acc_00024204,Direct,,3116,3,No engagement
+acc_00024205,App store,Q2_Offshore_2025,29242,7,Clicked
+acc_00024206,Influencer,Q4_Festive_2025,10780,2,No engagement
+acc_00024209,Referral,,6261,3,No engagement
+acc_00024210,Paid social,Q1_YouthInvest_2025,26771,6,No engagement
+acc_00024212,Paid social,Referral_Evergreen,34211,5,Opened
+acc_00024213,Email,Q2_Offshore_2025,21777,6,No engagement
+acc_00024214,Paid search,Referral_Evergreen,11015,7,Opened
+acc_00024216,Organic search,,5100,5,No engagement
+acc_00024218,App store,Q2_Offshore_2025,56154,5,Opened
+acc_00024220,Email,Q2_TaxFree_2026,25832,7,Clicked
+acc_00024224,Referral,,4571,4,Clicked
+acc_00024226,Referral,,3937,7,Clicked
+acc_00024227,Email,Q1_YouthInvest_2024,28395,3,No engagement
+acc_00024228,Email,Q3_Payday_2025,7668,4,No engagement
+acc_00024231,Influencer,Q2_TaxFree_2026,22005,5,Opened
+acc_00024232,App store,Q2_TaxFree_2026,17617,6,No engagement
+acc_00024233,App store,Q1_StartSmall_2026,6814,1,Opened
+acc_00024234,Organic search,,1075,6,Opened
+acc_00024235,Influencer,AlwaysOn_Search,14581,11,Clicked
+acc_00024236,App store,AlwaysOn_Search,17075,6,No engagement
+acc_00024237,Influencer,Q2_TaxFree_2026,24196,3,Opened
+acc_00024238,Paid social,Referral_Evergreen,8450,6,Opened
+acc_00024239,Paid social,Q1_StartSmall_2026,9173,5,Opened
+acc_00024240,Referral,,4795,4,Opened
+acc_00024241,Organic search,,5296,10,Clicked
+acc_00024242,Paid social,Q4_Festive_2024,7455,6,No engagement
+acc_00024243,Organic search,,5604,2,Clicked
+acc_00024244,Influencer,Referral_Evergreen,6064,6,No engagement
+acc_00024245,Paid social,Q4_Festive_2024,26195,6,Clicked
+acc_00024246,Email,Q2_Offshore_2025,8603,3,Opened
+acc_00024248,Paid social,AlwaysOn_Search,19174,7,No engagement
+acc_00024253,Email,AlwaysOn_Search,6510,5,Clicked
+acc_00024254,Organic search,,1474,6,Opened
+acc_00024255,App store,Q1_StartSmall_2026,19145,5,No engagement
+acc_00024256,Referral,,812,3,Opened
+acc_00024257,App store,Q2_Offshore_2025,9640,3,No engagement
+acc_00024258,Paid search,Q2_TaxFree_2024,13312,7,Opened
+acc_00024259,Organic search,,3433,4,Clicked
+acc_00024260,Paid social,Referral_Evergreen,10192,2,Clicked
+acc_00024261,Organic search,,2341,2,Opened
+acc_00024262,Direct,,2749,2,No engagement
+acc_00024263,App store,Q4_Festive_2025,29817,4,Opened
+acc_00024264,Email,AlwaysOn_Search,24887,5,Clicked
+acc_00024265,Influencer,Q2_TaxFree_2024,34952,4,No engagement
+acc_00024266,Influencer,Q2_TaxFree_2026,50354,1,No engagement
+acc_00024267,Organic search,,2274,0,No engagement
+acc_00024269,Referral,,2126,1,Clicked
+acc_00024270,Email,Q3_Payday_2025,42498,5,Opened
+acc_00024271,Paid social,AlwaysOn_Search,9886,7,Opened
+acc_00024272,Paid social,Q3_Payday_2025,13886,3,No engagement
+acc_00024274,Paid social,Q3_Payday_2024,7548,10,Clicked
+acc_00024275,App store,Q2_TaxFree_2024,4004,4,No engagement
+acc_00024276,Paid social,Q1_StartSmall_2026,12282,6,Opened
+acc_00024277,App store,Q1_StartSmall_2026,31549,8,Opened
+acc_00024278,Organic search,,3032,8,Opened
+acc_00024280,Referral,,4480,5,No engagement
+acc_00024281,Paid social,Q1_YouthInvest_2025,31486,4,No engagement
+acc_00024282,App store,Q2_TaxFree_2026,16150,5,Clicked
+acc_00024283,App store,Q4_Festive_2025,26602,0,No engagement
+acc_00024285,Paid social,Q1_StartSmall_2026,9341,4,Clicked
+acc_00024286,Paid search,Q1_YouthInvest_2024,19994,0,No engagement
+acc_00024287,Paid social,Q3_Payday_2024,30839,4,No engagement
+acc_00024288,Email,Q4_Festive_2025,24549,5,Clicked
+acc_00024290,Influencer,Q3_Payday_2024,14347,6,Clicked
+acc_00024291,Paid search,Q1_StartSmall_2026,14842,4,Opened
+acc_00024293,Organic search,,4466,5,No engagement
+acc_00024295,Organic search,,3955,7,Clicked
+acc_00024298,Paid search,AlwaysOn_Search,26638,5,Clicked
+acc_00024299,App store,Referral_Evergreen,17640,1,Opened
+acc_00024304,Paid social,Q2_TaxFree_2026,15582,2,No engagement
+acc_00024305,Referral,,3527,2,Opened
+acc_00024306,Paid search,Q1_StartSmall_2026,15008,5,No engagement
+acc_00024307,App store,Q3_Payday_2025,26873,8,Clicked
+acc_00024308,Email,Q1_YouthInvest_2024,19901,6,Opened
+acc_00024310,Paid search,AlwaysOn_Search,25189,7,No engagement
+acc_00024311,Referral,,4665,6,Opened
+acc_00024312,App store,Q1_YouthInvest_2025,9656,3,No engagement
+acc_00024316,Paid social,Q2_TaxFree_2024,24051,2,Opened
+acc_00024320,Referral,,5784,6,Clicked
+acc_00024322,App store,Q3_Payday_2024,32856,7,No engagement
+acc_00024324,Paid search,AlwaysOn_Search,13559,4,Opened
+acc_00024325,App store,Q2_TaxFree_2024,27496,5,Clicked
+acc_00024328,Paid social,Q3_Payday_2025,13322,6,No engagement
+acc_00024329,Paid social,Q2_Offshore_2025,3919,6,Clicked
+acc_00024330,Referral,,5547,3,Opened
+acc_00024332,Organic search,,6831,6,No engagement
+acc_00024334,Email,AlwaysOn_Search,19904,9,No engagement
+acc_00024335,App store,AlwaysOn_Search,20087,6,Clicked
+acc_00024336,App store,Q3_Payday_2025,31448,6,Clicked
+acc_00024339,Referral,,1733,8,Clicked
+acc_00024340,Organic search,,5017,5,No engagement
+acc_00024343,Direct,,6218,4,Opened
+acc_00024346,Paid social,Q2_TaxFree_2024,7707,6,Clicked
+acc_00024347,Paid social,Referral_Evergreen,15286,6,No engagement
+acc_00024349,Paid social,AlwaysOn_Search,15727,4,Clicked
+acc_00024350,Paid search,Q2_Offshore_2025,10402,5,No engagement
+acc_00024351,Paid social,Q1_YouthInvest_2024,22285,7,No engagement
+acc_00024352,Paid search,Q3_Payday_2024,7099,0,No engagement
+acc_00024354,Paid social,Q1_YouthInvest_2025,16059,1,Opened
+acc_00024355,Email,Referral_Evergreen,12721,10,No engagement
+acc_00024357,Paid social,Q1_YouthInvest_2025,26116,2,Opened
+acc_00024360,Email,Q3_Payday_2024,9323,7,No engagement
+acc_00024363,Referral,,1498,6,Clicked
+acc_00024364,Organic search,,2426,6,No engagement
+acc_00024365,Organic search,,3382,3,No engagement
+acc_00024366,Paid social,Q1_YouthInvest_2025,47033,3,Opened
+acc_00024367,Referral,,1912,5,No engagement
+acc_00024369,Paid social,Q4_Festive_2024,54932,5,No engagement
+acc_00024370,Influencer,Referral_Evergreen,59727,0,No engagement
+acc_00024375,Email,Q1_YouthInvest_2024,22039,8,Opened
+acc_00024376,Email,Q4_Festive_2025,21226,8,Clicked
+acc_00024381,Direct,,3854,5,No engagement
+acc_00024382,Influencer,Q1_StartSmall_2026,9800,6,Opened
+acc_00024383,Referral,,1881,5,Opened
+acc_00024384,Organic search,,1921,6,No engagement
+acc_00024386,Paid search,Q4_Festive_2025,15354,5,No engagement
+acc_00024387,Paid social,Q1_YouthInvest_2025,10024,4,Opened
+acc_00024388,Influencer,Q3_Payday_2024,53689,4,Opened
+acc_00024389,Paid social,Q2_Offshore_2025,18492,8,Opened
+acc_00024393,Paid search,Q1_StartSmall_2026,7806,7,Opened
+acc_00024395,App store,Referral_Evergreen,46096,4,Opened
+acc_00024396,Paid search,Referral_Evergreen,27118,5,Clicked
+acc_00024398,Email,AlwaysOn_Search,27410,1,No engagement
+acc_00024402,Paid social,Q3_Payday_2024,15474,9,Opened
+acc_00024404,Organic search,,2927,0,No engagement
+acc_00024405,Paid social,Q4_Festive_2024,19689,1,No engagement
+acc_00024406,Direct,,2055,7,Opened
+acc_00024407,Paid search,Q4_Festive_2025,10706,8,Opened
+acc_00024408,App store,Q2_TaxFree_2026,20463,3,No engagement
+acc_00024409,Organic search,,10794,6,Clicked
+acc_00024410,Paid social,Referral_Evergreen,22540,1,Clicked
+acc_00024411,Paid social,Q2_TaxFree_2026,15134,4,Opened
+acc_00024412,Influencer,Q4_Festive_2024,16751,6,Clicked
+acc_00024413,Referral,,2915,3,Opened
+acc_00024414,App store,Q2_Offshore_2025,25707,4,Clicked
+acc_00024415,Paid social,AlwaysOn_Search,7261,8,Opened
